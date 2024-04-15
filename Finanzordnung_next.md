@@ -1,20 +1,20 @@
 # Finanzordnung der Studierendenschaft der Hochschule Emden/Leer
 
-in der Fassung vom 08. Januar 2020
+in der Fassung vom XX. April 2024
 
 Kontoinhaber der Studierendenschaft ist "Die Studierendenschaft der Hochschule Emden/Leer, vertreten durch den Allgemeinen Studierendenausschuss".
 
-Gültig sind die "Rahmenvorgaben für die Finanzordnung der Studierendenschaft gem. §20 (4) NHG Stand: 01.12.2018", <u>die diesem Dokument angehängt sind</u>.
+Gültig sind die "Rahmenvorgaben für die Finanzordnung der Studierendenschaft gem. §20 (4) NHG Stand: XX.YY.2024", <u>die diesem Dokument angehängt sind</u>.
 
 ## §1 Beginn und Ende des Haushaltsjahres
 
 Das Haushaltsjahr beginnt am 01. März und endet am jeweils letzten Tag des Februars des Folgejahres.
 
-## §2 Geschäftsführender Vorstand
+## §2 AStA-Vorstand
 
-(1) Freizeichnungs- und bankbevollmächtigt sind nur die AStA-Vorsitzenden gemeinsam mit der Finanzreferentin¹ und/oder ihre Stellvertreterin (auch „Geschäftsführender Vorstand" genannt). Zwingend erforderlich ist die Unterschrift eines Mitglieds des Finanzreferats und eines Vorsitzes. Das Vier-Augen-Prinzip ist einzuhalten.
+(1) Freizeichnungs- und bankbevollmächtigt sind nur die beiden AStA-Vorsitzenden gemeinsam mit den beiden Finanzreferentinnen¹ (auch „Vorstand" genannt). Zwingend erforderlich ist die Unterschrift einer Finanzreferentin und eines Vorsitzes. Das Vier-Augen-Prinzip ist einzuhalten.
 
-(2) Bei Änderung eines freizeichnungsberechtigten AStA-Mitglieds ist durch den geschäftsführenden Vorstand des AStA innerhalb von zwei Wochen ein Schriftstück der Bank vorzuweisen, in dem der Entzug der Zeichnungsberechtigung des scheidenden AStA-Mitglieds belegt wird.
+(2) Bei Änderung der Besetzung des AStA-Vorstands ist dem StuPa durch den AStA-Vorstand innerhalb von zwei Wochen ein Schriftstück der Bank vorzuweisen, in dem der Entzug der Zeichnungsberechtigung des scheidenden Vorstandsmitglieds bestätigt wird.
 
 ## §3 Neubesetzung des Finanzreferates
 
@@ -22,7 +22,7 @@ Für eine Neubesetzung des Postens der Finanzreferentin des AStA ist eine ordnun
 
 ## §4 Eingangsrechungsadresse
 
-Die Eingangsrechnungen sind auf den Allgemeinen Studierendenausschuss auszustellen. Zusätze für die jeweiligen Fachschaftsräte sind möglich.
+Die Eingangsrechnungen sind auf den Allgemeinen Studierendenausschuss auszustellen. Zusätze – beispielsweise für die jeweiligen Fachschaftsräte, Referate oder Organisationen – sind möglich.
 
 AStA Emden/Leer  
 z. HD. FSR/Einzelperson(AStA)/Referat  
@@ -41,7 +41,7 @@ Dieser Paragraph wurde gestrichen.
 
 ## §7 FSR Budget
 
-(1) Die Finanzreferentin des AStA oder ihre Stellvertreterin müssen für jeden FSR einen Titel im Haushaltsplan anlegen, auf dem das jeweilige Budget erfasst wird.
+(1) Die Finanzreferentinnen des AStA müssen für jeden FSR einen Titel im Haushaltsplan anlegen, auf dem das jeweilige Budget erfasst wird.
 
 (2) Die Budgets der einzelnen Fachschaftsräte berechnen sich wie folgt:
 
@@ -50,15 +50,15 @@ Dieser Paragraph wurde gestrichen.
 
 (3) Der AStA hat keine Weisungsbefugnis über die Budgets der Fachschaftsräte.
 
-(4) Die Budgetverantwortlichen der Fachschaftsräte und ihre Stellvertreterinnen haben die sachgemäße Umsetzung durch Unterschrift festzustellen. Die Budgetverantwortlichen oder deren Stellvertreterinnen sind berechtigt, die Richtigkeit der Rechnungsstellung zu überprüfen, und, sollte diese nicht in Ordnung sein, gegebenenfalls die Neustellung zu verlangen. Die sachlich richtige Beibringung zusätzlicher Belege kann ebenso verlangt werden und muss Folge geleistet werden.
+(4) Die beiden Finanzreferentinnen der Fachschaftsräte haben die sachgemäße Umsetzung durch Unterschrift festzustellen. Die AStA-Finanzreferentinnen sind berechtigt, die Richtigkeit der Rechnungsstellung zu überprüfen und gegebenenfalls die Neustellung zu verlangen, sollte diese nicht korrekt sein. Die Beibringung zusätzlicher Belege kann ebenso verlangt werden.
 
 ## §8 Soll-Ist-Vergleich und Einnahmenüberschussrechnung
 
-(1) In der Vorlesungszeit sollten der Finanzreferentin des AStA oder ihrer Stellvertreterin am Ende eines Monats, jedoch spätestens am Ende des Quartals², die Einnahmenüberschussrechnung jedes Titels eines jeden Fachschaftsrates im AStA vorgelegt werden.
+(1) In der Vorlesungszeit sollten die AStA-Finanzreferentinnen am Ende eines Monats, jedoch spätestens am Ende des Quartals², die Einnahmenüberschussrechnung jedes Titels eines jeden Fachschaftsrates im AStA vorgelegt werden.
 
-(2) Die jeweiligen Budgetverantwortlichen der Fachschaftsräte müssen die Einnahmenüberschussrechnung anfertigen und in ihrem Fachschaftsrat zehn Jahre verwahren. Nach der vorlesungsfreien Zeit sind alle Einnahmenüberschussrechnung aus diesem Zeitraum der Studierendenschaft zur Verfügung zu stellen.
+(2) Die jeweiligen FSR-Finanzreferentinnen müssen die Einnahmenüberschussrechnung anfertigen und in ihrem Fachschaftsrat zehn Jahre verwahren. Nach der vorlesungsfreien Zeit sind alle Einnahmenüberschussrechnung aus diesem Zeitraum der Studierendenschaft zur Verfügung zu stellen.
 
-(3) Die Finanzreferentin des AStA oder ihre Stellvertreterin muss einen Soll-Ist-Vergleich am Ende jedes Quartals angefertigt und vorliegen haben. Diese müssen zehn Jahre verwahrt werden und sind nach der vorlesungsfreien Zeit der Studierendenschaft zur Verfügung zu stellen. Die Quartalsberichte müssen dem StuPa in der nächstmöglichen Sitzung vorgestellt werden.
+(3) Die AStA-Finanzreferentinnen müssen einen Soll-Ist-Vergleich am Ende jedes Quartals angefertigt und vorliegen haben. Diese müssen zehn Jahre verwahrt werden und sind nach der vorlesungsfreien Zeit der Studierendenschaft zur Verfügung zu stellen. Die Quartalsberichte müssen dem StuPa in der nächstmöglichen Sitzung vorgestellt werden.
 
 ## §9 Regelung zur Bewilligung von Ausgaben
 
