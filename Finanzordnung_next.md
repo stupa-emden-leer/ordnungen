@@ -2,9 +2,9 @@
 
 in der Fassung vom XX. April 2024
 
-Kontoinhaber der Studierendenschaft ist "Die Studierendenschaft der Hochschule Emden/Leer, vertreten durch den Allgemeinen Studierendenausschuss".
+Kontoinhaber der Studierendenschaft ist „Die Studierendenschaft der Hochschule Emden/Leer, vertreten durch den Allgemeinen Studierendenausschuss“.
 
-Gültig sind die "Rahmenvorgaben für die Finanzordnung der Studierendenschaft gem. §20 (4) NHG Stand: XX.YY.2024", <u>die diesem Dokument angehängt sind</u>.
+Gültig sind die „Rahmenvorgaben für die Finanzordnung der Studierendenschaft gem. §20 (4) NHG Stand: XX.YY.2024“, _die diesem Dokument angehängt sind_.
 
 ## §1 Beginn und Ende des Haushaltsjahres
 
@@ -31,7 +31,7 @@ Constantiaplatz 4
 
 ## §5 Haushaltsplan
 
-(1) Der AStA hat zum letzten ordentlichen Sitzungstermin des Studierendenparlamentes vor dem Ende des Haushaltsjahres einen abstimmungsfähigen Haushaltsentwurf für das Folgejahr vorzulegen. Die Vorlage des abgeschlossenen Haushaltes ist bis sechs Wochen nach Ende des Haushaltsjahres beim Studierendenparlament vorzulegen. Aus den Restmitteln, die gemäß Rahmenvorgaben lfd. Nr. 12 maximal 50% der Haushaltsmittel des abgelaufenen Haushaltsjahres, Ausnahmen sind durch die Hochschulleitung zu genehmigen, betragen dürfen, ist ein Nachtragshaushalt zu formulieren und ebenfalls vorzulegen.
+(1) Der AStA hat zum letzten ordentlichen Sitzungstermin des Studierendenparlamentes vor dem Ende des Haushaltsjahres einen abstimmungsfähigen Haushaltsentwurf für das Folgejahr vorzulegen. Die Vorlage des abgeschlossenen Haushaltes ist bis sechs Wochen nach Ende des Haushaltsjahres beim Studierendenparlament vorzulegen. Aus den Restmitteln, die gemäß Rahmenvorgaben lfd. Nr. 12 maximal 50% der Haushaltsmittel des abgelaufenen Haushaltsjahres – Ausnahmen sind durch die Hochschulleitung zu genehmigen – betragen dürfen, ist ein Nachtragshaushalt zu formulieren und ebenfalls vorzulegen.
 
 (2) Geplante Änderungen der Beitragsordnung und eine damit verknüpfte Änderung des AStA-Beitrages sind rechtzeitig schriftlich und begründet der Hochschulleitung zur Prüfung und Freigabe anzuzeigen. Die Festsetzung des AStA-Beitrages hat mit Genehmigung des Haushaltsplans zu Beginn des Haushaltsjahres zu erfolgen (vgl. § 31 Absatz (2) der Organisationssatzung). Die Fristen des Immatrikulationsamtes sind zu beachten.
 
@@ -46,7 +46,7 @@ Dieser Paragraph wurde gestrichen.
 (2) Die Budgets der einzelnen Fachschaftsräte berechnen sich wie folgt:
 
 - Jeder Fachschaftsrat hat einen Fixbetrag von 1.000,- € pro Haushaltsjahr zur Verfügung.
-- Der Rest, der im Haushalt bereitgestellten Summe, wird prozentual, gemessen an der aktuellen Anzahl der im jeweiligen Fachbereich bzw. der jeweiligen Abteilung eingeschriebenen Studierenden zur Gesamtzahl aller Studierenden der Hochschule Emden/Leer, aufgeteilt.
+- Der Rest der im Haushalt bereitgestellten Summe wird prozentual, gemessen an der aktuellen Anzahl der im jeweiligen Fachbereich bzw. der jeweiligen Abteilung eingeschriebenen Studierenden zur Gesamtzahl aller Studierenden der Hochschule Emden/Leer, aufgeteilt.
 
 (3) Der AStA hat keine Weisungsbefugnis über die Budgets der Fachschaftsräte.
 
@@ -77,9 +77,9 @@ Bei den genannten Beträgen handelt es sich um Bruttobeträge.
 
 (1) Die Studierendenschaft darf zur Erfüllung ihrer Aufgaben Spenden, Schenkungen und ähnliche Zuwendungen annehmen.
 
-(2) Sponsoring-Verträge müssen dem StuPa, für eine eingehende Prüfung vor dem Abschluss der Verträge, vorgelegt werden.  
+(2) Sponsoring-Verträge müssen dem StuPa für eine eingehende Prüfung vor dem Abschluss der Verträge vorgelegt werden.  
 (a) Sponsoring-Verträge sind vom StuPa zu genehmigen.  
-(b) Sponsoring-Verträge müssen über ein Steuerberatungsbüro, oder Ähnliches, abgewickelt werden.
+(b) Sponsoring-Verträge müssen über ein Steuerberatungsbüro oder Ähnliches abgewickelt werden.
 
 (3) Spendeneingänge (z.B. Geld- oder Sachspenden) sind im Vorfeld der Annahme mit der Finanzbuchhaltung (FiBu) der Hochschule abzustimmen. Fachschaftsräte benötigen zur Annahme von Spenden die Genehmigung des AStA-Vorstands.
 
