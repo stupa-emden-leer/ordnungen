@@ -6,13 +6,22 @@ Kontoinhaber der Studierendenschaft ist „Die Studierendenschaft der Hochschule
 
 Gültig sind die „Rahmenvorgaben für die Finanzordnung der Studierendenschaft gem. §20 (4) NHG Stand: XX.YY.2024“, _die diesem Dokument angehängt sind_.
 
+Aus Gründen der Lesbarkeit wird in dieser Ordnung die feminine Form verwendet.
+
 ## §1 Beginn und Ende des Haushaltsjahres
 
-Das Haushaltsjahr beginnt am 01. März und endet am jeweils letzten Tag des Februars des Folgejahres.
+(1) Das Haushaltsjahr beginnt am 01. März und endet am jeweils letzten Tag des Februars des Folgejahres.
+
+(2) Das Haushaltsjahr ist in folgende Quartale aufgeteilt:
+
+1. 01.03. – 31.05.
+2. 01.06. – 31.08.
+3. 01.09. – 30.11.
+4. 01.12. – 28/29.02.
 
 ## §2 AStA-Vorstand
 
-(1) Freizeichnungs- und bankbevollmächtigt sind nur die beiden AStA-Vorsitzenden gemeinsam mit den beiden Finanzreferentinnen¹ (auch „Vorstand" genannt). Zwingend erforderlich ist die Unterschrift einer Finanzreferentin und eines Vorsitzes. Das Vier-Augen-Prinzip ist einzuhalten.
+(1) Freizeichnungs- und bankbevollmächtigt sind nur die beiden AStA-Vorsitzenden gemeinsam mit den beiden Finanzreferentinnen (auch „Vorstand" genannt). Zwingend erforderlich ist die Unterschrift einer Finanzreferentin und eines Vorsitzes. Das Vier-Augen-Prinzip ist einzuhalten.
 
 (2) Bei Änderung der Besetzung des AStA-Vorstands ist dem StuPa durch den AStA-Vorstand innerhalb von zwei Wochen ein Schriftstück der Bank vorzuweisen, in dem der Entzug der Zeichnungsberechtigung des scheidenden Vorstandsmitglieds bestätigt wird.
 
@@ -39,7 +48,7 @@ Constantiaplatz 4
 
 Dieser Paragraph wurde gestrichen.
 
-## §7 FSR Budget
+## §7 Budget der Fachschaftsräte
 
 (1) Die Finanzreferentinnen des AStA müssen für jeden FSR einen Titel im Haushaltsplan anlegen, auf dem das jeweilige Budget erfasst wird.
 
@@ -54,11 +63,11 @@ Dieser Paragraph wurde gestrichen.
 
 ## §8 Soll-Ist-Vergleich und Einnahmenüberschussrechnung
 
-(1) In der Vorlesungszeit sollten die AStA-Finanzreferentinnen am Ende eines Monats, jedoch spätestens am Ende des Quartals², die Einnahmenüberschussrechnung jedes Titels eines jeden Fachschaftsrates im AStA vorgelegt werden.
+(1) In der Vorlesungszeit sollten die AStA-Finanzreferentinnen am Ende eines Monats, jedoch spätestens am Ende des Quartals gemäß §1 Absatz 2, die Einnahmenüberschussrechnung jedes Titels eines jeden Fachschaftsrates im AStA vorgelegt werden.
 
 (2) Die jeweiligen FSR-Finanzreferentinnen müssen die Einnahmenüberschussrechnung anfertigen und in ihrem Fachschaftsrat zehn Jahre verwahren. Nach der vorlesungsfreien Zeit sind alle Einnahmenüberschussrechnung aus diesem Zeitraum der Studierendenschaft zur Verfügung zu stellen.
 
-(3) Die AStA-Finanzreferentinnen müssen einen Soll-Ist-Vergleich am Ende jedes Quartals angefertigt und vorliegen haben. Diese müssen zehn Jahre verwahrt werden und sind nach der vorlesungsfreien Zeit der Studierendenschaft zur Verfügung zu stellen. Die Quartalsberichte müssen dem StuPa in der nächstmöglichen Sitzung vorgestellt werden.
+(3) Die AStA-Finanzreferentinnen müssen einen Soll-Ist-Vergleich am Ende jedes Quartals gemäß §1 Absatz 2 angefertigt und vorliegen haben. Diese müssen zehn Jahre verwahrt werden und sind nach der vorlesungsfreien Zeit der Studierendenschaft zur Verfügung zu stellen. Die Quartalsberichte müssen dem StuPa in der nächstmöglichen Sitzung vorgestellt werden.
 
 ## §9 Regelung zur Bewilligung von Ausgaben
 
@@ -117,9 +126,3 @@ Diese Finanzordnung tritt mit Veröffentlichung in Kraft.
 
 - Rahmenvorgaben für die Finanzordnung der Studierendenschaft gem. §20 (4) NHG Stand:
 01.12.2018
-
-
----
-
-¹ Aus Gründen der Lesbarkeit wird die feminine Form verwendet.  
-² Quartale: 01.03. - 31.05; 01.06. - 31.08.; 01.09. - 30.11.; 01.12. – 28/29.02.
