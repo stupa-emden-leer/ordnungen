@@ -71,16 +71,17 @@ Dieser Paragraph wurde gestrichen.
 
 ## §9 Regelung zur Bewilligung von Ausgaben
 
-(1) Regelungen zur Bewilligung von Ausgaben alle studentischen Organe betreffend:
+(1) Zur Bewilligung von Ausgaben ist je nach Betrag ausreichend:
 
-- Bis 100,- €: Entscheidung des jeweiligen Vorstandes
-- Ab 100,- €: Abstimmung im jeweiligen Gremium
-- Ab 200,- €: Entweder ist das Einholen von 3 Vergleichsangeboten zur Prüfung der Wirtschaftlichkeit oder die Nennung von Alleinstellungskriterien notwendig. Diese sind als Anlage dem Ursprungsbeleg bei zu legen.
-- Ab 1.000,- €: Einreichen eines durch das Gremium bestätigten Antrages zur Bewilligung beim Studierendenparlament. Die Vergleichsangebote bzw. Alleinstellungskriterien sind als Anlage beizufügen.
+- Unter 200,– €: Abstimmung im jeweiligen Gremium
+- Ab  200,– €: Entweder ist das Einholen von 3 Vergleichsangeboten zur Prüfung der Wirtschaftlichkeit oder die Nennung von Alleinstellungskriterien notwendig. Diese sind als Anlage dem Ursprungsbeleg bei zu legen.
+- Ab 1.000,– €: Einreichen eines durch das Gremium bestätigten Antrages zur Bewilligung beim Studierendenparlament. Die Vergleichsangebote bzw. Alleinstellungskriterien sind als Anlage beizufügen.
 
-Bei den genannten Beträgen handelt es sich um Bruttobeträge.
+(2) Bei gegebener Dringlichkeit ist bis zu einer Ausgabe in Höhe von 100,- € eine Entscheidung des jeweiligen Vorstandes ausreichend.
 
-(2) Auf Grund von Datenschutzgründen sind hiervon die Sozial- und Studentendarlehen ausgenommen. Hierzu existiert eine eigene Ordnung.
+(3) Bei den genannten Beträgen handelt es sich um Bruttobeträge.
+
+(4) Auf Grund von Datenschutzgründen sind hiervon die Sozial- und Studentendarlehen ausgenommen. Hierzu existiert eine eigene Ordnung.
 
 ## §10 Spenden und Sponsoring
 
