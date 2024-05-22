@@ -1,6 +1,6 @@
 # Geschäftsordnung des Studierendenparlaments der Hochschule Emden/Leer
 
-In der Fassung vom 6. März 2019
+in der Fassung vom 6. März 2019
 
 ## § 1 – Präambel
 
@@ -13,8 +13,7 @@ In der Fassung vom 6. März 2019
 Weiterhin heißt es in § 20 Absatz 2 NHG:  
 „Aufgaben, Zuständigkeit und Zusammensetzung der Organe der Studierendenschaft und ihrer Gliederungen regelt die Organisationssatzung der Studierendenschaft. Das Wahlrecht zu den Organen der Studierendenschaft wird in freier, gleicher und geheimer Wahl ausgeübt. Das Nähere regelt die Wahlordnung der Studierendenschaft.“
 
-(3) Auf dieser Grundlage gab sich die Studierendenschaft der Hochschule Emden/Leer eine Organisationssatzung, welche am 16.02.2011 vom Präsidium der Hochschule Emden/Leer
-genehmigt und veröffentlicht wurde. Darin heißt es im 1. Abschnitt § 2 Absatz 1:  
+(3) Auf dieser Grundlage gab sich die Studierendenschaft der Hochschule Emden/Leer eine Organisationssatzung, welche am 16.02.2011 vom Präsidium der Hochschule Emden/Leer genehmigt und veröffentlicht wurde. Darin heißt es im 1. Abschnitt § 2 Absatz 1:  
 „Die Selbstverwaltung der Studierenden umfasst insbesondere: Die Vertretung der Studierendenschaft der Hochschule Emden/Leer, die Wahrnehmung der hochschulpolitischen, sozialen, fachlichen und wirtschaftlichen Belange nach innen und außen, die Wahrnehmung der Interessen von Menschen mit Behinderungen, die Förderung der politischen Bildung, die Wahrnehmung der kulturellen und sportlichen Interessen, die Pflege der regionalen, überregionalen und internationalen Beziehungen zu anderen Studierendenschaften.“  
 Folgend in § 3 Absatz 1 OrgS StudSch HS E/L:  
 „Organe der Studierendenschaft sind:  
@@ -22,12 +21,12 @@ A. Das Studierendenparlament (StuPa)
 B. Der Allgemeine Studierendenausschuss (AStA)  
 C. Die Fachschaftsräte (FSR)“
 
-(4) Weiterhin heißt es im 2. Abschnitt § 9 Absätze 1 bis 3 OrgS StudSch HS E/L:
+(4) Weiterhin heißt es im 2. Abschnitt § 9 Absätze 1 bis 3 OrgS StudSch HS E/L:  
 „Das Studierendenparlament ist das oberste beschlussfassende (gewählte) Organ der Studierendenschaft. Die Mitglieder des Studierendenparlaments sind Vertreter der gesamten Studierendenschaft und an Weisungen und Aufträge Dritter nicht gebunden. Die Mitglieder des Studierendenparlaments sind verpflichtet, dem Studierendenparlament und der Studierendenschaft über ihre Arbeit und hochschulrelevante Vorgänge Bericht zu erstatten.“
 
 (5) Aus Gründen der besseren Lesbarkeit wird auf die Verwendung von der Genderform verzichtet.
 
-(6) Des Weiteren werden folgende Begriffe durch Kurzformen ersetzt:  
+(6) Des Weiteren werden folgende Begriffe durch Kurzformen ersetzt:
 - Hochschule Emden/Leer: HS E/L
 - Studierendenparlament der Hochschule Emden/Leer: StuPa
 - Allgemeiner Studierendenausschuss der Hochschule Emden/Leer: AStA
@@ -129,8 +128,7 @@ Die Sitzung ist auf vier Zeitstunden begrenzt. Sollten nicht alle Themen abgehan
 
 (3) Anträge sind dem Vorstand vor der Ladefrist zuzusenden. Sie werden dann in die Tagesordnung aufgenommen.
 
-(4) Nicht erledigte Tagesordnungspunkte werden in der nächsten Sitzung behandelt. Sofern es sich bei der nächsten Sitzung um eine außerordentliche handelt, ist das Studierendenparlament bei dieser Sitzung automatisch beschlussfähig. Die Tagesordnung einer außerordentlichen Sitzung kann
-nach Ladung nicht mehr verändert werden.
+(4) Nicht erledigte Tagesordnungspunkte werden in der nächsten Sitzung behandelt. Sofern es sich bei der nächsten Sitzung um eine außerordentliche handelt, ist das Studierendenparlament bei dieser Sitzung automatisch beschlussfähig. Die Tagesordnung einer außerordentlichen Sitzung kann nach Ladung nicht mehr verändert werden.
 
 (5) Feste Tagesordnungspunkte jeder Sitzung sind:  
 (a) TOP 1 Begrüßung, Überprüfung der Ladung und Feststellung der Beschlussfähigkeit  
@@ -277,13 +275,10 @@ sowie gemäß § 10 der Ordnung zur Sicherung guter wissenschaftlicher Praxis di
 (b) die genehmigte Tagesordnung,  
 (c) die Namen der anwesenden Personen,  
 (d) die Namen der entschuldigt und unentschuldigt fehlenden Abgeordneten,  
-(e) die Form der Beratung (öffentlich/nichtöffentlich) und der Abstimmung (offen/geheim)
-über die einzelnen Beratungsgegenstände, Name des Protokollanten die Ergebnisse von
-Wahlen,  
+(e) die Form der Beratung (öffentlich/nichtöffentlich) und der Abstimmung (offen/geheim) über die einzelnen Beratungsgegenstände, Name des Protokollanten die Ergebnisse von Wahlen,  
 (f) die Annahme oder Ablehnung von Anträgen,  
 (g) den Wortlaut der gefassten Beschlüsse,  
-(h) sonstige wesentliche Vermerke über den Verlauf der Sitzung (z.B. Unterbrechungen,
-Ordnungsmaßnahmen, entgegengesetzte Anträge),  
+(h) sonstige wesentliche Vermerke über den Verlauf der Sitzung (z.B. Unterbrechungen, Ordnungsmaßnahmen, entgegengesetzte Anträge),  
 (i) den wesentlichen Verlauf der Debatten.  
 (j) Namen des Protokollanten/der Protokollantin
 
@@ -305,9 +300,7 @@ Ordnungsmaßnahmen, entgegengesetzte Anträge),
 
 (4) Eine mögliche Entlastung eines Vorstandsmitglieds wird nur auf dessen Antrag hin geprüft.
 
-(5) Das beantragende Vorstandsmitglied muss dem Studierendenparlament einen schriftlichen
-Geschäfts- oder Rechenschaftsbericht vorlegen. Dieser Bericht ist dann die Grundlage des
-Entlastungsbeschlusses. Die Entlastungswirkung bezieht sich somit immer nur auf die Tatsachen, die dem Studierendenparlament aus dem eingereichten Bericht bekannt sind oder aus seiner allgemeinen Tätigkeit bekannt sein müssen. Für Tatsachen, die dem Studierendenparlament zum Zeitpunkt der Erteilung der Entlastung nicht bekannt waren oder hätten bekannt sein müssen, kann die Studierendenschaft nach wie vor Regressansprüche gegen das Vorstandsmitglied geltend machen.
+(5) Das beantragende Vorstandsmitglied muss dem Studierendenparlament einen schriftlichen Geschäfts- oder Rechenschaftsbericht vorlegen. Dieser Bericht ist dann die Grundlage des Entlastungsbeschlusses. Die Entlastungswirkung bezieht sich somit immer nur auf die Tatsachen, die dem Studierendenparlament aus dem eingereichten Bericht bekannt sind oder aus seiner allgemeinen Tätigkeit bekannt sein müssen. Für Tatsachen, die dem Studierendenparlament zum Zeitpunkt der Erteilung der Entlastung nicht bekannt waren oder hätten bekannt sein müssen, kann die Studierendenschaft nach wie vor Regressansprüche gegen das Vorstandsmitglied geltend machen.
 
 (6) Ein allgemeiner Anspruch auf Entlastung besteht nicht. Das Studierendenparlament kann die Entscheidung über die Erteilung einer Entlastung unter Angaben von Gründen auf unbestimmte Zeit aufschieben oder sie bei berechtigtem Verdacht auf Fehlern oder Missbrauch während der Amtszeit des Vorstandsmitglieds komplett ablehnen.
 
@@ -347,4 +340,4 @@ Abweichungen von den Vorschriften dieser Geschäftsordnung können im einzelnen 
 
 ## § 31 – Schlussbestimmung und Inkrafttreten
 
-Diese Geschäftsordnung tritt mit ihrer Verabschiedung durch das StuPa am 06.03.2019 in Kraft
+Diese Geschäftsordnung tritt mit ihrer Verabschiedung durch das StuPa am 06.03.2019 in Kraft.
