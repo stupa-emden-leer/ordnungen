@@ -25,6 +25,8 @@ Aus Gründen der Lesbarkeit wird in dieser Ordnung die feminine Form verwendet.
 
 (2) Bei Änderung der Besetzung des AStA-Vorstands ist dem StuPa durch den AStA-Vorstand innerhalb von zwei Wochen ein Schriftstück der Bank vorzuweisen, in dem der Entzug der Zeichnungsberechtigung des scheidenden Vorstandsmitglieds bestätigt wird.
 
+(3) Der AStA-Vorstand hat der Hochschulleitung und dem StuPa zu Beginn jedes Semesters eine Liste der Personen mit Bankbevollmacht vorzulegen.
+
 ## §3 Neubesetzung des Finanzreferates
 
 Für eine Neubesetzung des Postens der Finanzreferentin des AStA ist eine ordnungsgemäße Einarbeitung und eine Entlastung der scheidenden Finanzreferentin durch Unterschrift beider zu belegen.
