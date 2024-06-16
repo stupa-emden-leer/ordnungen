@@ -5,17 +5,12 @@ In der Fassung vom 14. März 2023
 ## § 1 – Präambel
 
 (1) Grundlage dieser Geschäftsordnung sind:
-
 - § 20 Absatz 1 Niedersächsisches Hochschulgesetz (NHG) in der letzten Änderung vom 16.12.2014,
+- Organisationssatzung der Studierendenschaft der Hochschule Emden/Leer (OrgS) in der Bekanntmachung vom 19.10.2023.
 
-- Organisationssatzung der Studierendenschaft der Hochschule
-Emden/Leer (OrgS) in der Bekanntmachung vom 19.10.2023.
-
-(2) Aus Gründen der besseren Lesbarkeit wird auf die Verwendung
-von der Genderform verzichtet.
+(2) Aus Gründen der besseren Lesbarkeit wird auf die Verwendung von der Genderform verzichtet.
 
 (3) Des Weiteren werden folgende Begriffe durch Kurzformen ersetzt:
-
 - Hochschule Emden/Leer: HS E/L
 - Studierendenparlament der Hochschule Emden/Leer: StuPa
 - Allgemeiner Studierendenausschuss der Hochschule Emden/Leer: AStA
@@ -80,21 +75,15 @@ von der Genderform verzichtet.
 
 (5) Ein Vorsitzender ist der Vorsitzende des Haushaltsausschusses.
 
-(6) Die weitere Verteilung der anfallenden Aufgaben, insbesondere
-der im Folgenden aufgelisteten, regelt der Vorstand unter sich:
-
+(6) Die weitere Verteilung der anfallenden Aufgaben, insbesondere der im Folgenden aufgelisteten, regelt der Vorstand unter sich:
 1. Betreuung des Moodle-Kurses „Das Studierendenparlament“
-
 2. Betreuung der Unterseite auf der Hochschulwebsite
-
 3. Das Einladen zu den Sitzungen.
 
 (7) Die Sitzungsleitung hat die Sitzung ordnungsgemäß zu leiten. Um diesen ordnungsgemäßen Ablauf zu gewährleisten, hat sie folgende Rechte und Pflichten:
-
-1. Redner, die nicht zur Sache sprechen, müssen zur Ordnung gerufen werden. Sollten sie nach zweimaligem Ermahnen nicht reagieren, so ist ihnen das Rederecht für diesen Tagesordnungspunkt zu entziehen.  
-2. Nach mehrmaligem Ermahnen kann die Sitzungsleitung einem Mitglied das Wort für die
-ganze Sitzung entziehen bzw. das Mitglied des Raumes verweisen.  
-3. Sollte ein StuPa-Mitglied oder ein Beisitzer in einer Sitzung beleidigend werden, so kann die Sitzungsleitung diese Person von der Sitzung ausschließen und sie des Raumes verweisen.  
+1. Redner, die nicht zur Sache sprechen, müssen zur Ordnung gerufen werden. Sollten sie nach zweimaligem Ermahnen nicht reagieren, so ist ihnen das Rederecht für diesen Tagesordnungspunkt zu entziehen.
+2. Nach mehrmaligem Ermahnen kann die Sitzungsleitung einem Mitglied das Wort für die ganze Sitzung entziehen bzw. das Mitglied des Raumes verweisen.
+3. Sollte ein StuPa-Mitglied oder ein Beisitzer in einer Sitzung beleidigend werden, so kann die Sitzungsleitung diese Person von der Sitzung ausschließen und sie des Raumes verweisen.
 4. Die Maßnahmen sind für alle Teilnehmer der Sitzung gültig.
 
 ## § 9 – Ladung
@@ -121,11 +110,9 @@ Die Sitzung ist auf vier Zeitstunden begrenzt. Sollten nicht alle Themen abgehan
 
 (3) Anträge sind dem Vorstand vor der Ladefrist zuzusenden. Sie werden dann in die Tagesordnung aufgenommen.
 
-(4) Nicht erledigte Tagesordnungspunkte werden in der nächsten Sitzung behandelt. Sofern es sich bei der nächsten Sitzung um eine außerordentliche handelt, ist das Studierendenparlament bei dieser Sitzung automatisch beschlussfähig. Die Tagesordnung einer außerordentlichen Sitzung kann
-nach Ladung nicht mehr verändert werden.
+(4) Nicht erledigte Tagesordnungspunkte werden in der nächsten Sitzung behandelt. Sofern es sich bei der nächsten Sitzung um eine außerordentliche handelt, ist das Studierendenparlament bei dieser Sitzung automatisch beschlussfähig. Die Tagesordnung einer außerordentlichen Sitzung kann nach Ladung nicht mehr verändert werden.
 
 (5) Feste Tagesordnungspunkte jeder Sitzung sind:
-
 1. „TOP 1 Begrüßung, Überprüfung der Ladung und Feststellung der Beschlussfähigkeit“
 2. „TOP 2 Genehmigung der Tagesordnung“
 3. „TOP 3 Genehmigung des Protokolls der vorhergehenden Sitzung“
@@ -141,11 +128,9 @@ nach Ladung nicht mehr verändert werden.
 
 (3) Weiterhin kann die Öffentlichkeit gemäß § 20 Absatz 1 Nummer 5 der OrgS ausgeschlossen werden.
 
-
 ## § 13 – Beschlussfähigkeit
 
 (1) Das StuPa ist beschlussfähig, wenn die Ladung ordnungsgemäß und mehr als die Hälfte seiner Mitglieder anwesend ist.
-
 1. Steht dem Studierendenparlament nach § 21 Absatz 5 der Wahlordnung der Studierendenschaft und § 24 Absatz 2 keine Vertretung zur Verfügung, ist das StuPa bereits mit einem Drittel seiner Mitglieder beschlussfähig.
 2. In den Einladungen zur Sitzung ist bei Zutreffen von § 13 Absatz 1 Nummer 1 explizit darauf hinzuweisen, dass die Beschlussfähigkeit des StuPa mit einem Drittel seiner Mitglieder gegeben ist.
 
@@ -186,7 +171,6 @@ Für Redebeiträge gilt eine reguläre Redezeit von bis zu fünf Minuten. Bei Ü
 ## § 18 – Anträge zur Geschäftsordnung (GO)
 
 (1) Anträge, die sich mit dem Verlauf der Sitzung befassen, sind Geschäftsordnungsanträge. Anträge zur Geschäftsordnung sind insbesondere:
-
 1. der Antrag auf Begrenzung der Redezeit,
 2. der Antrag auf Schluss der Redeliste,
 3. der Antrag auf Schluss der Debatte und sofortige Abstimmung,
@@ -221,7 +205,6 @@ Für Redebeiträge gilt eine reguläre Redezeit von bis zu fünf Minuten. Bei Ü
 ## § 19 – Abstimmungen
 
 (1) Abzustimmen ist in folgender Reihenfolge:
-
 1. Ja
 2. Nein
 3. Enthaltung
@@ -266,19 +249,15 @@ sowie gemäß § 10 der Ordnung zur Sicherung guter wissenschaftlicher Praxis di
 
 (1) Über jede Sitzung des StuPa ist ein Protokoll anzufertigen.
 
-(2) Es muss insbesondere enthalten:
-
+(2) Es muss insbesondere enthalten:  
 (a) Ort, Tag, Beginn und Ende der Sitzung,  
 (b) die genehmigte Tagesordnung,  
 (c) die Namen der anwesenden Personen,  
 (d) die Namen der entschuldigt und unentschuldigt fehlenden Abgeordneten,  
-(e) die Form der Beratung (öffentlich/nichtöffentlich) und der Abstimmung (offen/geheim)
-über die einzelnen Beratungsgegenstände, Name des Protokollanten die Ergebnisse von
-Wahlen,  
+(e) die Form der Beratung (öffentlich/nichtöffentlich) und der Abstimmung (offen/geheim) über die einzelnen Beratungsgegenstände, Name des Protokollanten die Ergebnisse von Wahlen,  
 (f) die Annahme oder Ablehnung von Anträgen,  
 (g) den Wortlaut der gefassten Beschlüsse,  
-(h) sonstige wesentliche Vermerke über den Verlauf der Sitzung (z.B. Unterbrechungen,
-Ordnungsmaßnahmen, entgegengesetzte Anträge),  
+(h) sonstige wesentliche Vermerke über den Verlauf der Sitzung (z.B. Unterbrechungen, Ordnungsmaßnahmen, entgegengesetzte Anträge),  
 (i) den wesentlichen Verlauf der Debatten.  
 (j) Namen des Protokollanten/der Protokollantin
 
@@ -300,9 +279,7 @@ Ordnungsmaßnahmen, entgegengesetzte Anträge),
 
 (4) Eine mögliche Entlastung eines Vorstandsmitglieds wird nur auf dessen Antrag hin geprüft.
 
-(5) Das beantragende Vorstandsmitglied muss dem Studierendenparlament einen schriftlichen
-Geschäfts- oder Rechenschaftsbericht vorlegen. Dieser Bericht ist dann die Grundlage des
-Entlastungsbeschlusses. Die Entlastungswirkung bezieht sich somit immer nur auf die Tatsachen, die dem Studierendenparlament aus dem eingereichten Bericht bekannt sind oder aus seiner allgemeinen Tätigkeit bekannt sein müssen. Für Tatsachen, die dem Studierendenparlament zum Zeitpunkt der Erteilung der Entlastung nicht bekannt waren oder hätten bekannt sein müssen, kann die Studierendenschaft nach wie vor Regressansprüche gegen das Vorstandsmitglied geltend machen.
+(5) Das beantragende Vorstandsmitglied muss dem Studierendenparlament einen schriftlichen Geschäfts- oder Rechenschaftsbericht vorlegen. Dieser Bericht ist dann die Grundlage des Entlastungsbeschlusses. Die Entlastungswirkung bezieht sich somit immer nur auf die Tatsachen, die dem Studierendenparlament aus dem eingereichten Bericht bekannt sind oder aus seiner allgemeinen Tätigkeit bekannt sein müssen. Für Tatsachen, die dem Studierendenparlament zum Zeitpunkt der Erteilung der Entlastung nicht bekannt waren oder hätten bekannt sein müssen, kann die Studierendenschaft nach wie vor Regressansprüche gegen das Vorstandsmitglied geltend machen.
 
 (6) Ein allgemeiner Anspruch auf Entlastung besteht nicht. Das Studierendenparlament kann die Entscheidung über die Erteilung einer Entlastung unter Angaben von Gründen auf unbestimmte Zeit aufschieben oder sie bei berechtigtem Verdacht auf Fehlern oder Missbrauch während der Amtszeit des Vorstandsmitglieds komplett ablehnen.
 
