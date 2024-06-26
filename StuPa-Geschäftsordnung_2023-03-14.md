@@ -5,15 +5,15 @@ In der Fassung vom 14. März 2023
 ## § 1 – Präambel
 
 (1) Grundlage dieser Geschäftsordnung sind:
-- § 20 Absatz 1 Niedersächsisches Hochschulgesetz (NHG) in der letzten Änderung vom 16.12.2014,
-- Organisationssatzung der Studierendenschaft der Hochschule Emden/Leer (OrgS) in der Bekanntmachung vom 19.10.2023.
+1. § 20 Absatz 1 Niedersächsisches Hochschulgesetz (NHG) in der letzten Änderung vom 16.12.2014,
+2. Organisationssatzung der Studierendenschaft der Hochschule Emden/Leer (OrgS) in der Bekanntmachung vom 19.10.2023.
 
 (2) Aus Gründen der besseren Lesbarkeit wird auf die Verwendung von der Genderform verzichtet.
 
 (3) Des Weiteren werden folgende Begriffe durch Kurzformen ersetzt:
-- Hochschule Emden/Leer: HS E/L
-- Studierendenparlament der Hochschule Emden/Leer: StuPa
-- Allgemeiner Studierendenausschuss der Hochschule Emden/Leer: AStA
+1. Hochschule Emden/Leer: HS E/L
+2. Studierendenparlament der Hochschule Emden/Leer: StuPa
+3. Allgemeiner Studierendenausschuss der Hochschule Emden/Leer: AStA
 
 ## § 2 – Konstituierung
 
@@ -131,12 +131,14 @@ Die Sitzung ist auf vier Zeitstunden begrenzt. Sollten nicht alle Themen abgehan
 ## § 13 – Beschlussfähigkeit
 
 (1) Das StuPa ist beschlussfähig, wenn die Ladung ordnungsgemäß und mehr als die Hälfte seiner Mitglieder anwesend ist.
-1. Steht dem Studierendenparlament nach § 21 Absatz 5 der Wahlordnung der Studierendenschaft und § 24 Absatz 2 keine Vertretung zur Verfügung, ist das StuPa bereits mit einem Drittel seiner Mitglieder beschlussfähig.
-2. In den Einladungen zur Sitzung ist bei Zutreffen von § 13 Absatz 1 Nummer 1 explizit darauf hinzuweisen, dass die Beschlussfähigkeit des StuPa mit einem Drittel seiner Mitglieder gegeben ist.
 
-(2) Ergeben sich im Verlauf der Sitzung Zweifel über die Beschlussfähigkeit, so ist diese auf Antrag eines StuPa-Mitglieds erneut durch die Sitzungsleitung festzustellen.
+(2) Steht dem Studierendenparlament nach § 21 Absatz 5 der Wahlordnung der Studierendenschaft und § 24 Absatz 2 keine Vertretung zur Verfügung, ist das StuPa bereits mit einem Drittel seiner Mitglieder beschlussfähig.
 
-(3) Ist das StuPa bei Eröffnung einer Sitzung nicht beschlussfähig, ist schnellstmöglich gemäß § 9 Absatz 5 zu einer außerordentlichen Sitzung mit gleicher Tagesordnung zu laden.
+(3) In den Einladungen zur Sitzung ist bei Zutreffen von § 13 Absatz 1 Nummer 1 explizit darauf hinzuweisen, dass die Beschlussfähigkeit des StuPa mit einem Drittel seiner Mitglieder gegeben ist.
+
+(4) Ergeben sich im Verlauf der Sitzung Zweifel über die Beschlussfähigkeit, so ist diese auf Antrag eines StuPa-Mitglieds erneut durch die Sitzungsleitung festzustellen.
+
+(5) Ist das StuPa bei Eröffnung einer Sitzung nicht beschlussfähig, ist schnellstmöglich gemäß § 9 Absatz 5 zu einer außerordentlichen Sitzung mit gleicher Tagesordnung zu laden.
 
 ## § 14 – Umlaufverfahren
 
@@ -231,17 +233,17 @@ Für Redebeiträge gilt eine reguläre Redezeit von bis zu fünf Minuten. Bei Ü
 
 ## § 21 – Hochschulkommissionen
 
-(1) Zur Erfüllung seiner Aufgaben wurden vom Senat folgende Kommissionen und Ausschüsse denen studentische Vertreter beiwohnen gemäß §§ 6 und 7 der Grundordnung eingerichtet:  
-(a) Forschung, Wissens- und Technologietransfer  
-(b) Haushalt und Planung  
-(c) Informations- und Kommunikationsinfrastruktur (einschl. Hochschulbibliothek)  
-(d) Gleichstellung  
-(e) Kommission zur Vergabe der Studiengebühren  
-(f) Wahlausschuss  
-Weiterhin wurde gemäß § 6 Grundordnung i. V. m. § 45 NHG die  
-(g) Kommission für Zentrale Studienangelegenheiten  
-sowie gemäß § 10 der Ordnung zur Sicherung guter wissenschaftlicher Praxis die  
-(h) Kommission für Folgenabschätzung und Ethik.
+(1) Zur Erfüllung seiner Aufgaben wurden vom Senat folgende Kommissionen und Ausschüsse denen studentische Vertreter beiwohnen gemäß §§ 6 und 7 der Grundordnung eingerichtet:
+1. Forschung, Wissens- und Technologietransfer
+2. Haushalt und Planung
+3. Informations- und Kommunikationsinfrastruktur (einschl. Hochschulbibliothek)
+4. Gleichstellung
+5. Kommission zur Vergabe der Studiengebühren
+6. Wahlausschuss
+Weiterhin wurde gemäß § 6 Grundordnung i. V. m. § 45 NHG die
+7. Kommission für Zentrale Studienangelegenheiten
+sowie gemäß § 10 der Ordnung zur Sicherung guter wissenschaftlicher Praxis die
+8. Kommission für Folgenabschätzung und Ethik.
 
 (2) Zwischen der konstituierenden Sitzung und der folgenden ordentlichen Sitzung des StuPa ist die Studierendenschaft angemessen von Existenz und Aufgaben der Kommissionen und Ausschüsse zu informieren. Dies obliegt dem Vorstand des StuPa. In der zweiten ordentlichen Sitzung der Amtsperiode sollen die Bewerber Gelegenheit bekommen sich vorzustellen. Daraufhin sollen die Ausschuss – und Kommissionsmitglieder aus dem Kreis der Bewerber gewählt werden.
 
@@ -249,17 +251,17 @@ sowie gemäß § 10 der Ordnung zur Sicherung guter wissenschaftlicher Praxis di
 
 (1) Über jede Sitzung des StuPa ist ein Protokoll anzufertigen.
 
-(2) Es muss insbesondere enthalten:  
-(a) Ort, Tag, Beginn und Ende der Sitzung,  
-(b) die genehmigte Tagesordnung,  
-(c) die Namen der anwesenden Personen,  
-(d) die Namen der entschuldigt und unentschuldigt fehlenden Abgeordneten,  
-(e) die Form der Beratung (öffentlich/nichtöffentlich) und der Abstimmung (offen/geheim) über die einzelnen Beratungsgegenstände, Name des Protokollanten die Ergebnisse von Wahlen,  
-(f) die Annahme oder Ablehnung von Anträgen,  
-(g) den Wortlaut der gefassten Beschlüsse,  
-(h) sonstige wesentliche Vermerke über den Verlauf der Sitzung (z.B. Unterbrechungen, Ordnungsmaßnahmen, entgegengesetzte Anträge),  
-(i) den wesentlichen Verlauf der Debatten.  
-(j) Namen des Protokollanten/der Protokollantin
+(2) Es muss insbesondere enthalten:
+1. Ort, Tag, Beginn und Ende der Sitzung,
+2. die genehmigte Tagesordnung,
+3. die Namen der anwesenden Personen,
+4. die Namen der entschuldigt und unentschuldigt fehlenden Abgeordneten,
+5. die Form der Beratung (öffentlich/nichtöffentlich) und der Abstimmung (offen/geheim) über die einzelnen Beratungsgegenstände, Name des Protokollanten die Ergebnisse von Wahlen,
+6. die Annahme oder Ablehnung von Anträgen,
+7. den Wortlaut der gefassten Beschlüsse,
+8. sonstige wesentliche Vermerke über den Verlauf der Sitzung (z.B. Unterbrechungen, Ordnungsmaßnahmen, entgegengesetzte Anträge),
+9. den wesentlichen Verlauf der Debatten.
+10. Namen des Protokollanten/der Protokollantin
 
 (3) Jede und jeder Abgeordnete kann verlangen, dass seine oder ihre abweichende Meinung zu einem Beschluss im Protokoll vermerkt wird.
 
@@ -291,9 +293,9 @@ sowie gemäß § 10 der Ordnung zur Sicherung guter wissenschaftlicher Praxis di
 
 ## § 25 – Gremienbescheinigungen
 
-(1) Voraussetzungen für eine Gremienbescheinigung sind:  
-(a) Regelmäßige Teilnahme an den StuPa-Sitzungen (nicht öfter als zweimaliges unentschuldigtes Fehlen bei ordentlichen Sitzungen)  
-(b) Wahrnehmen der Bürozeit (mindestens 90 Min./Woche) in Emden oder Leer
+(1) Voraussetzungen für eine Gremienbescheinigung sind:
+1. Regelmäßige Teilnahme an den StuPa-Sitzungen (nicht öfter als zweimaliges unentschuldigtes Fehlen bei ordentlichen Sitzungen)
+2. Wahrnehmen der Bürozeit (mindestens 90 Min./Woche) in Emden oder Leer
 
 (2) Auf besonderes Engagement (z.B. Arbeit in Ausschüssen, Infostände etc.) ist in den Gremienbescheinigungen besonders hinzuweisen.
 
