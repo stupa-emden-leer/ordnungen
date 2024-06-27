@@ -5,8 +5,8 @@ In der Fassung vom 14. März 2023
 ## § 1 – Präambel
 
 (1) Grundlage dieser Geschäftsordnung sind:
-1. § 20 Absatz 1 Niedersächsisches Hochschulgesetz (NHG) in der letzten Änderung vom 16.12.2014,
-2. Organisationssatzung der Studierendenschaft der Hochschule Emden/Leer (OrgS) in der Bekanntmachung vom 19.10.2023.
+1. § 20 Absatz 1 des Niedersächsischen Hochschulgesetzes in der letzten Änderung vom 16.12.2014,
+2. Organisationssatzung der Studierendenschaft der Hochschule Emden/Leer in der Bekanntmachung vom 19.10.2023.
 
 (2) Aus Gründen der besseren Lesbarkeit wird auf die Verwendung von der Genderform verzichtet.
 
@@ -29,7 +29,7 @@ In der Fassung vom 14. März 2023
 
 (2) Tritt ein Mitglied des Vorstandes während der Amtsperiode zurück, hat die Wahl eines Nachfolgers bzw. einer Nachfolgerin aus der Mitte des StuPa bei der nächsten Sitzung zu erfolgen.
 
-(3) Ein Mitglied des Vorstandes kann in geheimer Wahl abgewählt werden. Anschließend erfolgt die Wahl eines Nachfolgers nach § 3 Abs. 2.
+(3) Ein Mitglied des Vorstandes kann in geheimer Wahl abgewählt werden. Anschließend erfolgt die Wahl eines Nachfolgers nach § 3 Absatz 2.
 
 ## § 4 – Wahl des Haushaltsausschusses
 
@@ -39,7 +39,7 @@ In der Fassung vom 14. März 2023
 
 (3) Die Arbeit des Haushaltsausschusses richtet sich nach der Arbeit der Finanzordnung der Studierendenschaft (FO).
 
-(4) Tritt ein Mitglied des Haushaltsausschusses während der Amtsperiode zurück und sinkt damit die Zahl der Mitglieder unter die in § 4 Abs. 1, hat die Wahl eines Nachfolgers aus der Mitte des StuPa schnellstmöglich zu erfolgen.
+(4) Tritt ein Mitglied des Haushaltsausschusses während der Amtsperiode zurück und sinkt damit die Zahl der Mitglieder unter die in § 4 Absatz 1, hat die Wahl eines Nachfolgers aus der Mitte des StuPa schnellstmöglich zu erfolgen.
 
 ## § 5 – Zusammensetzung
 
@@ -61,7 +61,7 @@ In der Fassung vom 14. März 2023
 
 (2) Die AStA-Anwärter müssen zuvor über einen Zeitraum von mindestens einem Monat angemessen in ein Referat eingearbeitet worden sein. Ausnahmen sind auf Antrag möglich.
 
-(3) AStA-Mitglieder können in begründeten Fällen gemäß § 20 Absatz 1 Nummern 4 und 5 der OrgS vom StuPa abgewählt werden.
+(3) AStA-Mitglieder können in begründeten Fällen gemäß § 20 Absatz 1 Nummer 4 und 5 der Organisationssatzung vom StuPa abgewählt werden.
 
 ## § 8 – Aufgaben und Verfahren des Vorstands
 
@@ -126,7 +126,7 @@ Die Sitzung ist auf vier Zeitstunden begrenzt. Sollten nicht alle Themen abgehan
 
 (2) Die Öffentlichkeit kann zu einzelnen Punkten der Tagesordnung ausgeschlossen werden. Hierzu ist die Mehrheit der abgegebenen Stimmen des Gremiums erforderlich. Über den Antrag ist in nichtöffentlicher Sitzung zu beraten und abzustimmen.
 
-(3) Weiterhin kann die Öffentlichkeit gemäß § 20 Absatz 1 Nummer 5 der OrgS ausgeschlossen werden.
+(3) Weiterhin kann die Öffentlichkeit gemäß § 20 Absatz 1 Nummer 5 der Organisationssatzung ausgeschlossen werden.
 
 ## § 13 – Beschlussfähigkeit
 
@@ -200,7 +200,7 @@ Für Redebeiträge gilt eine reguläre Redezeit von bis zu fünf Minuten. Bei Ü
 
 (5) Ein Antrag nach § 18 Absatz 1 Nummer 11 gilt mit der Antragstellung ohne Abstimmung und Aussprache als beschlossen.
 
-(6) Nicht gestellt werden dürfen die Geschäftsordnungsanträge nach § 18 Absatz 1 Nummern 3, 4, 5 und 7 von Abgeordneten des StuPa, die bereits zur Sache gesprochen haben.
+(6) Nicht gestellt werden dürfen die Geschäftsordnungsanträge nach § 18 Absatz 1 Nummer 3, 4, 5 und 7 von Abgeordneten des StuPa, die bereits zur Sache gesprochen haben.
 
 (7) Alle im Studierendenparlament vertretenen Fraktionen haben darüber hinaus das Recht, eine Fraktionspause von jeweils maximal 5 Minuten pro Tagesordnungspunkt zu beantragen. Eine Fraktionspause muss mit der Mehrheit der Mitglieder einer Fraktion beschlossen und dem Vorstand des Studierendenparlaments angezeigt werden. Während einer Abstimmung ist keine Fraktionspause möglich.
 
@@ -240,7 +240,7 @@ Für Redebeiträge gilt eine reguläre Redezeit von bis zu fünf Minuten. Bei Ü
 4. Gleichstellung
 5. Kommission zur Vergabe der Studiengebühren
 6. Wahlausschuss
-Weiterhin wurde gemäß § 6 Grundordnung i. V. m. § 45 NHG die
+Weiterhin wurde gemäß § 6 der Grundordnung i. V. m. § 45 des Niedersächsischen Hochschulgesetzes die
 7. Kommission für Zentrale Studienangelegenheiten
 sowie gemäß § 10 der Ordnung zur Sicherung guter wissenschaftlicher Praxis die
 8. Kommission für Folgenabschätzung und Ethik.
@@ -287,7 +287,7 @@ sowie gemäß § 10 der Ordnung zur Sicherung guter wissenschaftlicher Praxis di
 
 ## § 24 – Vertretung und Notbesetzung
 
-(1) In der vorlesungsfreien Zeit kann nach Bedarf zu einer außerordentlichen Sitzung geladen werden. Sollten nicht genug stimmberechtigte Mitglieder des Stupas zugegen sein, ist nach §13 Absatz 3 zu verfahren. Die Beschlussfähigkeit ist erreicht, wenn ein Drittel der StuPa-Mitglieder anwesend sind.
+(1) In der vorlesungsfreien Zeit kann nach Bedarf zu einer außerordentlichen Sitzung geladen werden. Sollten nicht genug stimmberechtigte Mitglieder des Stupas zugegen sein, ist nach § 13 Absatz 3 zu verfahren. Die Beschlussfähigkeit ist erreicht, wenn ein Drittel der StuPa-Mitglieder anwesend sind.
 
 (2) Vertretung erfolgt innerhalb der Listen. Falls eine Liste erschöpft ist, folgt ein Vertreter aus der nächst stärkeren Liste.
 
@@ -305,11 +305,11 @@ Der Schriftform ist die elektronische Form gleichgestellt.
 
 ## § 27 – Fristberechnung
 
-Für die Berechnung von Fristen nach dieser Geschäftsordnung gelten die §§ 187 und 188 des Bürgerlichen Gesetzbuches.
+Für die Berechnung von Fristen nach dieser Geschäftsordnung gelten die §§ 187 und 188 des Bürgerlichen Gesetzbuchs.
 
 ## § 28 – Änderungen der Geschäftsordnung
 
-Für Änderungen dieser Geschäftsordnung bedarf es gemäß OrgS § 33 einer Mehrheit von zwei Dritteln der Mitglieder des StuPa.
+Für Änderungen dieser Geschäftsordnung bedarf es gemäß § 33 der Organisationssatzung einer Mehrheit von zwei Dritteln der Mitglieder des StuPa.
 
 ## § 29 – Salvatorische Klausel
 
