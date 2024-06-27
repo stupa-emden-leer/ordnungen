@@ -115,7 +115,7 @@ Die Sitzung ist auf vier Zeitstunden begrenzt. Sollten nicht alle Themen abgehan
 (5) Feste Tagesordnungspunkte jeder Sitzung sind:
 1. „TOP 1 Begrüßung, Überprüfung der Ladung und Feststellung der Beschlussfähigkeit“
 2. „TOP 2 Genehmigung der Tagesordnung“
-3. „TOP 3 Genehmigung des Protokolls der vorhergehenden Sitzung“
+3. „TOP 3 Genehmigung von Protokollen“
 4. „TOP 4 Bericht aus dem Vorstand“
 5. „TOP 5 Berichte aus den Gremien“
 6. Letzter Tagesordnungspunkt einer jeden Sitzung ist der TOP „Verschiedenes“. In diesem dürfen keine Beschlüsse gefasst werden.
@@ -200,7 +200,7 @@ Für Redebeiträge gilt eine reguläre Redezeit von bis zu fünf Minuten. Bei Ü
 
 (5) Ein Antrag nach § 18 Absatz 1 Nummer 11 gilt mit der Antragstellung ohne Abstimmung und Aussprache als beschlossen.
 
-(6) Nicht gestellt werden dürfen die Geschäftsordnungsanträge nach § 18 Absatz 1 Nummern 3, 4, 5 und 7 dürfen von Abgeordneten des StuPa, die bereits zur Sache gesprochen haben.
+(6) Nicht gestellt werden dürfen die Geschäftsordnungsanträge nach § 18 Absatz 1 Nummern 3, 4, 5 und 7 von Abgeordneten des StuPa, die bereits zur Sache gesprochen haben.
 
 (7) Alle im Studierendenparlament vertretenen Fraktionen haben darüber hinaus das Recht, eine Fraktionspause von jeweils maximal 5 Minuten pro Tagesordnungspunkt zu beantragen. Eine Fraktionspause muss mit der Mehrheit der Mitglieder einer Fraktion beschlossen und dem Vorstand des Studierendenparlaments angezeigt werden. Während einer Abstimmung ist keine Fraktionspause möglich.
 
@@ -321,4 +321,4 @@ Abweichungen von den Vorschriften dieser Geschäftsordnung können im einzelnen 
 
 ## § 31 – Schlussbestimmung und Inkrafttreten
 
-Diese Geschäftsordnung tritt mit ihrer Verabschiedung durch das StuPa am 14.03.2023 in Kraft
+Diese Geschäftsordnung tritt mit ihrer Verabschiedung durch das StuPa am 14.03.2023 in Kraft.
