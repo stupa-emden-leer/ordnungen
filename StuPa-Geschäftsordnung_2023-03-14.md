@@ -134,7 +134,7 @@ Die Sitzung ist auf vier Zeitstunden begrenzt. Sollten nicht alle Themen abgehan
 
 (2) Steht dem Studierendenparlament nach § 21 Absatz 5 der Wahlordnung der Studierendenschaft und § 24 Absatz 2 keine Vertretung zur Verfügung, ist das StuPa bereits mit einem Drittel seiner Mitglieder beschlussfähig.
 
-(3) In den Einladungen zur Sitzung ist bei Zutreffen von § 13 Absatz 1 Nummer 1 explizit darauf hinzuweisen, dass die Beschlussfähigkeit des StuPa mit einem Drittel seiner Mitglieder gegeben ist.
+(3) In den Einladungen zur Sitzung ist bei Zutreffen von § 13 Absatz 2 explizit darauf hinzuweisen, dass die Beschlussfähigkeit des StuPa mit einem Drittel seiner Mitglieder gegeben ist.
 
 (4) Ergeben sich im Verlauf der Sitzung Zweifel über die Beschlussfähigkeit, so ist diese auf Antrag eines StuPa-Mitglieds erneut durch die Sitzungsleitung festzustellen.
 
