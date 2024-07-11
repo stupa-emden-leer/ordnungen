@@ -5,20 +5,15 @@ In der Fassung vom 14. März 2023
 ## § 1 – Präambel
 
 (1) Grundlage dieser Geschäftsordnung sind:
+1. § 20 Absatz 1 des Niedersächsischen Hochschulgesetzes in der letzten Änderung vom 16.12.2014,
+2. Organisationssatzung der Studierendenschaft der Hochschule Emden/Leer in der Bekanntmachung vom 19.10.2023.
 
-- § 20 Absatz 1 Niedersächsisches Hochschulgesetz (NHG) in der letzten Änderung vom 16.12.2014,
-
-- Organisationssatzung der Studierendenschaft der Hochschule
-Emden/Leer (OrgS) in der Bekanntmachung vom 19.10.2023.
-
-(2) Aus Gründen der besseren Lesbarkeit wird auf die Verwendung
-von der Genderform verzichtet.
+(2) Aus Gründen der besseren Lesbarkeit wird auf die Verwendung von der Genderform verzichtet.
 
 (3) Des Weiteren werden folgende Begriffe durch Kurzformen ersetzt:
-
-- Hochschule Emden/Leer: HS E/L
-- Studierendenparlament der Hochschule Emden/Leer: StuPa
-- Allgemeiner Studierendenausschuss der Hochschule Emden/Leer: AStA
+1. Hochschule Emden/Leer: HS E/L
+2. Studierendenparlament der Hochschule Emden/Leer: StuPa
+3. Allgemeiner Studierendenausschuss der Hochschule Emden/Leer: AStA
 
 ## § 2 – Konstituierung
 
@@ -34,7 +29,7 @@ von der Genderform verzichtet.
 
 (2) Tritt ein Mitglied des Vorstandes während der Amtsperiode zurück, hat die Wahl eines Nachfolgers bzw. einer Nachfolgerin aus der Mitte des StuPa bei der nächsten Sitzung zu erfolgen.
 
-(3) Ein Mitglied des Vorstandes kann in geheimer Wahl abgewählt werden. Anschließend erfolgt die Wahl eines Nachfolgers nach § 3 Abs. 2.
+(3) Ein Mitglied des Vorstandes kann in geheimer Wahl abgewählt werden. Anschließend erfolgt die Wahl eines Nachfolgers nach § 3 Absatz 2.
 
 ## § 4 – Wahl des Haushaltsausschusses
 
@@ -44,7 +39,7 @@ von der Genderform verzichtet.
 
 (3) Die Arbeit des Haushaltsausschusses richtet sich nach der Arbeit der Finanzordnung der Studierendenschaft (FO).
 
-(4) Tritt ein Mitglied des Haushaltsausschusses während der Amtsperiode zurück und sinkt damit die Zahl der Mitglieder unter die in § 4 Abs. 1, hat die Wahl eines Nachfolgers aus der Mitte des StuPa schnellstmöglich zu erfolgen.
+(4) Tritt ein Mitglied des Haushaltsausschusses während der Amtsperiode zurück und sinkt damit die Zahl der Mitglieder unter die in § 4 Absatz 1, hat die Wahl eines Nachfolgers aus der Mitte des StuPa schnellstmöglich zu erfolgen.
 
 ## § 5 – Zusammensetzung
 
@@ -66,7 +61,7 @@ von der Genderform verzichtet.
 
 (2) Die AStA-Anwärter müssen zuvor über einen Zeitraum von mindestens einem Monat angemessen in ein Referat eingearbeitet worden sein. Ausnahmen sind auf Antrag möglich.
 
-(3) AStA-Mitglieder können in begründeten Fällen gemäß § 20 Absatz 1 Nummern 4 und 5 der OrgS vom StuPa abgewählt werden.
+(3) AStA-Mitglieder können in begründeten Fällen gemäß § 20 Absatz 1 Nummer 4 und 5 der Organisationssatzung vom StuPa abgewählt werden.
 
 ## § 8 – Aufgaben und Verfahren des Vorstands
 
@@ -80,21 +75,15 @@ von der Genderform verzichtet.
 
 (5) Ein Vorsitzender ist der Vorsitzende des Haushaltsausschusses.
 
-(6) Die weitere Verteilung der anfallenden Aufgaben, insbesondere
-der im Folgenden aufgelisteten, regelt der Vorstand unter sich:
-
+(6) Die weitere Verteilung der anfallenden Aufgaben, insbesondere der im Folgenden aufgelisteten, regelt der Vorstand unter sich:
 1. Betreuung des Moodle-Kurses „Das Studierendenparlament“
-
 2. Betreuung der Unterseite auf der Hochschulwebsite
-
 3. Das Einladen zu den Sitzungen.
 
 (7) Die Sitzungsleitung hat die Sitzung ordnungsgemäß zu leiten. Um diesen ordnungsgemäßen Ablauf zu gewährleisten, hat sie folgende Rechte und Pflichten:
-
-1. Redner, die nicht zur Sache sprechen, müssen zur Ordnung gerufen werden. Sollten sie nach zweimaligem Ermahnen nicht reagieren, so ist ihnen das Rederecht für diesen Tagesordnungspunkt zu entziehen.  
-2. Nach mehrmaligem Ermahnen kann die Sitzungsleitung einem Mitglied das Wort für die
-ganze Sitzung entziehen bzw. das Mitglied des Raumes verweisen.  
-3. Sollte ein StuPa-Mitglied oder ein Beisitzer in einer Sitzung beleidigend werden, so kann die Sitzungsleitung diese Person von der Sitzung ausschließen und sie des Raumes verweisen.  
+1. Redner, die nicht zur Sache sprechen, müssen zur Ordnung gerufen werden. Sollten sie nach zweimaligem Ermahnen nicht reagieren, so ist ihnen das Rederecht für diesen Tagesordnungspunkt zu entziehen.
+2. Nach mehrmaligem Ermahnen kann die Sitzungsleitung einem Mitglied das Wort für die ganze Sitzung entziehen bzw. das Mitglied des Raumes verweisen.
+3. Sollte ein StuPa-Mitglied oder ein Beisitzer in einer Sitzung beleidigend werden, so kann die Sitzungsleitung diese Person von der Sitzung ausschließen und sie des Raumes verweisen.
 4. Die Maßnahmen sind für alle Teilnehmer der Sitzung gültig.
 
 ## § 9 – Ladung
@@ -121,14 +110,12 @@ Die Sitzung ist auf vier Zeitstunden begrenzt. Sollten nicht alle Themen abgehan
 
 (3) Anträge sind dem Vorstand vor der Ladefrist zuzusenden. Sie werden dann in die Tagesordnung aufgenommen.
 
-(4) Nicht erledigte Tagesordnungspunkte werden in der nächsten Sitzung behandelt. Sofern es sich bei der nächsten Sitzung um eine außerordentliche handelt, ist das Studierendenparlament bei dieser Sitzung automatisch beschlussfähig. Die Tagesordnung einer außerordentlichen Sitzung kann
-nach Ladung nicht mehr verändert werden.
+(4) Nicht erledigte Tagesordnungspunkte werden in der nächsten Sitzung behandelt. Sofern es sich bei der nächsten Sitzung um eine außerordentliche handelt, ist das Studierendenparlament bei dieser Sitzung automatisch beschlussfähig. Die Tagesordnung einer außerordentlichen Sitzung kann nach Ladung nicht mehr verändert werden.
 
 (5) Feste Tagesordnungspunkte jeder Sitzung sind:
-
 1. „TOP 1 Begrüßung, Überprüfung der Ladung und Feststellung der Beschlussfähigkeit“
 2. „TOP 2 Genehmigung der Tagesordnung“
-3. „TOP 3 Genehmigung des Protokolls der vorhergehenden Sitzung“
+3. „TOP 3 Genehmigung von Protokollen“
 4. „TOP 4 Bericht aus dem Vorstand“
 5. „TOP 5 Berichte aus den Gremien“
 6. Letzter Tagesordnungspunkt einer jeden Sitzung ist der TOP „Verschiedenes“. In diesem dürfen keine Beschlüsse gefasst werden.
@@ -139,19 +126,19 @@ nach Ladung nicht mehr verändert werden.
 
 (2) Die Öffentlichkeit kann zu einzelnen Punkten der Tagesordnung ausgeschlossen werden. Hierzu ist die Mehrheit der abgegebenen Stimmen des Gremiums erforderlich. Über den Antrag ist in nichtöffentlicher Sitzung zu beraten und abzustimmen.
 
-(3) Weiterhin kann die Öffentlichkeit gemäß § 20 Absatz 1 Nummer 5 der OrgS ausgeschlossen werden.
-
+(3) Weiterhin kann die Öffentlichkeit gemäß § 20 Absatz 1 Nummer 5 der Organisationssatzung ausgeschlossen werden.
 
 ## § 13 – Beschlussfähigkeit
 
 (1) Das StuPa ist beschlussfähig, wenn die Ladung ordnungsgemäß und mehr als die Hälfte seiner Mitglieder anwesend ist.
 
-1. Steht dem Studierendenparlament nach § 21 Absatz 5 der Wahlordnung der Studierendenschaft und § 24 Absatz 2 keine Vertretung zur Verfügung, ist das StuPa bereits mit einem Drittel seiner Mitglieder beschlussfähig.
-2. In den Einladungen zur Sitzung ist bei Zutreffen von § 13 Absatz 1 Nummer 1 explizit darauf hinzuweisen, dass die Beschlussfähigkeit des StuPa mit einem Drittel seiner Mitglieder gegeben ist.
+(2) Steht dem Studierendenparlament nach § 21 Absatz 5 der Wahlordnung der Studierendenschaft und § 24 Absatz 2 keine Vertretung zur Verfügung, ist das StuPa bereits mit einem Drittel seiner Mitglieder beschlussfähig.
 
-(2) Ergeben sich im Verlauf der Sitzung Zweifel über die Beschlussfähigkeit, so ist diese auf Antrag eines StuPa-Mitglieds erneut durch die Sitzungsleitung festzustellen.
+(3) In den Einladungen zur Sitzung ist bei Zutreffen von § 13 Absatz 2 explizit darauf hinzuweisen, dass die Beschlussfähigkeit des StuPa mit einem Drittel seiner Mitglieder gegeben ist.
 
-(3) Ist das StuPa bei Eröffnung einer Sitzung nicht beschlussfähig, ist schnellstmöglich gemäß § 9 Absatz 5 zu einer außerordentlichen Sitzung mit gleicher Tagesordnung zu laden.
+(4) Ergeben sich im Verlauf der Sitzung Zweifel über die Beschlussfähigkeit, so ist diese auf Antrag eines StuPa-Mitglieds erneut durch die Sitzungsleitung festzustellen.
+
+(5) Ist das StuPa bei Eröffnung einer Sitzung nicht beschlussfähig, ist schnellstmöglich gemäß § 9 Absatz 5 zu einer außerordentlichen Sitzung mit gleicher Tagesordnung zu laden.
 
 ## § 14 – Umlaufverfahren
 
@@ -186,7 +173,6 @@ Für Redebeiträge gilt eine reguläre Redezeit von bis zu fünf Minuten. Bei Ü
 ## § 18 – Anträge zur Geschäftsordnung (GO)
 
 (1) Anträge, die sich mit dem Verlauf der Sitzung befassen, sind Geschäftsordnungsanträge. Anträge zur Geschäftsordnung sind insbesondere:
-
 1. der Antrag auf Begrenzung der Redezeit,
 2. der Antrag auf Schluss der Redeliste,
 3. der Antrag auf Schluss der Debatte und sofortige Abstimmung,
@@ -214,14 +200,13 @@ Für Redebeiträge gilt eine reguläre Redezeit von bis zu fünf Minuten. Bei Ü
 
 (5) Ein Antrag nach § 18 Absatz 1 Nummer 11 gilt mit der Antragstellung ohne Abstimmung und Aussprache als beschlossen.
 
-(6) Nicht gestellt werden dürfen die Geschäftsordnungsanträge nach § 18 Absatz 1 Nummern 3, 4, 5 und 7 dürfen von Abgeordneten des StuPa, die bereits zur Sache gesprochen haben.
+(6) Nicht gestellt werden dürfen die Geschäftsordnungsanträge nach § 18 Absatz 1 Nummer 3, 4, 5 und 7 von Abgeordneten des StuPa, die bereits zur Sache gesprochen haben.
 
 (7) Alle im Studierendenparlament vertretenen Fraktionen haben darüber hinaus das Recht, eine Fraktionspause von jeweils maximal 5 Minuten pro Tagesordnungspunkt zu beantragen. Eine Fraktionspause muss mit der Mehrheit der Mitglieder einer Fraktion beschlossen und dem Vorstand des Studierendenparlaments angezeigt werden. Während einer Abstimmung ist keine Fraktionspause möglich.
 
 ## § 19 – Abstimmungen
 
 (1) Abzustimmen ist in folgender Reihenfolge:
-
 1. Ja
 2. Nein
 3. Enthaltung
@@ -248,17 +233,17 @@ Für Redebeiträge gilt eine reguläre Redezeit von bis zu fünf Minuten. Bei Ü
 
 ## § 21 – Hochschulkommissionen
 
-(1) Zur Erfüllung seiner Aufgaben wurden vom Senat folgende Kommissionen und Ausschüsse denen studentische Vertreter beiwohnen gemäß §§ 6 und 7 der Grundordnung eingerichtet:  
-(a) Forschung, Wissens- und Technologietransfer  
-(b) Haushalt und Planung  
-(c) Informations- und Kommunikationsinfrastruktur (einschl. Hochschulbibliothek)  
-(d) Gleichstellung  
-(e) Kommission zur Vergabe der Studiengebühren  
-(f) Wahlausschuss  
-Weiterhin wurde gemäß § 6 Grundordnung i. V. m. § 45 NHG die  
-(g) Kommission für Zentrale Studienangelegenheiten  
-sowie gemäß § 10 der Ordnung zur Sicherung guter wissenschaftlicher Praxis die  
-(h) Kommission für Folgenabschätzung und Ethik.
+(1) Zur Erfüllung seiner Aufgaben wurden vom Senat folgende Kommissionen und Ausschüsse denen studentische Vertreter beiwohnen gemäß §§ 6 und 7 der Grundordnung eingerichtet:
+1. Forschung, Wissens- und Technologietransfer
+2. Haushalt und Planung
+3. Informations- und Kommunikationsinfrastruktur (einschl. Hochschulbibliothek)
+4. Gleichstellung
+5. Kommission zur Vergabe der Studiengebühren
+6. Wahlausschuss
+Weiterhin wurde gemäß § 6 der Grundordnung i. V. m. § 45 des Niedersächsischen Hochschulgesetzes die
+7. Kommission für Zentrale Studienangelegenheiten
+sowie gemäß § 10 der Ordnung zur Sicherung guter wissenschaftlicher Praxis die
+8. Kommission für Folgenabschätzung und Ethik.
 
 (2) Zwischen der konstituierenden Sitzung und der folgenden ordentlichen Sitzung des StuPa ist die Studierendenschaft angemessen von Existenz und Aufgaben der Kommissionen und Ausschüsse zu informieren. Dies obliegt dem Vorstand des StuPa. In der zweiten ordentlichen Sitzung der Amtsperiode sollen die Bewerber Gelegenheit bekommen sich vorzustellen. Daraufhin sollen die Ausschuss – und Kommissionsmitglieder aus dem Kreis der Bewerber gewählt werden.
 
@@ -267,20 +252,16 @@ sowie gemäß § 10 der Ordnung zur Sicherung guter wissenschaftlicher Praxis di
 (1) Über jede Sitzung des StuPa ist ein Protokoll anzufertigen.
 
 (2) Es muss insbesondere enthalten:
-
-(a) Ort, Tag, Beginn und Ende der Sitzung,  
-(b) die genehmigte Tagesordnung,  
-(c) die Namen der anwesenden Personen,  
-(d) die Namen der entschuldigt und unentschuldigt fehlenden Abgeordneten,  
-(e) die Form der Beratung (öffentlich/nichtöffentlich) und der Abstimmung (offen/geheim)
-über die einzelnen Beratungsgegenstände, Name des Protokollanten die Ergebnisse von
-Wahlen,  
-(f) die Annahme oder Ablehnung von Anträgen,  
-(g) den Wortlaut der gefassten Beschlüsse,  
-(h) sonstige wesentliche Vermerke über den Verlauf der Sitzung (z.B. Unterbrechungen,
-Ordnungsmaßnahmen, entgegengesetzte Anträge),  
-(i) den wesentlichen Verlauf der Debatten.  
-(j) Namen des Protokollanten/der Protokollantin
+1. Ort, Tag, Beginn und Ende der Sitzung,
+2. die genehmigte Tagesordnung,
+3. die Namen der anwesenden Personen,
+4. die Namen der entschuldigt und unentschuldigt fehlenden Abgeordneten,
+5. die Form der Beratung (öffentlich/nichtöffentlich) und der Abstimmung (offen/geheim) über die einzelnen Beratungsgegenstände, Name des Protokollanten die Ergebnisse von Wahlen,
+6. die Annahme oder Ablehnung von Anträgen,
+7. den Wortlaut der gefassten Beschlüsse,
+8. sonstige wesentliche Vermerke über den Verlauf der Sitzung (z.B. Unterbrechungen, Ordnungsmaßnahmen, entgegengesetzte Anträge),
+9. den wesentlichen Verlauf der Debatten.
+10. Namen des Protokollanten/der Protokollantin
 
 (3) Jede und jeder Abgeordnete kann verlangen, dass seine oder ihre abweichende Meinung zu einem Beschluss im Protokoll vermerkt wird.
 
@@ -300,23 +281,21 @@ Ordnungsmaßnahmen, entgegengesetzte Anträge),
 
 (4) Eine mögliche Entlastung eines Vorstandsmitglieds wird nur auf dessen Antrag hin geprüft.
 
-(5) Das beantragende Vorstandsmitglied muss dem Studierendenparlament einen schriftlichen
-Geschäfts- oder Rechenschaftsbericht vorlegen. Dieser Bericht ist dann die Grundlage des
-Entlastungsbeschlusses. Die Entlastungswirkung bezieht sich somit immer nur auf die Tatsachen, die dem Studierendenparlament aus dem eingereichten Bericht bekannt sind oder aus seiner allgemeinen Tätigkeit bekannt sein müssen. Für Tatsachen, die dem Studierendenparlament zum Zeitpunkt der Erteilung der Entlastung nicht bekannt waren oder hätten bekannt sein müssen, kann die Studierendenschaft nach wie vor Regressansprüche gegen das Vorstandsmitglied geltend machen.
+(5) Das beantragende Vorstandsmitglied muss dem Studierendenparlament einen schriftlichen Geschäfts- oder Rechenschaftsbericht vorlegen. Dieser Bericht ist dann die Grundlage des Entlastungsbeschlusses. Die Entlastungswirkung bezieht sich somit immer nur auf die Tatsachen, die dem Studierendenparlament aus dem eingereichten Bericht bekannt sind oder aus seiner allgemeinen Tätigkeit bekannt sein müssen. Für Tatsachen, die dem Studierendenparlament zum Zeitpunkt der Erteilung der Entlastung nicht bekannt waren oder hätten bekannt sein müssen, kann die Studierendenschaft nach wie vor Regressansprüche gegen das Vorstandsmitglied geltend machen.
 
 (6) Ein allgemeiner Anspruch auf Entlastung besteht nicht. Das Studierendenparlament kann die Entscheidung über die Erteilung einer Entlastung unter Angaben von Gründen auf unbestimmte Zeit aufschieben oder sie bei berechtigtem Verdacht auf Fehlern oder Missbrauch während der Amtszeit des Vorstandsmitglieds komplett ablehnen.
 
 ## § 24 – Vertretung und Notbesetzung
 
-(1) In der vorlesungsfreien Zeit kann nach Bedarf zu einer außerordentlichen Sitzung geladen werden. Sollten nicht genug stimmberechtigte Mitglieder des Stupas zugegen sein, ist nach §13 Absatz 3 zu verfahren. Die Beschlussfähigkeit ist erreicht, wenn ein Drittel der StuPa-Mitglieder anwesend sind.
+(1) In der vorlesungsfreien Zeit kann nach Bedarf zu einer außerordentlichen Sitzung geladen werden. Sollten nicht genug stimmberechtigte Mitglieder des Stupas zugegen sein, ist nach § 13 Absatz 3 zu verfahren. Die Beschlussfähigkeit ist erreicht, wenn ein Drittel der StuPa-Mitglieder anwesend sind.
 
 (2) Vertretung erfolgt innerhalb der Listen. Falls eine Liste erschöpft ist, folgt ein Vertreter aus der nächst stärkeren Liste.
 
 ## § 25 – Gremienbescheinigungen
 
-(1) Voraussetzungen für eine Gremienbescheinigung sind:  
-(a) Regelmäßige Teilnahme an den StuPa-Sitzungen (nicht öfter als zweimaliges unentschuldigtes Fehlen bei ordentlichen Sitzungen)  
-(b) Wahrnehmen der Bürozeit (mindestens 90 Min./Woche) in Emden oder Leer
+(1) Voraussetzungen für eine Gremienbescheinigung sind:
+1. Regelmäßige Teilnahme an den StuPa-Sitzungen (nicht öfter als zweimaliges unentschuldigtes Fehlen bei ordentlichen Sitzungen)
+2. Wahrnehmen der Bürozeit (mindestens 90 Min./Woche) in Emden oder Leer
 
 (2) Auf besonderes Engagement (z.B. Arbeit in Ausschüssen, Infostände etc.) ist in den Gremienbescheinigungen besonders hinzuweisen.
 
@@ -326,11 +305,11 @@ Der Schriftform ist die elektronische Form gleichgestellt.
 
 ## § 27 – Fristberechnung
 
-Für die Berechnung von Fristen nach dieser Geschäftsordnung gelten die §§ 187 und 188 des Bürgerlichen Gesetzbuches.
+Für die Berechnung von Fristen nach dieser Geschäftsordnung gelten die §§ 187 und 188 des Bürgerlichen Gesetzbuchs.
 
 ## § 28 – Änderungen der Geschäftsordnung
 
-Für Änderungen dieser Geschäftsordnung bedarf es gemäß OrgS § 33 einer Mehrheit von zwei Dritteln der Mitglieder des StuPa.
+Für Änderungen dieser Geschäftsordnung bedarf es gemäß § 33 der Organisationssatzung einer Mehrheit von zwei Dritteln der Mitglieder des StuPa.
 
 ## § 29 – Salvatorische Klausel
 
@@ -342,4 +321,4 @@ Abweichungen von den Vorschriften dieser Geschäftsordnung können im einzelnen 
 
 ## § 31 – Schlussbestimmung und Inkrafttreten
 
-Diese Geschäftsordnung tritt mit ihrer Verabschiedung durch das StuPa am 14.03.2023 in Kraft
+Diese Geschäftsordnung tritt mit ihrer Verabschiedung durch das StuPa am 14.03.2023 in Kraft.
