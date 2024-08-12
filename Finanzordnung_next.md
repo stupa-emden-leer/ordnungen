@@ -6,7 +6,7 @@ Kontoinhaber der Studierendenschaft ist „Die Studierendenschaft der Hochschule
 
 Gültig sind die „Rahmenvorgaben für die Finanzordnung der Studierendenschaft gem. §20 (4) NHG Stand: 01.01.2024“, _die diesem Dokument angehängt sind_.
 
-Aus Gründen der Lesbarkeit wird in dieser Ordnung die feminine Form verwendet.
+Aus Gründen der Lesbarkeit wird in dieser Ordnung die feminine Form verwendet. Alle anderen Geschlechtsformen sind mitgemeint.
 
 ## §1 Beginn und Ende des Haushaltsjahres
 
@@ -81,7 +81,7 @@ Dieser Paragraph wurde gestrichen.
 
 (3) Bei den genannten Beträgen handelt es sich um Bruttobeträge.
 
-(4) Auf Grund von Datenschutzgründen sind hiervon die Sozial- und Studentendarlehen ausgenommen. Hierzu existiert mit der Darlehensordnung eine eigene Ordnung.
+(4) Auf Grund von Datenschutzgründen sind hiervon die Sozial- und Studiendarlehen ausgenommen. Hierzu existiert mit der Darlehensordnung eine eigene Ordnung.
 
 ## §10 Spenden und Sponsoring
 
@@ -106,9 +106,9 @@ stattgefunden haben, um die Modalitäten der Abrechnung von Handkassen und der B
 
 (3) Zur Auslösung betriebswirtschaftlicher Geschäftsvorfälle (Bestellungen o. ä.) sind nur Mitglieder des AStA, des StuPa und der FSRe berechtigt, die vom AStA dazu berechtigt wurden. Diese müssen die Kenntnis über die Finanzordnung nach erfolgter Finanzbelehrung gemäß Absatz 1 und 2 gezeichnet haben.
 
-(4) Personen, die nicht nach Absatz 3 zur Auslösung betriebswirtschaftlicher Geschäftsvorfälle  berechtigt sind, haben nur die Möglichkeit zur Nutzung eines personenbezogenen Vorschusses.
+(4) Personen, die nicht nach Absatz 3 zur Auslösung betriebswirtschaftlicher Geschäftsvorfälle berechtigt sind, haben nur die Möglichkeit zur Nutzung eines personenbezogenen Vorschusses.
 
-(5) Die in Absatz 1 benannten Personen beurkunden die Kenntnisse dieser Ordnung mit einer Unterschrift gegenüber dem Studierendenparlament. Wird ein unter Absatz 1 genannter Posten neu besetzt, wird die Beibringung der Kenntnis in der Vorlesungszeit innerhalb von 4 Wochen oder außerhalb der Vorlesungszeit bis zur nächsten ordentlichen Sitzung des Studierendenparlaments fällig.
+(5) Die in Absatz 1 benannten Personen beurkunden die Kenntnisse dieser Ordnung mit einer Unterschrift gegenüber dem Studierendenparlament. Wird ein unter Absatz 1 genannter Posten neu besetzt, wird die Beibringung der Kenntnis innerhalb von 4 Wochen oder bis zur nächsten ordentlichen Sitzung des Studierendenparlaments fällig, je nachdem welche Frist später endet.
 
 ## §12 Handlung bei Verstößen gegen die Finanzordnung
 
