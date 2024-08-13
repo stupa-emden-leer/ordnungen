@@ -1,12 +1,12 @@
 # Finanzordnung der Studierendenschaft der Hochschule Emden/Leer
 
-in der Fassung vom XX. April 2024
+in der Fassung vom XX. Mai 2024
 
 Kontoinhaber der Studierendenschaft ist „Die Studierendenschaft der Hochschule Emden/Leer, vertreten durch den Allgemeinen Studierendenausschuss“.
 
-Gültig sind die „Rahmenvorgaben für die Finanzordnung der Studierendenschaft gem. §20 (4) NHG Stand: XX.YY.2024“, _die diesem Dokument angehängt sind_.
+Gültig sind die „Rahmenvorgaben für die Finanzordnung der Studierendenschaft gem. §20 (4) NHG Stand: 01.01.2024“, _die diesem Dokument angehängt sind_.
 
-Aus Gründen der Lesbarkeit wird in dieser Ordnung die feminine Form verwendet.
+Aus Gründen der Lesbarkeit wird in dieser Ordnung die feminine Form verwendet. Alle anderen Geschlechtsformen sind mitgemeint.
 
 ## §1 Beginn und Ende des Haushaltsjahres
 
@@ -77,53 +77,54 @@ Dieser Paragraph wurde gestrichen.
 - Ab  200,– €: Entweder ist das Einholen von 3 Vergleichsangeboten zur Prüfung der Wirtschaftlichkeit oder die Nennung von Alleinstellungskriterien notwendig. Diese sind als Anlage dem Ursprungsbeleg bei zu legen.
 - Ab 1.000,– €: Einreichen eines durch das Gremium bestätigten Antrages zur Bewilligung beim Studierendenparlament. Die Vergleichsangebote bzw. Alleinstellungskriterien sind als Anlage beizufügen.
 
-(2) Bei gegebener Dringlichkeit ist bis zu einer Ausgabe in Höhe von 100,- € eine Entscheidung des jeweiligen Vorstandes ausreichend.
+(2) Bei gegebener Dringlichkeit ist bis zu einer Ausgabe in Höhe von 100,– € eine Entscheidung des jeweiligen Vorstandes ausreichend.
 
 (3) Bei den genannten Beträgen handelt es sich um Bruttobeträge.
 
-(4) Auf Grund von Datenschutzgründen sind hiervon die Sozial- und Studentendarlehen ausgenommen. Hierzu existiert eine eigene Ordnung.
+(4) Auf Grund von Datenschutzgründen sind hiervon die Sozial- und Studiendarlehen ausgenommen. Hierzu existiert mit der Darlehensordnung eine eigene Ordnung.
 
 ## §10 Spenden und Sponsoring
 
 (1) Die Studierendenschaft darf zur Erfüllung ihrer Aufgaben Spenden, Schenkungen und ähnliche Zuwendungen annehmen.
 
-(2) Sponsoring-Verträge müssen dem StuPa für eine eingehende Prüfung vor dem Abschluss der Verträge vorgelegt werden.  
-(a) Sponsoring-Verträge sind vom StuPa zu genehmigen.  
-(b) Sponsoring-Verträge müssen über ein Steuerberatungsbüro oder Ähnliches abgewickelt werden.
+(2) Sponsoring-Verträge sind unzulässig.
 
-(3) Spendeneingänge (z.B. Geld- oder Sachspenden) sind im Vorfeld der Annahme mit der Finanzbuchhaltung (FiBu) der Hochschule abzustimmen. Fachschaftsräte benötigen zur Annahme von Spenden die Genehmigung des AStA-Vorstands.
+(3) Spendeneingänge (z.B. Geld- oder Sachspenden) sind im Vorfeld der Annahme mit der Leitung der Finanzbuchhaltung (FiBu) der Hochschule abzustimmen. Fachschaftsräte benötigen zur Annahme von Spenden die Genehmigung des AStA-Vorstands.
 
-## §11 Haushaltsausschusssitzung
+## §11 Finanzbelehrung
 
-(1) Innerhalb von sechs Wochen nach Vorlesungsbeginn muss durch den Haushaltsausschuss des Studierendenparlamentes eine Schulung für
+(1) Innerhalb von sechs Wochen nach Vorlesungsbeginn muss durch den Haushaltsausschuss des Studierendenparlamentes eine Belehrung für
 
-- die Vorstände der Fachschaftsräte,
-- den Vorstand (die Vorsitzenden und Finanzreferentinnen) des AStA,
-- die Kassenwärterinnen des AStA,
+1. die Vorstände der Fachschaftsräte,
+2. die Vorstände des StuPa,
+3. alle Mitglieder des AStA,
+4. alle Mitglieder weiterer Organisationen, die mit studentischen Mitteln umgehen
 
-stattgefunden haben, um die Modalitäten der Abrechnung von Handkassen und der Rechnungsstellung zu klären und um die Kenntnisse der Finanzordnung der Studierendenschaft der Hochschule Emden/Leer zu gewährleisten.
+stattgefunden haben, um die Modalitäten der Abrechnung von Handkassen und der Buchführung zu klären und die Kenntnis der Finanzordnung der Studierendenschaft der Hochschule Emden/Leer zu gewährleisten.
 
-(2) Alle Mitglieder des AStA müssen über die Finanzordnung in Kenntnis gesetzt werden.
+(2) In Ausnahme- und Einzelfällen kann die Belehrung nach Absatz 1 in Absprache mit dem StuPa durch den AStA-Vorstand durchgeführt werden.
 
-(3) Zur Auslösung betriebswirtschaftlicher Geschäftsvorfälle (Bestellungen o.ä.) sind nur Mitglieder des AStA, des StuPa und der FSRe berechtigt, die vom AStA dazu berechtigt wurden. Diese müssen die Kenntnis über die Finanzordnung vor dem Haushaltsausschuss gezeichnet haben. Ausnahmen sind durch Beschluss des AStA-Vorstands möglich. Personen, die nicht unter Abs. (1) genannt sind, haben nur die Möglichkeit zur Nutzung eines personenbezogenen Vorschusses.
+(3) Zur Auslösung betriebswirtschaftlicher Geschäftsvorfälle (Bestellungen o. ä.) sind nur Mitglieder des AStA, des StuPa und der FSRe berechtigt, die vom AStA dazu berechtigt wurden. Diese müssen die Kenntnis über die Finanzordnung nach erfolgter Finanzbelehrung gemäß Absatz 1 und 2 gezeichnet haben.
 
-(4) Die in Absatz 1 benannten Personen beurkunden die Kenntnisse dieser Ordnung mit einer Unterschrift gegenüber dem Studierendenparlament. Wird ein unter Absatz 1 genannter Posten neu besetzt, wird die Beibringung der Kenntnis bis zur nächsten ordentlichen Sitzung des Studierendenparlaments fällig.
+(4) Personen, die nicht nach Absatz 3 zur Auslösung betriebswirtschaftlicher Geschäftsvorfälle berechtigt sind, haben nur die Möglichkeit zur Nutzung eines personenbezogenen Vorschusses.
 
-## §11a Handlung bei Verstößen
+(5) Die in Absatz 1 benannten Personen beurkunden die Kenntnisse dieser Ordnung mit einer Unterschrift gegenüber dem Studierendenparlament. Wird ein unter Absatz 1 genannter Posten neu besetzt, wird die Beibringung der Kenntnis innerhalb von 4 Wochen oder bis zur nächsten ordentlichen Sitzung des Studierendenparlaments fällig, je nachdem welche Frist später endet.
 
-(1) Ein Verstoß gegen § 11 Abs. (2) hat zur Folge, dass das Studierendenparlament eine Verwarnung gegenüber der betreffenden Person aussprechen kann. Wird dem vom Studierendenparlament angemahnten Problem nicht innerhalb von einem Monat abgeholfen, ist gilt die zweite Verwarnung als ausgesprochen. Mit der zweiten Verwarnung wird der betreffenden Person das Recht zum Umgang mit studentischen Geldern entzogen. Eine erneute Freigabe ist nur durch Beschluss des StuPa möglich.
+## §12 Handlung bei Verstößen gegen die Finanzordnung
+
+(1) Ein Verstoß gegen §11 Absatz 3 hat zur Folge, dass das Studierendenparlament eine Verwarnung gegenüber der betreffenden Person aussprechen kann. Wird dem vom Studierendenparlament angemahnten Problem nicht innerhalb von einem Monat abgeholfen, ist gilt die zweite Verwarnung als ausgesprochen. Mit der zweiten Verwarnung wird der betreffenden Person das Recht zum Umgang mit studentischen Geldern entzogen. Eine erneute Freigabe ist nur durch Beschluss des StuPa möglich.
 
 (2) Für nicht hier genannte Verstöße gegen die Finanzordnung behält sich das Studierendenparlament das Sanktionsrecht auf Beschlussbasis vor.
 
-## § 12 Salvatorische Klausel
+## §13 Salvatorische Klausel
 
 Sollten einzelne Bestimmungen dieser Finanzordnung unwirksam sein oder nach ihrer Verabschiedung unwirksam werden, bleibt die Wirksamkeit der Finanzordnung im Übrigen unberührt. In einem solchen Fall hat das Studierendenparlament das Recht und die Pflicht, die betroffenen Bestimmungen baldmöglichst durch diejenigen zu ersetzen, die der Intention der ursprünglichen Formulierung am nächsten kommen.
 
-## §13 Veröffentlichung
+## §14 Veröffentlichung
 
 Diese Finanzordnung tritt mit Veröffentlichung in Kraft.
 
 **Anlage**
 
 - Rahmenvorgaben für die Finanzordnung der Studierendenschaft gem. §20 (4) NHG Stand:
-01.12.2018
+01.01.2024
