@@ -159,7 +159,7 @@ nach Ladung nicht mehr verändert werden.
 
 (2) Es gilt hier § 13 entsprechend.
 
-(3) Für das Umlaufverfahren ist eine Auslage des Antrages an einem dafür geeigneten Platz in den Räumlichkeiten des StuPa vorzunehmen. Zeitgleich ist auf dem Ladungsweg zu informieren. Die Stimme des jeweiligen Mitgliedes muss durch eigenständige Unterschrift innerhalb von 72 Stunden eindeutig als Zustimmung, Ablehnung oder Enthaltung erkennbar sein. Eine Stimmabgabe durch ein elektronisches Verfahren (E-Mail, hochschulweites Moodle) ist zulässig, wenn hier die Stimmabgabe eindeutig als solche zu erkennen ist. Das elektronische Umfrageergebnis ist als Anlage der Dokumentation beizulegen.
+(3) Für das Umlaufverfahren ist eine Auslage des Antrages an einem dafür geeigneten Platz in den Räumlichkeiten des StuPa vorzunehmen. Zeitgleich ist auf dem Ladungsweg zu informieren. Die Stimme des jeweiligen Mitgliedes muss durch eigenständige Unterschrift binnen einer Frist von mindestens 72 Stunden eindeutig als Zustimmung, Ablehnung oder Enthaltung erkennbar sein. Eine Stimmabgabe durch ein elektronisches Verfahren (E-Mail, hochschulweites Moodle) ist zulässig, wenn hier die Stimmabgabe eindeutig als solche zu erkennen ist. Das elektronische Umfrageergebnis ist als Anlage der Dokumentation beizulegen.
 
 ## § 15 – Redeliste
 
