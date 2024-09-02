@@ -1,10 +1,8 @@
 # Finanzordnung der Studierendenschaft der Hochschule Emden/Leer
 
-in der Fassung vom XX. Mai 2024
+in der Fassung vom XX. September 2024 auf Basis der Rahmenvorgaben für die Finanzordnung der Studierendenschaft gem. §20 (4) NHG in der Version vom 18.01.2024 und den Maßgaben der § 105 bis 112 der Niedersächsische Landeshaushaltsordnung.
 
 Kontoinhaber der Studierendenschaft ist „Die Studierendenschaft der Hochschule Emden/Leer, vertreten durch den Allgemeinen Studierendenausschuss“.
-
-Gültig sind die „Rahmenvorgaben für die Finanzordnung der Studierendenschaft gem. §20 (4) NHG Stand: 01.01.2024“, _die diesem Dokument angehängt sind_.
 
 Aus Gründen der Lesbarkeit wird in dieser Ordnung die feminine Form verwendet. Alle anderen Geschlechtsformen sind mitgemeint.
 
@@ -19,11 +17,13 @@ Aus Gründen der Lesbarkeit wird in dieser Ordnung die feminine Form verwendet. 
 3. 01.09. – 30.11.
 4. 01.12. – 28/29.02.
 
-## §2 AStA-Vorstand
+## §2 AStA- und AStA-Vorstand
 
 (1) Freizeichnungs- und bankbevollmächtigt sind nur die beiden AStA-Vorsitzenden gemeinsam mit den beiden Finanzreferentinnen (auch „Vorstand" genannt). Zwingend erforderlich ist die Unterschrift einer Finanzreferentin und eines Vorsitzes. Das Vier-Augen-Prinzip ist einzuhalten.
 
 (2) Bei Änderung der Besetzung des AStA-Vorstands ist dem StuPa durch den AStA-Vorstand innerhalb von zwei Wochen ein Schriftstück der Bank vorzuweisen, in dem der Entzug der Zeichnungsberechtigung des scheidenden Vorstandsmitglieds bestätigt wird.
+
+(3) Alle Mitglieder des AStA sind namentlich, mit Angabe des Aufgabenbereichs (hierbei ist immer eine Bankvollmacht und / oder die Berechtigung zur Zahlbarmachung, d. h. Freizeichnung, anzugeben) in einer Liste zu erfassen. Diese ist jeweils zum Anfang des Semesters der Hochschulleitung schriftlich zur Kenntnis zu geben. Nur AStA-Mitglieder (keine Angestellten) mit der Berechtigung zur Zahlbarmachung dürfen eine Bankvollmacht erhalten. Bei Exmatrikulation sind diese Berechtigungen spätestens innerhalb von zwei Wochen zu löschen.
 
 ## §3 Neubesetzung des Finanzreferates
 
@@ -40,13 +40,31 @@ Constantiaplatz 4
 
 ## §5 Haushaltsplan
 
-(1) Der AStA hat zum letzten ordentlichen Sitzungstermin des Studierendenparlamentes vor dem Ende des Haushaltsjahres einen abstimmungsfähigen Haushaltsentwurf für das Folgejahr vorzulegen. Die Vorlage des abgeschlossenen Haushaltes ist bis sechs Wochen nach Ende des Haushaltsjahres beim Studierendenparlament vorzulegen. Aus den Restmitteln, die gemäß Rahmenvorgaben lfd. Nr. 12 maximal 50% der Haushaltsmittel des abgelaufenen Haushaltsjahres – Ausnahmen sind durch die Hochschulleitung zu genehmigen – betragen dürfen, ist ein Nachtragshaushalt zu formulieren und ebenfalls vorzulegen.
+(1) Der AStA hat zum letzten ordentlichen Sitzungstermin des Studierendenparlamentes vor dem Ende des Haushaltsjahres einen abstimmungsfähigen Haushaltsentwurf für das Folgejahr vorzulegen. Die Vorlage des abgeschlossenen Haushaltes ist bis sechs Wochen nach Ende des Haushaltsjahres beim Studierendenparlament vorzulegen.
 
-(2) Geplante Änderungen der Beitragsordnung und eine damit verknüpfte Änderung des AStA-Beitrages sind rechtzeitig schriftlich und begründet der Hochschulleitung zur Prüfung und Freigabe anzuzeigen. Die Festsetzung des AStA-Beitrages hat mit Genehmigung des Haushaltsplans zu Beginn des Haushaltsjahres zu erfolgen (vgl. § 31 Absatz (2) der Organisationssatzung). Die Fristen des Immatrikulationsamtes sind zu beachten.
+(2) Der vom StuPa festzustellenden Haushaltsplan ist mindestens 1 Monat vor dem Beginn des neuen Haushaltsjahres schriftlich und begründet dem/r hauptberuflichen Vizepräsident/in der Hochschule zur Prüfung und Genehmigung anzuzeigen
+
+(3) Sollte die Genehmigung nicht zu Beginn des Haushaltsjahres, d.h. zum 01.03. vorliegen, greift automatisch die vorläufige Haushaltsführung. Dies hat zur Folge, dass nur rechtlich begründete (und nachweispflichtige) Verpflichtungen erfüllt und nur solche Ausgaben geleistet werden dürfen, die zur Erfüllung der Aufgaben der Studierendenschaft unabweisbar notwendig sind.
+
+(4) Nach dem Ende des Haushaltsjahres überlässt der AStA bis zum Ende des Folgemonats des abgelaufenden Haushaltsjahres einen zu erstellenden Abschluss der für das Präsidium prüfenden Organisationseinheit der Hochschule (z. Zt. die Abteilung Finanzen). Verspätungen sind vorher begründet anzumelden und können zur vorläufigen Haushaltssperre führen.
+
+(5) Verbliebene Haushaltsmittel aus Vorjahren (Mittelreste) sind gänzlich im neuen Haushaltplan anzusetzen. Dabei können geplante Mittelbindungen für 1 nachfolgendes Haushaltsjahr als Ausnahme (mit prüffähiger Begründung als Anlage beim geplanten folgenden Haushaltsplan) bis zu maximal 30% der geplanten Einnahmen aus AStA-Beiträgen des zu planenden folgenden Haushaltsjahr genehmigt werden.
+
+(6) Überschreiten die geplanten Einnahmen (inklusive geplanter Mittelreste) die für das folgende Haushaltsjahr begründbaren und benötigten Ausgaben gemäß Haushaltsplan ist der AStA-Beitrag zeitnah für das zu erreichende Semester zu mindern.
+
+(7) Pauschalisierte Auslagenerstattungen, bei ehrenamtlich tätigen AStA- und StuPa-Mitgliedern, sind auf Basis einer durch den StuPa genehmigten Ordnung zu zahlen. Bis zur Höhe der steuerbefreiten monatlichen Pauschale nach § 3 Nr. 12 Satz 2 EStG, ist eine Herleitung (im Sinne von Werbungskosten) nicht erforderlich. Erstattungen für mehrere Tätigkeiten sind zu kumulieren. Sollte eine Herleitung erforderlich sein, ist diese durch den StuPa zu genehmigen. Bei Vorliegen von Einzelnachweisen entfällt diese Herleitung.
+
+(8) Geplante Änderungen der Finanz- und Beitragsordnung und eine damit verknüpfte Änderung des AStA-Beitrages sind mindestens 1 Monat schriftlich und begründet em/r hauptberuflichen Vizepräsident/in der Hochschule zur Prüfung und Genehmigung anzuzeigen. Die Veröffentlichungen der Änderungen haben für alle Studierenden erkennbar rechtzeitig, ordnungsgemäß und angemessen zu erfolgen. Eine rückwirkende Veröffentlichung ist nicht zulässig. Die Festsetzung des AStA-Beitrages hat mit Genehmigung des Haushaltsplans zu Beginn des Haushaltsjahres zu erfolgen (vgl. § 31 Absatz (2) der Organisationssatzung). Die Fristen des Immatrikulationsamtes sind zu beachten.
 
 ## §6 Unterkonto Semesterticket
 
-Dieser Paragraph wurde gestrichen.
+(1) Die Abwicklung der Semesterticketgelder muss getrennt von der allgemeinen Rechnungslegung und mit einem separaten Bankkonto erfolgen.
+
+(2) Die Geschäftsvorfälle sind nach Sommer- und Wintersemester und Vertrag in einzelnen Titeln zu erfassen. Davon ausgenommen sind Mittel, welche im Verantwortungsbereich des AStA liegen (Zinsen, Zahlungen für Härtefälle und evtl. Kosten für die Abwicklung).
+
+(3) Die Regelungen der Vereinbarung mit den Vertragspartnern sind einzuhalten.
+
+(4) Spitzabrechnungen sind zeitnah vorzunehmen und durch die Vertragspartner bestätigt aktenkundig zu machen.
 
 ## §7 Budget der Fachschaftsräte
 
@@ -83,15 +101,61 @@ Dieser Paragraph wurde gestrichen.
 
 (4) Auf Grund von Datenschutzgründen sind hiervon die Sozial- und Studiendarlehen ausgenommen. Hierzu existiert mit der Darlehensordnung eine eigene Ordnung.
 
-## §10 Spenden und Sponsoring
+## §10 Buchführung
+
+(1) Ohne Beleg ist keine Buchung möglich.
+
+(2) Alle Geschäftsvorfälle bedürfen der Schriftform. Verträge haben dem Vier-Augen-Prinzip zu entsprechen und sind vom Vorstand zu zeichnen.
+
+(3) Finanztechnisch relevante Vorgänge mit einer Laufzeit über einem Jahr, oder Vorgänge außerhalb des genehmigten Haushaltsplans, sind begründet und vom StuPa genehmigt aktenkundig zu machen und bei der jährlichen Prüfung durch die Hochschulleitung vorzulegen. Geplante Beteiligungen und Ausgründungen sind rechtzeitig schriftlich und begründet der Hochschulleitung, zur Prüfung und Freigabe, anzuzeigen.
+
+(4) Betriebe gewerblicher Art sind getrennt zu führen und durch ein Steuerberatungsbüro oder vergleichbaren Einrichtungen zu prüfen.
+
+(5) Die Feststellung der sachlichen Richtigkeit hat auf dem Buchungsbegleitzettel, oder dem Rechnungsoriginal, von einer berechtigten Person zu erfolgen. Diese Person bestätigt damit den Empfang der Lieferung / Leistung gem. Auftrag und die Einhaltung der betreffenden Regelungen / Ordnungen. Die sachlich Richtigzeichnende darf diesen Vorgang nicht zur Zahlung freigeben und nicht die Kreditorin oder Debitorin sein. Die Feststellung der rechnerischen Richtigkeit hat von der mit der Buchführung betrauten Person (AStA-Mitglied, oder Angestellte) zu erfolgen. Auch diese Person darf den Vorgang nicht zur Zahlung freigeben.
+
+(6) Jeder Ursprungsbeleg, z. B. Eingangs- oder Ausgangsrechnung, ist mit einem Eingangsdatum zu versehen, in einem Buchungssystem zu erfassen, mit einer fortlaufenden Nummer zu versehen, die auch auf dem Buchungsbegleitzettel notiert wird. Die sachliche und rechnerische Richtigkeit muss geprüft und bestätigt werden. Die Zahlungsfreigabe hat von einem AStA-Vorstandsmitglied zu erfolgen. Die Belege sind nach Titeln, in einem durch die Hochschule freizugebenden Buchhaltungsprogramm, zu erfassen (keine Saldierung von Einnahme und Ausgabetiteln zulässig) und 10 aufzubewahren (ebenfalls auch alle anderen Geschäftsbücher, z. B. Anlagenlisten, Kassenbücher, Buchhaltungssystem, Kontoauszüge, etc.). Ausgangsrechnungen sind in der gesetzlich vorgeschriebenen Form (siehe z. B. Merkblatt der FiBu auf der Homepage) zu standardisieren. Bei Zahlungsverzug ist das gesetzlich vorgeschriebene Verfahren, nach einer Wirtschaftlichkeitsprüfung, anzuwenden. Abschreibungen von Forderungen sind durch den StuPa zu genehmigen und dem Vorgang anzulegen.
+
+(7) Die Bearbeitung von Eigenbelegen, z. B. bei Verlust des Ursprungsbeleges, oder auf einen fremden Namen lautender Beleg, darf nur erfolgen, wenn eine Angabe zur Leistung / Ware dem Hergang zum Verlust / Nichtvorhandensein des Originalbeleges und der Freigabe durch den Vorstand vorhanden ist.
+
+(8) Einnahmen sind rechtzeitig und vollständig zu erheben.
+
+(9) Ausgaben dürfen nur soweit und nicht eher geleistet werden, als diese zur wirtschaftlichen und sparsamen Verwaltung erforderlich sind. Dies ist mindestens bei mehr als 1.000 Euro (netto) je Ursprungsbeleg aktenkundig dem Vorgang beizulegen.
+
+## §11 Kontenführung
+
+(1) Der AStA führt 1 laufendes Konto (dies gilt nicht für die Abwicklung der Semesterticketgelder, siehe §6).
+
+(2) Risikofreie Festanlagen sind mit einer maximalen Anlagefrist von einem Jahr möglich.
+
+(3) Beauftragt werden dürfen inländische Banken oder Sparkassen. Ein Wechsel der Bank oder Sparkasse ist der Hochschulleitung innerhalb von zwei Wochen schriftlich anzuzeigen.
+
+(4) Kreditkarten sind, da nicht dem Vier-Augen-Prinzip genügend, nicht zulässig. Eine Ausnahme stellen Karten zum Ausdruck von Kontobelegen (d. h. ohne PIN und damit ohne Berechtigung zur Bargeldabhebung) dar. Sparbücher oder Ähnliches sind ebenfalls nicht zulässig.
+
+## §12 Kasse
+
+(1) Der AStA verfügt über 1 Kasse.
+
+(2) Die Kasse wird zum gleichen Zeitpunkt jeweils nur von einer Kassenführerin (AStA-Mitglied oder Angestellte) gem. unterschriebener Kassenanweisung (Anlage) geführt. Die Kasse darf nicht von zwei, oder mehreren, Kassenführinnen gleichzeitig geführt werden.
+
+(3) Übergaben sind im Kassenbuch schriftlich anzugeben und die betreffende Seite dann abzuschließen.
+
+(4) Der Bargeldbestand muss angemessen (max. 1.000 Euro) und versichert sein. Notwendige kurzfristige höhere Bargeldbestände (z. B. vor und nach Partys) sind auf eine/n Mindesthöhe und -zeitansatz (4 Wochen) zu begrenzen.
+
+(5) Vorschüsse, z. B. an Studierende im Fachschaftsrat, sind zeitnah, spätestens innerhalb von 6 Monaten und/oder vor dem Haushaltsabschluss, wieder zu 100% zu vereinnahmen (Restgeld und Ursprungsbelege). Nach Ablauf dieser Frist ist unmittelbar durch die Finanzerin, eine Rechnung zu versenden und bei evtl. anschließendem Zahlungsverzug (spätestens 30 Tage nach Rechnungsdatum) eine Mahnung zu veranlassen. Saldierungen, z. B. im Zuge von Veranstaltungen, sind nicht zulässig.
+
+(6) Das Kassenbuch ist monatlich der Buchführung zur Erfassung mit allen Ursprungsbelegen zu übergeben.
+
+(7) Die Kassenführerinnen dürfen nicht buchen.
+
+## §13 Spenden und Sponsoring
 
 (1) Die Studierendenschaft darf zur Erfüllung ihrer Aufgaben Spenden, Schenkungen und ähnliche Zuwendungen annehmen.
 
-(2) Sponsoring-Verträge sind unzulässig.
+(2) Sponsoringvorgänge sind in Gänze (Einhaltung von Landes- und steuerlichen Vorgaben) über ein Steuerberatungsbüro oder Ähnliches abzuwickeln.
 
-(3) Spendeneingänge (z.B. Geld- oder Sachspenden) sind im Vorfeld der Annahme mit der Leitung der Finanzbuchhaltung (FiBu) der Hochschule abzustimmen. Fachschaftsräte benötigen zur Annahme von Spenden die Genehmigung des AStA-Vorstands.
+(3) Sponsoringvorgänge und Spendeneingänge (z. B. Geld- oder Sachspenden) sind im Vorfeld der Annahme mit der Leitung der Finanzbuchhaltung (FiBu) der Hochschule abzustimmen. Fachschaftsräte benötigen zur Annahme von Spenden die Genehmigung des AStA-Vorstands.
 
-## §11 Finanzbelehrung
+## §14 Finanzbelehrung
 
 (1) Innerhalb von sechs Wochen nach Vorlesungsbeginn muss durch den Haushaltsausschuss des Studierendenparlamentes eine Belehrung für
 
@@ -110,21 +174,12 @@ stattgefunden haben, um die Modalitäten der Abrechnung von Handkassen und der B
 
 (5) Die in Absatz 1 benannten Personen beurkunden die Kenntnisse dieser Ordnung mit einer Unterschrift gegenüber dem Studierendenparlament. Wird ein unter Absatz 1 genannter Posten neu besetzt, wird die Beibringung der Kenntnis innerhalb von 4 Wochen oder bis zur nächsten ordentlichen Sitzung des Studierendenparlaments fällig, je nachdem welche Frist später endet.
 
-## §12 Handlung bei Verstößen gegen die Finanzordnung
+## §15 Handlung bei Verstößen gegen die Finanzordnung
 
-(1) Ein Verstoß gegen §11 Absatz 3 hat zur Folge, dass das Studierendenparlament eine Verwarnung gegenüber der betreffenden Person aussprechen kann. Wird dem vom Studierendenparlament angemahnten Problem nicht innerhalb von einem Monat abgeholfen, ist gilt die zweite Verwarnung als ausgesprochen. Mit der zweiten Verwarnung wird der betreffenden Person das Recht zum Umgang mit studentischen Geldern entzogen. Eine erneute Freigabe ist nur durch Beschluss des StuPa möglich.
+(1) Ein Verstoß gegen §13 Absatz 3 hat zur Folge, dass das Studierendenparlament eine Verwarnung gegenüber der betreffenden Person aussprechen kann. Wird dem vom Studierendenparlament angemahnten Problem nicht innerhalb von einem Monat abgeholfen, ist gilt die zweite Verwarnung als ausgesprochen. Mit der zweiten Verwarnung wird der betreffenden Person das Recht zum Umgang mit studentischen Geldern entzogen. Eine erneute Freigabe ist nur durch Beschluss des StuPa möglich.
 
 (2) Für nicht hier genannte Verstöße gegen die Finanzordnung behält sich das Studierendenparlament das Sanktionsrecht auf Beschlussbasis vor.
 
-## §13 Salvatorische Klausel
-
-Sollten einzelne Bestimmungen dieser Finanzordnung unwirksam sein oder nach ihrer Verabschiedung unwirksam werden, bleibt die Wirksamkeit der Finanzordnung im Übrigen unberührt. In einem solchen Fall hat das Studierendenparlament das Recht und die Pflicht, die betroffenen Bestimmungen baldmöglichst durch diejenigen zu ersetzen, die der Intention der ursprünglichen Formulierung am nächsten kommen.
-
-## §14 Veröffentlichung
+## §16 Veröffentlichung
 
 Diese Finanzordnung tritt mit Veröffentlichung in Kraft.
-
-**Anlage**
-
-- Rahmenvorgaben für die Finanzordnung der Studierendenschaft gem. §20 (4) NHG Stand:
-01.01.2024
