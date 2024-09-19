@@ -1,6 +1,6 @@
 # Finanzordnung der Studierendenschaft der Hochschule Emden/Leer
 
-in der Fassung vom XX. September 2024 auf Basis der Rahmenvorgaben für die Finanzordnung der Studierendenschaft gem. §20 (4) NHG in der Version vom 18.01.2024 und den Maßgaben der § 105 bis 112 der Niedersächsische Landeshaushaltsordnung.
+in der Fassung vom XX. September 2024 auf Basis der Rahmenvorgaben für die Finanzordnung der Studierendenschaft gem. §20 (4) NHG in der Version vom 18.01.2024 und den Maßgaben der § 105 bis 112 der Niedersächsischen Landeshaushaltsordnung.
 
 Kontoinhaber der Studierendenschaft ist „Die Studierendenschaft der Hochschule Emden/Leer, vertreten durch den Allgemeinen Studierendenausschuss“.
 
@@ -42,7 +42,7 @@ Constantiaplatz 4
 
 (1) Der AStA hat zum letzten ordentlichen Sitzungstermin des Studierendenparlamentes vor dem Ende des Haushaltsjahres einen abstimmungsfähigen Haushaltsentwurf für das Folgejahr vorzulegen. Die Vorlage des abgeschlossenen Haushaltes ist bis sechs Wochen nach Ende des Haushaltsjahres beim Studierendenparlament vorzulegen.
 
-(2) Der vom StuPa festzustellenden Haushaltsplan ist mindestens 1 Monat vor dem Beginn des neuen Haushaltsjahres schriftlich und begründet dem/r hauptberuflichen Vizepräsident/in der Hochschule zur Prüfung und Genehmigung anzuzeigen
+(2) Der vom StuPa festzustellenden Haushaltsplan ist mindestens 1 Monat vor dem Beginn des neuen Haushaltsjahres schriftlich und begründet der hauptberuflichen Vizepräsidentin der Hochschule zur Prüfung und Genehmigung anzuzeigen
 
 (3) Sollte die Genehmigung nicht zu Beginn des Haushaltsjahres, d.h. zum 01.03. vorliegen, greift automatisch die vorläufige Haushaltsführung. Dies hat zur Folge, dass nur rechtlich begründete (und nachweispflichtige) Verpflichtungen erfüllt und nur solche Ausgaben geleistet werden dürfen, die zur Erfüllung der Aufgaben der Studierendenschaft unabweisbar notwendig sind.
 
@@ -54,7 +54,7 @@ Constantiaplatz 4
 
 (7) Pauschalisierte Auslagenerstattungen, bei ehrenamtlich tätigen AStA- und StuPa-Mitgliedern, sind auf Basis einer durch den StuPa genehmigten Ordnung zu zahlen. Bis zur Höhe der steuerbefreiten monatlichen Pauschale nach § 3 Nr. 12 Satz 2 EStG, ist eine Herleitung (im Sinne von Werbungskosten) nicht erforderlich. Erstattungen für mehrere Tätigkeiten sind zu kumulieren. Sollte eine Herleitung erforderlich sein, ist diese durch den StuPa zu genehmigen. Bei Vorliegen von Einzelnachweisen entfällt diese Herleitung.
 
-(8) Geplante Änderungen der Finanz- und Beitragsordnung und eine damit verknüpfte Änderung des AStA-Beitrages sind mindestens 1 Monat schriftlich und begründet em/r hauptberuflichen Vizepräsident/in der Hochschule zur Prüfung und Genehmigung anzuzeigen. Die Veröffentlichungen der Änderungen haben für alle Studierenden erkennbar rechtzeitig, ordnungsgemäß und angemessen zu erfolgen. Eine rückwirkende Veröffentlichung ist nicht zulässig. Die Festsetzung des AStA-Beitrages hat mit Genehmigung des Haushaltsplans zu Beginn des Haushaltsjahres zu erfolgen (vgl. § 31 Absatz (2) der Organisationssatzung). Die Fristen des Immatrikulationsamtes sind zu beachten.
+(8) Geplante Änderungen der Finanz- und Beitragsordnung und eine damit verknüpfte Änderung des AStA-Beitrages sind mindestens 1 Monat schriftlich und begründet der hauptberuflichen Vizepräsidentin der Hochschule zur Prüfung und Genehmigung anzuzeigen. Die Veröffentlichungen der Änderungen haben für alle Studierenden erkennbar rechtzeitig, ordnungsgemäß und angemessen zu erfolgen. Eine rückwirkende Veröffentlichung ist nicht zulässig. Die Festsetzung des AStA-Beitrages hat mit Genehmigung des Haushaltsplans zu Beginn des Haushaltsjahres zu erfolgen (vgl. § 31 Absatz (2) der Organisationssatzung). Die Fristen des Immatrikulationsamtes sind zu beachten.
 
 ## §6 Unterkonto Semesterticket
 
@@ -62,9 +62,9 @@ Constantiaplatz 4
 
 (2) Die Geschäftsvorfälle sind nach Sommer- und Wintersemester und Vertrag in einzelnen Titeln zu erfassen. Davon ausgenommen sind Mittel, welche im Verantwortungsbereich des AStA liegen (Zinsen, Zahlungen für Härtefälle und evtl. Kosten für die Abwicklung).
 
-(3) Die Regelungen der Vereinbarung mit den Vertragspartnern sind einzuhalten.
+(3) Die Regelungen der Vereinbarung mit den Vertragspartnerinnen sind einzuhalten.
 
-(4) Spitzabrechnungen sind zeitnah vorzunehmen und durch die Vertragspartner bestätigt aktenkundig zu machen.
+(4) Spitzabrechnungen sind zeitnah vorzunehmen und durch die Vertragspartnerinnen bestätigt aktenkundig zu machen.
 
 ## §7 Budget der Fachschaftsräte
 
@@ -111,7 +111,7 @@ Constantiaplatz 4
 
 (4) Betriebe gewerblicher Art sind getrennt zu führen und durch ein Steuerberatungsbüro oder vergleichbaren Einrichtungen zu prüfen.
 
-(5) Die Feststellung der sachlichen Richtigkeit hat auf dem Buchungsbegleitzettel, oder dem Rechnungsoriginal, von einer berechtigten Person zu erfolgen. Diese Person bestätigt damit den Empfang der Lieferung / Leistung gem. Auftrag und die Einhaltung der betreffenden Regelungen / Ordnungen. Die sachlich Richtigzeichnende darf diesen Vorgang nicht zur Zahlung freigeben und nicht die Kreditorin oder Debitorin sein. Die Feststellung der rechnerischen Richtigkeit hat von der mit der Buchführung betrauten Person (AStA-Mitglied, oder Angestellte) zu erfolgen. Auch diese Person darf den Vorgang nicht zur Zahlung freigeben.
+(5) Die Feststellung der sachlichen Richtigkeit hat auf dem Buchungsbegleitzettel, oder dem Rechnungsoriginal, von einer berechtigten Person zu erfolgen. Diese Person bestätigt damit den Empfang der Lieferung / Leistung gem. Auftrag und die Einhaltung der betreffenden Regelungen / Ordnungen. Die sachlich Richtigzeichnende darf diesen Vorgang nicht zur Zahlung freigeben und nicht die Kreditorin oder Debitorin sein. Die Feststellung der rechnerischen Richtigkeit hat von der mit der Buchführung betrauten Person (AStA-Mitglied oder Angestellte) zu erfolgen. Auch diese Person darf den Vorgang nicht zur Zahlung freigeben.
 
 (6) Jeder Ursprungsbeleg, z. B. Eingangs- oder Ausgangsrechnung, ist mit einem Eingangsdatum zu versehen, in einem Buchungssystem zu erfassen, mit einer fortlaufenden Nummer zu versehen, die auch auf dem Buchungsbegleitzettel notiert wird. Die sachliche und rechnerische Richtigkeit muss geprüft und bestätigt werden. Die Zahlungsfreigabe hat von einem AStA-Vorstandsmitglied zu erfolgen. Die Belege sind nach Titeln, in einem durch die Hochschule freizugebenden Buchhaltungsprogramm, zu erfassen (keine Saldierung von Einnahme und Ausgabetiteln zulässig) und 10 aufzubewahren (ebenfalls auch alle anderen Geschäftsbücher, z. B. Anlagenlisten, Kassenbücher, Buchhaltungssystem, Kontoauszüge, etc.). Ausgangsrechnungen sind in der gesetzlich vorgeschriebenen Form (siehe z. B. Merkblatt der FiBu auf der Homepage) zu standardisieren. Bei Zahlungsverzug ist das gesetzlich vorgeschriebene Verfahren, nach einer Wirtschaftlichkeitsprüfung, anzuwenden. Abschreibungen von Forderungen sind durch den StuPa zu genehmigen und dem Vorgang anzulegen.
 
@@ -139,7 +139,7 @@ Constantiaplatz 4
 
 (3) Übergaben sind im Kassenbuch schriftlich anzugeben und die betreffende Seite dann abzuschließen.
 
-(4) Der Bargeldbestand muss angemessen (max. 1.000 Euro) und versichert sein. Notwendige kurzfristige höhere Bargeldbestände (z. B. vor und nach Partys) sind auf eine/n Mindesthöhe und -zeitansatz (4 Wochen) zu begrenzen.
+(4) Der Bargeldbestand muss angemessen (max. 1.000 Euro) und versichert sein. Notwendige kurzfristige höhere Bargeldbestände (z. B. vor und nach Veranstaltungen) sind auf eine/n Mindesthöhe und -zeitansatz (4 Wochen) zu begrenzen.
 
 (5) Vorschüsse, z. B. an Studierende im Fachschaftsrat, sind zeitnah, spätestens innerhalb von 6 Monaten und/oder vor dem Haushaltsabschluss, wieder zu 100% zu vereinnahmen (Restgeld und Ursprungsbelege). Nach Ablauf dieser Frist ist unmittelbar durch die Finanzerin, eine Rechnung zu versenden und bei evtl. anschließendem Zahlungsverzug (spätestens 30 Tage nach Rechnungsdatum) eine Mahnung zu veranlassen. Saldierungen, z. B. im Zuge von Veranstaltungen, sind nicht zulässig.
 
@@ -168,7 +168,7 @@ stattgefunden haben, um die Modalitäten der Abrechnung von Handkassen und der B
 
 (2) In Ausnahme- und Einzelfällen kann die Belehrung nach Absatz 1 in Absprache mit dem StuPa durch den AStA-Vorstand durchgeführt werden.
 
-(3) Zur Auslösung betriebswirtschaftlicher Geschäftsvorfälle (Bestellungen o. ä.) sind nur Mitglieder des AStA, des StuPa und der FSRe berechtigt, die vom AStA dazu berechtigt wurden. Diese müssen die Kenntnis über die Finanzordnung nach erfolgter Finanzbelehrung gemäß Absatz 1 und 2 gezeichnet haben.
+(3) Zur Auslösung betriebswirtschaftlicher Geschäftsvorfälle (Bestellungen o. ä.) sind nur Mitglieder des AStA, des StuPa und der FSRe berechtigt, die vom AStA-Vorsitz dazu berechtigt wurden. Diese müssen die Kenntnis über die Finanzordnung nach erfolgter Finanzbelehrung gemäß Absatz 1 und 2 gezeichnet haben.
 
 (4) Personen, die nicht nach Absatz 3 zur Auslösung betriebswirtschaftlicher Geschäftsvorfälle berechtigt sind, haben nur die Möglichkeit zur Nutzung eines personenbezogenen Vorschusses.
 
