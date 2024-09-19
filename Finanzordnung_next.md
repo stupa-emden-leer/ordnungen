@@ -42,9 +42,9 @@ Constantiaplatz 4
 
 (1) Der AStA hat zum letzten ordentlichen Sitzungstermin des Studierendenparlamentes vor dem Ende des Haushaltsjahres einen abstimmungsfähigen Haushaltsentwurf für das Folgejahr vorzulegen. Die Vorlage des abgeschlossenen Haushaltes ist bis sechs Wochen nach Ende des Haushaltsjahres beim Studierendenparlament vorzulegen.
 
-(2) Der vom StuPa festzustellenden Haushaltsplan ist mindestens 1 Monat vor dem Beginn des neuen Haushaltsjahres schriftlich und begründet der hauptberuflichen Vizepräsidentin der Hochschule zur Prüfung und Genehmigung anzuzeigen
+(2) Der vom StuPa festzustellenden Haushaltsplan ist mindestens 1 Monat vor dem Beginn des neuen Haushaltsjahres schriftlich und begründet der hauptberuflichen Vizepräsidentin der Hochschule zur Prüfung und Genehmigung anzuzeigen.
 
-(3) Sollte die Genehmigung nicht zu Beginn des Haushaltsjahres, d.h. zum 01.03. vorliegen, greift automatisch die vorläufige Haushaltsführung. Dies hat zur Folge, dass nur rechtlich begründete (und nachweispflichtige) Verpflichtungen erfüllt und nur solche Ausgaben geleistet werden dürfen, die zur Erfüllung der Aufgaben der Studierendenschaft unabweisbar notwendig sind.
+(3) Sollte die Genehmigung nicht zu Beginn des Haushaltsjahres, d. h. zum 01.03. vorliegen, greift automatisch die vorläufige Haushaltsführung. Dies hat zur Folge, dass nur rechtlich begründete (und nachweispflichtige) Verpflichtungen erfüllt und nur solche Ausgaben geleistet werden dürfen, die zur Erfüllung der Aufgaben der Studierendenschaft unabweisbar notwendig sind.
 
 (4) Nach dem Ende des Haushaltsjahres überlässt der AStA bis zum Ende des Folgemonats des abgelaufenden Haushaltsjahres einen zu erstellenden Abschluss der für das Präsidium prüfenden Organisationseinheit der Hochschule (z. Zt. die Abteilung Finanzen). Verspätungen sind vorher begründet anzumelden und können zur vorläufigen Haushaltssperre führen.
 
@@ -72,7 +72,7 @@ Constantiaplatz 4
 
 (2) Die Budgets der einzelnen Fachschaftsräte berechnen sich wie folgt:
 
-- Jeder Fachschaftsrat hat einen Fixbetrag von 1.000,- € pro Haushaltsjahr zur Verfügung.
+- Jeder Fachschaftsrat hat einen Fixbetrag von 1.000,– € pro Haushaltsjahr zur Verfügung.
 - Der Rest der im Haushalt bereitgestellten Summe wird prozentual, gemessen an der aktuellen Anzahl der im jeweiligen Fachbereich bzw. der jeweiligen Abteilung eingeschriebenen Studierenden zur Gesamtzahl aller Studierenden der Hochschule Emden/Leer, aufgeteilt.
 
 (3) Der AStA hat keine Weisungsbefugnis über die Budgets der Fachschaftsräte.
@@ -113,7 +113,7 @@ Constantiaplatz 4
 
 (5) Die Feststellung der sachlichen Richtigkeit hat auf dem Buchungsbegleitzettel, oder dem Rechnungsoriginal, von einer berechtigten Person zu erfolgen. Diese Person bestätigt damit den Empfang der Lieferung / Leistung gem. Auftrag und die Einhaltung der betreffenden Regelungen / Ordnungen. Die sachlich Richtigzeichnende darf diesen Vorgang nicht zur Zahlung freigeben und nicht die Kreditorin oder Debitorin sein. Die Feststellung der rechnerischen Richtigkeit hat von der mit der Buchführung betrauten Person (AStA-Mitglied oder Angestellte) zu erfolgen. Auch diese Person darf den Vorgang nicht zur Zahlung freigeben.
 
-(6) Jeder Ursprungsbeleg, z. B. Eingangs- oder Ausgangsrechnung, ist mit einem Eingangsdatum zu versehen, in einem Buchungssystem zu erfassen, mit einer fortlaufenden Nummer zu versehen, die auch auf dem Buchungsbegleitzettel notiert wird. Die sachliche und rechnerische Richtigkeit muss geprüft und bestätigt werden. Die Zahlungsfreigabe hat von einem AStA-Vorstandsmitglied zu erfolgen. Die Belege sind nach Titeln, in einem durch die Hochschule freizugebenden Buchhaltungsprogramm, zu erfassen (keine Saldierung von Einnahme und Ausgabetiteln zulässig) und 10 aufzubewahren (ebenfalls auch alle anderen Geschäftsbücher, z. B. Anlagenlisten, Kassenbücher, Buchhaltungssystem, Kontoauszüge, etc.). Ausgangsrechnungen sind in der gesetzlich vorgeschriebenen Form (siehe z. B. Merkblatt der FiBu auf der Homepage) zu standardisieren. Bei Zahlungsverzug ist das gesetzlich vorgeschriebene Verfahren, nach einer Wirtschaftlichkeitsprüfung, anzuwenden. Abschreibungen von Forderungen sind durch den StuPa zu genehmigen und dem Vorgang anzulegen.
+(6) Jeder Ursprungsbeleg, z. B. Eingangs- oder Ausgangsrechnung, ist mit einem Eingangsdatum zu versehen, in einem Buchungssystem zu erfassen, mit einer fortlaufenden Nummer zu versehen, die auch auf dem Buchungsbegleitzettel notiert wird. Die sachliche und rechnerische Richtigkeit muss geprüft und bestätigt werden. Die Zahlungsfreigabe hat von einem AStA-Vorstandsmitglied zu erfolgen. Die Belege sind in einem durch die Hochschule freizugebenden Buchhaltungsprogramm nach Titeln zu erfassen (keine Saldierung von Einnahme und Ausgabetiteln zulässig) und 10 Jahre lang aufzubewahren (ebenfalls auch alle anderen Geschäftsbücher, z. B. Anlagenlisten, Kassenbücher, Buchhaltungssystem, Kontoauszüge, etc.). Ausgangsrechnungen sind in der gesetzlich vorgeschriebenen Form (siehe z. B. Merkblatt der FiBu auf der Homepage) zu standardisieren. Bei Zahlungsverzug ist das gesetzlich vorgeschriebene Verfahren, nach einer Wirtschaftlichkeitsprüfung, anzuwenden. Abschreibungen von Forderungen sind durch den StuPa zu genehmigen und dem Vorgang anzulegen.
 
 (7) Die Bearbeitung von Eigenbelegen, z. B. bei Verlust des Ursprungsbeleges, oder auf einen fremden Namen lautender Beleg, darf nur erfolgen, wenn eine Angabe zur Leistung / Ware dem Hergang zum Verlust / Nichtvorhandensein des Originalbeleges und der Freigabe durch den Vorstand vorhanden ist.
 
@@ -135,11 +135,11 @@ Constantiaplatz 4
 
 (1) Der AStA verfügt über 1 Kasse.
 
-(2) Die Kasse wird zum gleichen Zeitpunkt jeweils nur von einer Kassenführerin (AStA-Mitglied oder Angestellte) gem. unterschriebener Kassenanweisung (Anlage) geführt. Die Kasse darf nicht von zwei, oder mehreren, Kassenführinnen gleichzeitig geführt werden.
+(2) Die Kasse wird zum gleichen Zeitpunkt jeweils nur von einer Kassenführerin (AStA-Mitglied oder Angestellte) gemäß unterschriebener Kassenanweisung (Anlage) geführt. Die Kasse darf nicht von zwei, oder mehreren, Kassenführinnen gleichzeitig geführt werden.
 
 (3) Übergaben sind im Kassenbuch schriftlich anzugeben und die betreffende Seite dann abzuschließen.
 
-(4) Der Bargeldbestand muss angemessen (max. 1.000 Euro) und versichert sein. Notwendige kurzfristige höhere Bargeldbestände (z. B. vor und nach Veranstaltungen) sind auf eine/n Mindesthöhe und -zeitansatz (4 Wochen) zu begrenzen.
+(4) Der Bargeldbestand muss angemessen (max. 1.000 Euro) und versichert sein. Notwendige kurzfristige höhere Bargeldbestände (z. B. vor und nach Veranstaltungen) sind in ihrer Höhe und Dauer (maximal 4 Wochen) auf ein Minimum zu begrenzen.
 
 (5) Vorschüsse, z. B. an Studierende im Fachschaftsrat, sind zeitnah, spätestens innerhalb von 6 Monaten und/oder vor dem Haushaltsabschluss, wieder zu 100% zu vereinnahmen (Restgeld und Ursprungsbelege). Nach Ablauf dieser Frist ist unmittelbar durch die Finanzerin, eine Rechnung zu versenden und bei evtl. anschließendem Zahlungsverzug (spätestens 30 Tage nach Rechnungsdatum) eine Mahnung zu veranlassen. Saldierungen, z. B. im Zuge von Veranstaltungen, sind nicht zulässig.
 
@@ -153,7 +153,9 @@ Constantiaplatz 4
 
 (2) Sponsoringvorgänge sind in Gänze (Einhaltung von Landes- und steuerlichen Vorgaben) über ein Steuerberatungsbüro oder Ähnliches abzuwickeln.
 
-(3) Sponsoringvorgänge und Spendeneingänge (z. B. Geld- oder Sachspenden) sind im Vorfeld der Annahme mit der Leitung der Finanzbuchhaltung (FiBu) der Hochschule abzustimmen. Fachschaftsräte benötigen zur Annahme von Spenden die Genehmigung des AStA-Vorstands.
+(3) Sponsoringvorgänge und Spendeneingänge (z. B. Geld- oder Sachspenden) sind im Vorfeld der Annahme mit der Leitung der Finanzbuchhaltung (FiBu) der Hochschule abzustimmen.
+
+(4) Fachschaftsräte benötigen zur Annahme von Spenden die Genehmigung des AStA-Vorstands.
 
 ## §14 Finanzbelehrung
 
