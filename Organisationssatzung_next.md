@@ -260,8 +260,8 @@ Die regelmäßige Amtszeit der Mitglieder beträgt ein Jahr, beginnend mit dem 1
 1. wenn ihre Amtsperiode endet,
 2. durch schriftlichen Rücktritt,
 3. durch Exmatrikulation,
-4. bei Verstößen gegen Satzungen oder Geschäftsordnungen durch ein Mitglied kann mit einer Mehrheit von zwei Dritteln der Mitglieder ein Antrag auf Abwahl des betreffenden Mitglieds an das Studierendenparlament gestellt werden. Dieses muss sich innerhalb von zwei Wochen mit dem Abwahlantrag befassen oder
-5. bei wiederholten mutwilligen Verstößen gegen Satzungen oder Geschäftsordnungen kann eine Verwarnung an das betreffende Mitglied des AStA vonseiten des Studierendenparlaments ergehen. Einer solchen Verwarnung muss eine Anhörung des betreffenden Mitgliedes vorausgehen. Bei dieser Anhörung hat das zu verwarnende Mitglied das Recht, das Studierendenparlament um Ausschluss der Öffentlichkeit zu ersuchen. Das Studierendenparlament muss diesem Antrag zustimmen. Weiter muss die Verwarnung mit einer Mehrheit von zwei Dritteln der Mitglieder des Studierendenparlaments beschlossen werden. Ein verwarntes Mitglied des AStA kann bei Fortführung der Verstöße mit einer Mehrheit von zwei Dritteln der Mitglieder des Studierendenparlaments aus dem AStA herausgewählt werden.
+4. durch Abwahl durch das Studierendenparlament mit einer Mehrheit von zwei Dritteln oder
+5. durch ersetzende Wahl eines neuen AStA-Mitgliedes gemäß § 17 Absatz 3.
 
 (2) Frei werdende Stellen sind durch den AStA schnellstmöglich, maximal innerhalb von drei Wochen, zu besetzen. Sollte dies nicht möglich sein, werden die Stellen übergangsweise für maximal vier Wochen durch das Studierendenparlament besetzt. Bis zur ordentlichen Wahl durch den AStA und das Studierendenparlament sind diese Mitglieder nicht zeichnungs- und stimmberechtigt. Bei gleicher Eignung sind nicht im Studierendenparlament vertretene Studierende zu bevorzugen.
 
@@ -422,4 +422,4 @@ Sollten einzelne Bestimmungen dieser Satzung unwirksam sein oder nach ihrer Vera
 
 Diese Satzung tritt am Tag nach ihrer hochschulöffentlichen Bekanntmachung im Verkündungsblatt der Hochschule Emden/Leer in Kraft.
 
-Emden, den 19. Oktober 2023
+Emden, den XX. Monat 2024
