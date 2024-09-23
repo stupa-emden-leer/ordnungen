@@ -20,17 +20,15 @@ Aufgrund des § 6 Absatz 7 der Organisationssatzung der Studierendenschaft der H
 
 (2) Das jeweilige Gremium kann im Rahmen des Beschwerdeverfahrens hiervon abweichen, sofern notwendig und geboten. Dies kann beispielsweise selektiv für Zeugenaussagen oder Beratung durch Externe erfolgen.
 
-(3) Auf Wunsch der Beschwerdeführerin kann ihre Identität gegenüber der Beschwerdegegnerin geheim gehalten werden.
+(3) Auf Wunsch von Zeuginnen kann ihre Identität gegenüber dem Beschwerdeführerin oder Beschwerdegegnerin geheim gehalten werden.
 
-(4) Auf Wunsch von Zeuginnen kann ihre Identität gegenüber dem Beschwerdeführerin oder Beschwerdegegnerin geheim gehalten werden.
+(4) Falls eine Beschwerde im Hochschulöffentlichem Interesse ist und die Absätze 3 und 4 dem nicht widersprechen, ist das Beschwerdeverfahren hochschulöffentlich zu führen.
 
-(5) Falls eine Beschwerde im Hochschulöffentlichem Interesse ist und die Absätze 3 und 4 dem nicht widersprechen, ist das Beschwerdeverfahren hochschulöffentlich zu führen.
-
-(6) Aus einem Beschwerdeverfahren resultierende Verbesserungsvorschläge der Beschwerdeordnung unterliegen gegenüber dem Studierendenparlament nicht der Vertraulichkeit.
+(5) Aus einem Beschwerdeverfahren resultierende Verbesserungsvorschläge der Beschwerdeordnung unterliegen gegenüber dem Studierendenparlament nicht der Vertraulichkeit.
 
 ## § 3 Beschwerdeverfahren
 
-(1) Ein Beschwerdeverfahren ist in folgender Reihenfolge abgehalten werden:
+(1) Ein Beschwerdeverfahren ist in folgender Reihenfolge abzuhalten:
 1. Das Gremium befasst sich unter Ausschluss der Öffentlichkeit mit der Beschwerde.
 2. Das Gremium hört die Beschwerdeführerinnen und Beschwerdegegnerinnen jeweils einzeln an.
 3. Das Gremium hört ggf. Zeuginnen an.
