@@ -10,7 +10,7 @@ Aufgrund des § 6 Absatz 7 der Organisationssatzung der Studierendenschaft der H
 
 (2) Die Schriftform ist nicht erforderlich, aber nach Möglichkeit zu bevorzugen.
 
-(3) Das jeweilge Gremium hat die Beschwerde spätestens auf der nächsten Sitzung zu besprechen.
+(3) Das jeweilige Gremium hat die Beschwerde spätestens auf der nächsten Sitzung zu besprechen.
 
 (4) In dringenden Fällen kann das Gremium oder dessen Vorsitz entscheiden, die Beschwerde auf einer außerordentlichen Sitzung oder in einem geeigneten, anderen Rahmen zu behandeln.
 
@@ -22,7 +22,7 @@ Aufgrund des § 6 Absatz 7 der Organisationssatzung der Studierendenschaft der H
 
 (3) Auf Wunsch von Zeuginnen kann ihre Identität gegenüber dem Beschwerdeführerin oder Beschwerdegegnerin geheim gehalten werden.
 
-(4) Falls eine Beschwerde im Hochschulöffentlichem Interesse ist und die Absätze 3 und 4 dem nicht widersprechen, ist das Beschwerdeverfahren hochschulöffentlich zu führen.
+(4) Falls eine Beschwerde im hochschulöffentlichen Interesse ist und die Absätze 3 und 4 dem nicht widersprechen, ist das Beschwerdeverfahren hochschulöffentlich zu führen.
 
 (5) Aus einem Beschwerdeverfahren resultierende Verbesserungsvorschläge der Beschwerdeordnung unterliegen gegenüber dem Studierendenparlament nicht der Vertraulichkeit.
 
