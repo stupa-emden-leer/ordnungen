@@ -63,9 +63,7 @@ Aufgrund des § 20 Absatz 2 Satz 1 des Niedersächsischen Hochschulgesetzes vom 
 
 (1) Jedes Mitglied der Studierendenschaft hat das aktive und passive Wahlrecht.
 
-(2) Die Hochschulwahlen für die studentischen Gremien finden an drei aufeinander folgenden Werktagen statt.
-
-(3) Näheres regelt die Wahlordnung.
+(2) Näheres regelt die Wahlordnung.
 
 ### § 6 Beschwerderecht
 
