@@ -1,6 +1,6 @@
 # Finanzordnung der Studierendenschaft der Hochschule Emden/Leer
 
-in der Fassung vom XX. September 2024 auf Basis der Rahmenvorgaben für die Finanzordnung der Studierendenschaft gemäß § 20 Absatz 4 des Niedersächsischen Hochschulgesetzes in der Version vom 18. Januar 2024 und den Maßgaben der § 105 bis 112 der Niedersächsischen Landeshaushaltsordnung.
+in der Fassung vom XX. Oktober 2024 auf Basis der Rahmenvorgaben für die Finanzordnung der Studierendenschaft gemäß § 20 Absatz 4 des Niedersächsischen Hochschulgesetzes in der Version vom 18. Januar 2024 und den Maßgaben der § 105 bis 112 der Niedersächsischen Landeshaushaltsordnung.
 
 Kontoinhaber der Studierendenschaft ist „Die Studierendenschaft der Hochschule Emden/Leer, vertreten durch den Allgemeinen Studierendenausschuss“.
 
@@ -23,7 +23,7 @@ Aus Gründen der Lesbarkeit wird in dieser Ordnung die feminine Form verwendet. 
 
 (2) Bei Änderung der Besetzung des AStA-Vorstands ist dem StuPa durch den AStA-Vorstand innerhalb von zwei Wochen ein Schriftstück der Bank vorzuweisen, in dem der Entzug der Zeichnungsberechtigung des scheidenden Vorstandsmitglieds bestätigt wird.
 
-(3) Alle Mitglieder des AStA sind namentlich, mit Angabe des Aufgabenbereichs (hierbei ist immer eine Bankvollmacht und / oder die Berechtigung zur Zahlbarmachung, das heißt Freizeichnung, anzugeben) in einer Liste zu erfassen. Diese ist jeweils zum Anfang des Semesters der Hochschulleitung schriftlich zur Kenntnis zu geben. Nur AStA-Mitglieder (keine Angestellten) mit der Berechtigung zur Zahlbarmachung dürfen eine Bankvollmacht erhalten. Bei Exmatrikulation sind diese Berechtigungen spätestens innerhalb von zwei Wochen zu löschen.
+(3) Alle Mitglieder des AStA sind namentlich, mit Angabe des Aufgabenbereichs (hierbei ist immer eine Bankvollmacht und/oder die Berechtigung zur Zahlbarmachung, das heißt Freizeichnung, anzugeben) in einer Liste zu erfassen. Diese ist jeweils zum Anfang des Semesters der Hochschulleitung schriftlich zur Kenntnis zu geben. Nur AStA-Mitglieder (keine Angestellten) mit der Berechtigung zur Zahlbarmachung dürfen eine Bankvollmacht erhalten. Bei Exmatrikulation sind diese Berechtigungen spätestens innerhalb von zwei Wochen zu löschen.
 
 ## § 3 Neubesetzung des Finanzreferates
 
@@ -42,11 +42,11 @@ Constantiaplatz 4
 
 (1) Der AStA hat zum letzten ordentlichen Sitzungstermin des Studierendenparlamentes vor dem Ende des Haushaltsjahres einen abstimmungsfähigen Haushaltsentwurf für das Folgejahr vorzulegen. Die Vorlage des abgeschlossenen Haushaltes ist bis sechs Wochen nach Ende des Haushaltsjahres beim Studierendenparlament vorzulegen.
 
-(2) Der vom StuPa festzustellende Haushaltsplan ist mindestens 1 Monat vor dem Beginn des neuen Haushaltsjahres schriftlich und begründet der hauptberuflichen Vizepräsidentin der Hochschule zur Prüfung und Genehmigung anzuzeigen.
+(2) Der vom StuPa festzustellende Haushaltsplan ist mindestens einen Monat vor dem Beginn des neuen Haushaltsjahres schriftlich und begründet der hauptberuflichen Vizepräsidentin der Hochschule zur Prüfung und Genehmigung anzuzeigen.
 
-(3) Sollte die Genehmigung nicht zu Beginn des Haushaltsjahres, das heißt zum 01.03. vorliegen, greift automatisch die vorläufige Haushaltsführung. Dies hat zur Folge, dass nur rechtlich begründete (und nachweispflichtige) Verpflichtungen erfüllt und nur solche Ausgaben geleistet werden dürfen, die zur Erfüllung der Aufgaben der Studierendenschaft unabweisbar notwendig sind.
+(3) Sollte die Genehmigung nicht zu Beginn des Haushaltsjahres, das heißt zum 1. März vorliegen, greift automatisch die vorläufige Haushaltsführung. Dies hat zur Folge, dass nur rechtlich begründete (und nachweispflichtige) Verpflichtungen erfüllt und nur solche Ausgaben geleistet werden dürfen, die zur Erfüllung der Aufgaben der Studierendenschaft unabweisbar notwendig sind.
 
-(4) Nach dem Ende des Haushaltsjahres überlässt der AStA bis zum Ende des Folgemonats des abgelaufenden Haushaltsjahres einen zu erstellenden Abschluss der für das Präsidium prüfenden Organisationseinheit der Hochschule (z. Zt. die Abteilung Finanzen). Verspätungen sind vorher begründet anzumelden und können zur vorläufigen Haushaltssperre führen.
+(4) Nach dem Ende des Haushaltsjahres überlässt der AStA bis zum Ende des Folgemonats des abgelaufenden Haushaltsjahres einen zu erstellenden Abschluss der für das Präsidium prüfenden Organisationseinheit der Hochschule (zur Zeit die Abteilung Finanzen). Verspätungen sind vorher begründet anzumelden und können zur vorläufigen Haushaltssperre führen.
 
 (5) Verbliebene Haushaltsmittel aus Vorjahren (Mittelreste) sind gänzlich im neuen Haushaltplan anzusetzen. Dabei können geplante Mittelbindungen für ein nachfolgendes Haushaltsjahr als Ausnahme (mit prüffähiger Begründung als Anlage beim geplanten folgenden Haushaltsplan) bis zu maximal 30 % der geplanten Einnahmen aus AStA-Beiträgen des zu planenden folgenden Haushaltsjahr genehmigt werden.
 
@@ -54,7 +54,7 @@ Constantiaplatz 4
 
 (7) Pauschalisierte Auslagenerstattungen, bei ehrenamtlich tätigen AStA- und StuPa-Mitgliedern, sind auf Basis einer durch den StuPa genehmigten Ordnung zu zahlen. Bis zur Höhe der steuerbefreiten monatlichen Pauschale nach § 3 Nummer 12 Satz 2 Einkommensteuergesetz, ist eine Herleitung (im Sinne von Werbungskosten) nicht erforderlich. Erstattungen für mehrere Tätigkeiten sind zu kumulieren. Sollte eine Herleitung erforderlich sein, ist diese durch den StuPa zu genehmigen. Bei Vorliegen von Einzelnachweisen entfällt diese Herleitung.
 
-(8) Geplante Änderungen der Finanz- und Beitragsordnung und eine damit verknüpfte Änderung des AStA-Beitrages sind mindestens 1 Monat schriftlich und begründet der hauptberuflichen Vizepräsidentin der Hochschule zur Prüfung und Genehmigung anzuzeigen. Die Veröffentlichungen der Änderungen haben für alle Studierenden erkennbar rechtzeitig, ordnungsgemäß und angemessen zu erfolgen. Eine rückwirkende Veröffentlichung ist nicht zulässig. Die Festsetzung des AStA-Beitrages hat mit Genehmigung des Haushaltsplans zu Beginn des Haushaltsjahres zu erfolgen (vgl. § 31 Absatz 2 Organisationssatzung). Die Fristen des Immatrikulationsamtes sind zu beachten.
+(8) Geplante Änderungen der Finanz- und Beitragsordnung und eine damit verknüpfte Änderung des AStA-Beitrages sind mindestens einen Monat schriftlich und begründet der hauptberuflichen Vizepräsidentin der Hochschule zur Prüfung und Genehmigung anzuzeigen. Die Veröffentlichungen der Änderungen haben für alle Studierenden erkennbar rechtzeitig, ordnungsgemäß und angemessen zu erfolgen. Eine rückwirkende Veröffentlichung ist nicht zulässig. Die Festsetzung des AStA-Beitrages hat mit Genehmigung des Haushaltsplans zu Beginn des Haushaltsjahres zu erfolgen (vgl. § 31 Absatz 2 Organisationssatzung). Die Fristen des Immatrikulationsamtes sind zu beachten.
 
 ## § 6 Unterkonto Semesterticket
 
@@ -72,8 +72,8 @@ Constantiaplatz 4
 
 (2) Die Budgets der einzelnen Fachschaftsräte berechnen sich wie folgt:
 
-1. Jeder Fachschaftsrat hat einen Festbetrag von 1.000,00 € pro Haushaltsjahr zur Verfügung,
-2. der Rest der im Haushalt bereitgestellten Summe wird prozentual, gemessen an der aktuellen Anzahl der im jeweiligen Fachbereich bzw. der jeweiligen Abteilung eingeschriebenen Studierenden zur Gesamtzahl aller Studierenden der Hochschule Emden/Leer, aufgeteilt.
+1. Jeder Fachschaftsrat hat einen Festbetrag von 1.000,00 Euro pro Haushaltsjahr zur Verfügung,
+2. der Rest der im Haushalt bereitgestellten Summe wird prozentual, gemessen an der aktuellen Anzahl der im jeweiligen Fachbereich beziehungsweise der jeweiligen Abteilung eingeschriebenen Studierenden zur Gesamtzahl aller Studierenden der Hochschule Emden/Leer, aufgeteilt.
 
 (3) Der AStA hat keine Weisungsbefugnis über die Budgets der Fachschaftsräte.
 
@@ -85,17 +85,17 @@ Constantiaplatz 4
 
 (2) Die jeweiligen FSR-Finanzreferentinnen müssen die Einnahmenüberschussrechnung anfertigen und in ihrem Fachschaftsrat zehn Jahre verwahren. Nach der vorlesungsfreien Zeit sind alle Einnahmenüberschussrechnungen aus diesem Zeitraum der Studierendenschaft zur Verfügung zu stellen.
 
-(3) Die AStA-Finanzreferentinnen müssen einen Soll-Ist-Vergleich am Ende jedes Quartals gemäß §1 Absatz 2 angefertigt und vorliegen haben. Diese müssen zehn Jahre verwahrt werden und sind nach der vorlesungsfreien Zeit der Studierendenschaft zur Verfügung zu stellen. Die Quartalsberichte müssen dem StuPa in der nächstmöglichen Sitzung vorgestellt werden.
+(3) Die AStA-Finanzreferentinnen müssen einen Soll-Ist-Vergleich am Ende jedes Quartals gemäß § 1 Absatz 2 angefertigt und vorliegen haben. Diese müssen zehn Jahre verwahrt werden und sind nach der vorlesungsfreien Zeit der Studierendenschaft zur Verfügung zu stellen. Die Quartalsberichte müssen dem StuPa in der nächstmöglichen Sitzung vorgestellt werden.
 
 ## § 9 Regelung zur Bewilligung von Ausgaben
 
 (1) Zur Bewilligung von Ausgaben ist je nach Betrag ausreichend:
 
-1. Unter 200,00 €: Abstimmung im jeweiligen Gremium,
-2. Ab 200,00 €: Entweder ist das Einholen von 3 Vergleichsangeboten zur Prüfung der Wirtschaftlichkeit oder die Nennung von Alleinstellungskriterien notwendig. Diese sind als Anlage dem Ursprungsbeleg beizulegen,
-3. Ab 1.000,00 €: Einreichen eines durch das Gremium bestätigten Antrages zur Bewilligung beim Studierendenparlament. Die Vergleichsangebote bzw. Alleinstellungskriterien sind als Anlage beizufügen.
+1. Unter 200,00 Euro: Abstimmung im jeweiligen Gremium,
+2. ab 200,00 Euro: Entweder ist das Einholen von 3 Vergleichsangeboten zur Prüfung der Wirtschaftlichkeit oder die Nennung von Alleinstellungskriterien notwendig. Diese sind als Anlage dem Ursprungsbeleg beizulegen,
+3. ab 1.000,00 Euro: Einreichen eines durch das Gremium bestätigten Antrages zur Bewilligung beim Studierendenparlament. Die Vergleichsangebote bzw. Alleinstellungskriterien sind als Anlage beizufügen.
 
-(2) Bei gegebener Dringlichkeit ist bis zu einer Ausgabe in Höhe von 100,00 € eine Entscheidung des jeweiligen Vorstandes ausreichend.
+(2) Bei gegebener Dringlichkeit ist bis zu einer Ausgabe in Höhe von 100,00 Euro eine Entscheidung des jeweiligen Vorstandes ausreichend.
 
 (3) Bei den genannten Beträgen handelt es sich um Bruttobeträge.
 
@@ -111,15 +111,15 @@ Constantiaplatz 4
 
 (4) Betriebe gewerblicher Art sind getrennt zu führen und durch ein Steuerberatungsbüro oder vergleichbaren Einrichtungen zu prüfen.
 
-(5) Die Feststellung der sachlichen Richtigkeit hat auf dem Buchungsbegleitzettel, oder dem Rechnungsoriginal, von einer berechtigten Person zu erfolgen. Diese Person bestätigt damit den Empfang der Lieferung / Leistung gemäß Auftrag und die Einhaltung der betreffenden Regelungen / Ordnungen. Die sachlich Richtigzeichnende darf diesen Vorgang nicht zur Zahlung freigeben und nicht die Kreditorin oder Debitorin sein. Die Feststellung der rechnerischen Richtigkeit hat von der mit der Buchführung betrauten Person (AStA-Mitglied oder Angestellte) zu erfolgen. Auch diese Person darf den Vorgang nicht zur Zahlung freigeben.
+(5) Die Feststellung der sachlichen Richtigkeit hat auf dem Buchungsbegleitzettel, oder dem Rechnungsoriginal, von einer berechtigten Person zu erfolgen. Diese Person bestätigt damit den Empfang der Lieferung/Leistung gemäß Auftrag und die Einhaltung der betreffenden Regelungen/Ordnungen. Die sachlich Richtigzeichnende darf diesen Vorgang nicht zur Zahlung freigeben und nicht die Kreditorin oder Debitorin sein. Die Feststellung der rechnerischen Richtigkeit hat von der mit der Buchführung betrauten Person (AStA-Mitglied oder Angestellte) zu erfolgen. Auch diese Person darf den Vorgang nicht zur Zahlung freigeben.
 
-(6) Jeder Ursprungsbeleg, zum Beispiel Eingangs- oder Ausgangsrechnung, ist mit einem Eingangsdatum zu versehen, in einem Buchungssystem zu erfassen und mit einer fortlaufenden Nummer zu versehen, die auch auf dem Buchungsbegleitzettel notiert wird. Die sachliche und rechnerische Richtigkeit muss geprüft und bestätigt werden. Die Zahlungsfreigabe hat von einem AStA-Vorstandsmitglied zu erfolgen. Die Belege sind in einem durch die Hochschule freizugebenden Buchhaltungsprogramm nach Titeln zu erfassen (keine Saldierung von Einnahme- und Ausgabetiteln zulässig) und 10 Jahre lang aufzubewahren (ebenfalls auch alle anderen Geschäftsbücher, zum Beispiel Anlagenlisten, Kassenbücher, Buchhaltungssystem, Kontoauszüge, etc.). Ausgangsrechnungen sind in der gesetzlich vorgeschriebenen Form (siehe zum Beispiel Merkblatt der Finanzbuchhaltung auf der Website) zu standardisieren. Bei Zahlungsverzug ist das gesetzlich vorgeschriebene Verfahren, nach einer Wirtschaftlichkeitsprüfung, anzuwenden. Abschreibungen von Forderungen sind durch den Studierendenparlament zu genehmigen und dem Vorgang anzulegen.
+(6) Jeder Ursprungsbeleg, zum Beispiel Eingangs- oder Ausgangsrechnung, ist mit einem Eingangsdatum zu versehen, in einem Buchungssystem zu erfassen und mit einer fortlaufenden Nummer zu versehen, die auch auf dem Buchungsbegleitzettel notiert wird. Die sachliche und rechnerische Richtigkeit muss geprüft und bestätigt werden. Die Zahlungsfreigabe hat von einem AStA-Vorstandsmitglied zu erfolgen. Die Belege sind in einem durch die Hochschule freizugebenden Buchhaltungsprogramm nach Titeln zu erfassen (keine Saldierung von Einnahme- und Ausgabetiteln zulässig) und 10 Jahre lang aufzubewahren (ebenfalls auch alle anderen Geschäftsbücher, zum Beispiel Anlagenlisten, Kassenbücher, Buchhaltungssystem, Kontoauszüge etc.). Ausgangsrechnungen sind in der gesetzlich vorgeschriebenen Form (siehe zum Beispiel Merkblatt der Finanzbuchhaltung auf der Website) zu standardisieren. Bei Zahlungsverzug ist das gesetzlich vorgeschriebene Verfahren, nach einer Wirtschaftlichkeitsprüfung, anzuwenden. Abschreibungen von Forderungen sind durch den Studierendenparlament zu genehmigen und dem Vorgang anzulegen.
 
-(7) Die Bearbeitung von Eigenbelegen, zum Beispiel bei Verlust des Ursprungsbeleges, oder auf einen fremden Namen lautender Beleg, darf nur erfolgen, wenn eine Angabe zur Leistung / Ware dem Hergang zum Verlust / Nichtvorhandensein des Originalbeleges und der Freigabe durch den Vorstand vorhanden ist.
+(7) Die Bearbeitung von Eigenbelegen, zum Beispiel bei Verlust des Ursprungsbeleges, oder auf einen fremden Namen lautender Beleg, darf nur erfolgen, wenn eine Angabe zur Leistung/Ware dem Hergang zum Verlust/Nichtvorhandensein des Originalbeleges und der Freigabe durch den Vorstand vorhanden ist.
 
 (8) Einnahmen sind rechtzeitig und vollständig zu erheben.
 
-(9) Ausgaben dürfen nur soweit und nicht eher geleistet werden, als diese zur wirtschaftlichen und sparsamen Verwaltung erforderlich sind. Dies ist mindestens bei mehr als 1.000 Euro (netto) je Ursprungsbeleg aktenkundig dem Vorgang beizulegen.
+(9) Ausgaben dürfen nur soweit und nicht eher geleistet werden, als diese zur wirtschaftlichen und sparsamen Verwaltung erforderlich sind. Dies ist mindestens bei mehr als 1.000,00 Euro (netto) je Ursprungsbeleg aktenkundig dem Vorgang beizulegen.
 
 ## § 11 Kontenführung
 
@@ -133,7 +133,7 @@ Constantiaplatz 4
 
 ## § 12 Kasse
 
-(1) Der AStA verfügt über 1 Kasse.
+(1) Der AStA verfügt über eine Kasse.
 
 (2) Die Kasse wird zum gleichen Zeitpunkt jeweils nur von einer Kassenführerin (AStA-Mitglied oder Angestellte) gemäß unterschriebener Kassenanweisung geführt. Die Kasse darf nicht von zwei, oder mehreren, Kassenführinnen gleichzeitig geführt werden.
 
@@ -162,7 +162,7 @@ Constantiaplatz 4
 (1) Innerhalb von sechs Wochen nach Vorlesungsbeginn muss durch den Haushaltsausschuss des Studierendenparlamentes eine Belehrung für
 
 1. die Vorstände der Fachschaftsräte,
-2. die Vorstände des StuPa,
+2. die Vorsitzenden des StuPa,
 3. alle Mitglieder des AStA,
 4. alle Mitglieder weiterer Organisationen, die mit studentischen Mitteln umgehen
 
@@ -178,7 +178,7 @@ stattgefunden haben, um die Modalitäten der Abrechnung von Handkassen und der B
 
 ## § 15 Handlung bei Verstößen gegen die Finanzordnung
 
-(1) Ein Verstoß gegen §13 Absatz 3 hat zur Folge, dass das Studierendenparlament eine Verwarnung gegenüber der betreffenden Person aussprechen kann. Wird dem vom Studierendenparlament angemahnten Problem nicht innerhalb von einem Monat abgeholfen, gilt die zweite Verwarnung als ausgesprochen. Mit der zweiten Verwarnung wird der betreffenden Person das Recht zum Umgang mit studentischen Geldern entzogen. Eine erneute Freigabe ist nur durch Beschluss des StuPa möglich.
+(1) Ein Verstoß gegen § 13 Absatz 3 hat zur Folge, dass das Studierendenparlament eine Verwarnung gegenüber der betreffenden Person aussprechen kann. Wird dem vom Studierendenparlament angemahnten Problem nicht innerhalb von einem Monat abgeholfen, gilt die zweite Verwarnung als ausgesprochen. Mit der zweiten Verwarnung wird der betreffenden Person das Recht zum Umgang mit studentischen Geldern entzogen. Eine erneute Freigabe ist nur durch Beschluss des StuPa möglich.
 
 (2) Für nicht hier genannte Verstöße gegen die Finanzordnung behält sich das Studierendenparlament das Sanktionsrecht auf Beschlussbasis vor.
 
