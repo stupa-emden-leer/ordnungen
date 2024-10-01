@@ -19,7 +19,7 @@ Aus Gründen der Lesbarkeit wird in dieser Ordnung die feminine Form verwendet. 
 
 ## § 2 AStA und AStA-Vorstand
 
-(1) Freizeichnungs- und bankbevollmächtigt sind nur die beiden AStA-Vorsitzenden gemeinsam mit den beiden Finanzreferentinnen (auch „Vorstand" genannt). Zwingend erforderlich ist die Unterschrift einer Finanzreferentin und eines Vorsitzes. Das Vier-Augen-Prinzip ist einzuhalten.
+(1) Freizeichnungs- und bankbevollmächtigt sind nur die beiden AStA-Vorsitzenden gemeinsam mit den beiden Finanzreferentinnen (auch „Vorstand" genannt). Zwingend erforderlich ist die Unterschrift einer Finanzreferentin und einer Vorsitzenden. Das Vier-Augen-Prinzip ist einzuhalten.
 
 (2) Bei Änderung der Besetzung des AStA-Vorstands ist dem StuPa durch den AStA-Vorstand innerhalb von zwei Wochen ein Schriftstück der Bank vorzuweisen, in dem der Entzug der Zeichnungsberechtigung des scheidenden Vorstandsmitglieds bestätigt wird.
 
@@ -113,7 +113,7 @@ Constantiaplatz 4
 
 (5) Die Feststellung der sachlichen Richtigkeit hat auf dem Buchungsbegleitzettel, oder dem Rechnungsoriginal, von einer berechtigten Person zu erfolgen. Diese Person bestätigt damit den Empfang der Lieferung/Leistung gemäß Auftrag und die Einhaltung der betreffenden Regelungen/Ordnungen. Die sachlich Richtigzeichnende darf diesen Vorgang nicht zur Zahlung freigeben und nicht die Kreditorin oder Debitorin sein. Die Feststellung der rechnerischen Richtigkeit hat von der mit der Buchführung betrauten Person (AStA-Mitglied oder Angestellte) zu erfolgen. Auch diese Person darf den Vorgang nicht zur Zahlung freigeben.
 
-(6) Jeder Ursprungsbeleg, zum Beispiel Eingangs- oder Ausgangsrechnung, ist mit einem Eingangsdatum zu versehen, in einem Buchungssystem zu erfassen und mit einer fortlaufenden Nummer zu versehen, die auch auf dem Buchungsbegleitzettel notiert wird. Die sachliche und rechnerische Richtigkeit muss geprüft und bestätigt werden. Die Zahlungsfreigabe hat von einem AStA-Vorstandsmitglied zu erfolgen. Die Belege sind in einem durch die Hochschule freizugebenden Buchhaltungsprogramm nach Titeln zu erfassen (keine Saldierung von Einnahme- und Ausgabetiteln zulässig) und 10 Jahre lang aufzubewahren (ebenfalls auch alle anderen Geschäftsbücher, zum Beispiel Anlagenlisten, Kassenbücher, Buchhaltungssystem, Kontoauszüge etc.). Ausgangsrechnungen sind in der gesetzlich vorgeschriebenen Form (siehe zum Beispiel Merkblatt der Finanzbuchhaltung auf der Website) zu standardisieren. Bei Zahlungsverzug ist das gesetzlich vorgeschriebene Verfahren, nach einer Wirtschaftlichkeitsprüfung, anzuwenden. Abschreibungen von Forderungen sind durch den Studierendenparlament zu genehmigen und dem Vorgang anzulegen.
+(6) Jeder Ursprungsbeleg, zum Beispiel Eingangs- oder Ausgangsrechnung, ist mit einem Eingangsdatum zu versehen, in einem Buchungssystem zu erfassen und mit einer fortlaufenden Nummer zu versehen, die auch auf dem Buchungsbegleitzettel notiert wird. Die sachliche und rechnerische Richtigkeit muss geprüft und bestätigt werden. Die Zahlungsfreigabe hat von einem AStA-Vorstandsmitglied zu erfolgen. Die Belege sind in einem durch die Hochschule freizugebenden Buchhaltungsprogramm nach Titeln zu erfassen (keine Saldierung von Einnahme- und Ausgabetiteln zulässig) und zehn Jahre lang aufzubewahren (ebenfalls auch alle anderen Geschäftsbücher, zum Beispiel Anlagenlisten, Kassenbücher, Buchhaltungssystem, Kontoauszüge etc.). Ausgangsrechnungen sind in der gesetzlich vorgeschriebenen Form (siehe zum Beispiel Merkblatt der Finanzbuchhaltung auf der Website) zu standardisieren. Bei Zahlungsverzug ist das gesetzlich vorgeschriebene Verfahren, nach einer Wirtschaftlichkeitsprüfung, anzuwenden. Abschreibungen von Forderungen sind durch den Studierendenparlament zu genehmigen und dem Vorgang anzulegen.
 
 (7) Die Bearbeitung von Eigenbelegen, zum Beispiel bei Verlust des Ursprungsbeleges, oder auf einen fremden Namen lautender Beleg, darf nur erfolgen, wenn eine Angabe zur Leistung/Ware dem Hergang zum Verlust/Nichtvorhandensein des Originalbeleges und der Freigabe durch den Vorstand vorhanden ist.
 
@@ -123,7 +123,7 @@ Constantiaplatz 4
 
 ## § 11 Kontenführung
 
-(1) Der AStA führt 1 laufendes Konto (dies gilt nicht für die Abwicklung der Semesterticketgelder, siehe § 6).
+(1) Der AStA führt ein laufendes Konto (dies gilt nicht für die Abwicklung der Semesterticketgelder, siehe § 6).
 
 (2) Risikofreie Festanlagen sind mit einer maximalen Anlagefrist von einem Jahr möglich.
 
@@ -141,7 +141,7 @@ Constantiaplatz 4
 
 (4) Der Bargeldbestand muss angemessen (max. 1.000,00 Euro) und versichert sein. Notwendige kurzfristige höhere Bargeldbestände (zum Beispiel vor und nach Veranstaltungen) sind in ihrer Höhe und Dauer (maximal 4 Wochen) auf ein Minimum zu begrenzen.
 
-(5) Vorschüsse, zum Beispiel an Studierende im Fachschaftsrat, sind zeitnah, spätestens innerhalb von 6 Monaten und/oder vor dem Haushaltsabschluss, wieder zu 100 % zu vereinnahmen (Restgeld und Ursprungsbelege). Nach Ablauf dieser Frist ist unmittelbar durch die Finanzerin, eine Rechnung zu versenden und bei eventuell anschließendem Zahlungsverzug (spätestens 30 Tage nach Rechnungsdatum) eine Mahnung zu veranlassen. Saldierungen, zum Beispiel im Zuge von Veranstaltungen, sind nicht zulässig.
+(5) Vorschüsse, zum Beispiel an Studierende im Fachschaftsrat, sind zeitnah, spätestens innerhalb von sechs Monaten und/oder vor dem Haushaltsabschluss, wieder zu 100 % zu vereinnahmen (Restgeld und Ursprungsbelege). Nach Ablauf dieser Frist ist unmittelbar durch die Finanzerin, eine Rechnung zu versenden und bei eventuell anschließendem Zahlungsverzug (spätestens 30 Tage nach Rechnungsdatum) eine Mahnung zu veranlassen. Saldierungen, zum Beispiel im Zuge von Veranstaltungen, sind nicht zulässig.
 
 (6) Das Kassenbuch ist monatlich der Buchführung zur Erfassung mit allen Ursprungsbelegen zu übergeben.
 
