@@ -19,7 +19,7 @@ Aus Gründen der Lesbarkeit wird in dieser Ordnung die feminine Form verwendet. 
 
 ## § 2 AStA und AStA-Vorstand
 
-(1) Freizeichnungs- und bankbevollmächtigt sind nur die beiden AStA-Vorsitzenden gemeinsam mit den beiden Finanzreferentinnen (auch „Vorstand" genannt). Zwingend erforderlich ist die Unterschrift einer Finanzreferentin und einer Vorsitzenden. Das Vier-Augen-Prinzip ist einzuhalten.
+(1) Freizeichnungs- und bankbevollmächtigt sind nur die beiden AStA-Vorsitzenden gemeinsam mit den beiden Finanzreferentinnen (auch „Vorstand" genannt). Zwingend erforderlich ist die Unterschrift einer Vorsitzenden und einer Finanzreferentin. Das Vier-Augen-Prinzip ist einzuhalten.
 
 (2) Bei Änderung der Besetzung des AStA-Vorstands ist dem StuPa durch den AStA-Vorstand innerhalb von zwei Wochen ein Schriftstück der Bank vorzuweisen, in dem der Entzug der Zeichnungsberechtigung des scheidenden Vorstandsmitglieds bestätigt wird.
 
@@ -52,9 +52,9 @@ Constantiaplatz 4
 
 (6) Überschreiten die geplanten Einnahmen (inklusive geplanter Mittelreste) die für das folgende Haushaltsjahr begründbaren und benötigten Ausgaben gemäß Haushaltsplan ist der AStA-Beitrag zeitnah für das zu erreichende Semester zu mindern.
 
-(7) Pauschalisierte Auslagenerstattungen, bei ehrenamtlich tätigen AStA- und StuPa-Mitgliedern, sind auf Basis einer durch den StuPa genehmigten Ordnung zu zahlen. Bis zur Höhe der steuerbefreiten monatlichen Pauschale nach § 3 Nummer 12 Satz 2 Einkommensteuergesetz, ist eine Herleitung (im Sinne von Werbungskosten) nicht erforderlich. Erstattungen für mehrere Tätigkeiten sind zu kumulieren. Sollte eine Herleitung erforderlich sein, ist diese durch den StuPa zu genehmigen. Bei Vorliegen von Einzelnachweisen entfällt diese Herleitung.
+(7) Pauschalisierte Auslagenerstattungen, bei ehrenamtlich tätigen AStA- und StuPa-Mitgliedern, sind auf Basis einer durch den StuPa genehmigten Ordnung zu zahlen. Bis zur Höhe der steuerbefreiten monatlichen Pauschale nach § 3 Nummer 12 Satz 2 des Einkommensteuergesetzes, ist eine Herleitung (im Sinne von Werbungskosten) nicht erforderlich. Erstattungen für mehrere Tätigkeiten sind zu kumulieren. Sollte eine Herleitung erforderlich sein, ist diese durch den StuPa zu genehmigen. Bei Vorliegen von Einzelnachweisen entfällt diese Herleitung.
 
-(8) Geplante Änderungen der Finanz- und Beitragsordnung und eine damit verknüpfte Änderung des AStA-Beitrages sind mindestens einen Monat schriftlich und begründet der hauptberuflichen Vizepräsidentin der Hochschule zur Prüfung und Genehmigung anzuzeigen. Die Veröffentlichungen der Änderungen haben für alle Studierenden erkennbar rechtzeitig, ordnungsgemäß und angemessen zu erfolgen. Eine rückwirkende Veröffentlichung ist nicht zulässig. Die Festsetzung des AStA-Beitrages hat mit Genehmigung des Haushaltsplans zu Beginn des Haushaltsjahres zu erfolgen (vgl. § 31 Absatz 2 Organisationssatzung). Die Fristen des Immatrikulationsamtes sind zu beachten.
+(8) Geplante Änderungen der Finanz- und Beitragsordnung und eine damit verknüpfte Änderung des AStA-Beitrages sind mindestens einen Monat schriftlich und begründet der hauptberuflichen Vizepräsidentin der Hochschule zur Prüfung und Genehmigung anzuzeigen. Die Veröffentlichungen der Änderungen haben für alle Studierenden erkennbar rechtzeitig, ordnungsgemäß und angemessen zu erfolgen. Eine rückwirkende Veröffentlichung ist nicht zulässig. Die Festsetzung des AStA-Beitrages hat mit Genehmigung des Haushaltsplans zu Beginn des Haushaltsjahres zu erfolgen (vgl. § 31 Absatz 2 der Organisationssatzung). Die Fristen des Immatrikulationsamtes sind zu beachten.
 
 ## § 6 Unterkonto Semesterticket
 
