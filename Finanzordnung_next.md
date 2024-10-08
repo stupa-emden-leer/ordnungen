@@ -1,4 +1,4 @@
-# Finanzordnung der Studierendenschaft der Hochschule Emden/Leer
+# Finanzordnung der Studierendenschaft der Hochschule Emden/Leer (Entwurf)
 
 in der Fassung vom XX. Oktober 2024 auf Basis der Rahmenvorgaben für die Finanzordnung der Studierendenschaft gemäß § 20 Absatz 4 des Niedersächsischen Hochschulgesetzes in der Version vom 18. Januar 2024 und den Maßgaben der § 105 bis 112 der Niedersächsischen Landeshaushaltsordnung.
 
