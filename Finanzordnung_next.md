@@ -17,11 +17,11 @@ Aus Gründen der Lesbarkeit wird in dieser Ordnung die feminine Form verwendet. 
 1. 01.03. – 31.05.
 2. 01.06. – 31.08.
 3. 01.09. – 30.11.
-4. 01.12. – 28/29.02.
+4. 01.12. – 28./29.02.
 
 ## § 2 AStA und AStA-Vorstand
 
-(1) Freizeichnungs- und bankbevollmächtigt sind nur die beiden AStA-Vorsitzenden gemeinsam mit den beiden Finanzreferentinnen (auch „Vorstand" genannt). Zwingend erforderlich ist die Unterschrift einer Vorsitzenden und einer Finanzreferentin. Das Vier-Augen-Prinzip ist einzuhalten.
+(1) Freizeichnungs- und bankbevollmächtigt sind nur die beiden AStA-Vorsitzenden gemeinsam mit den beiden Finanzreferentinnen (auch „Vorstand“ genannt). Zwingend erforderlich ist die Unterschrift einer Vorsitzenden und einer Finanzreferentin. Das Vier-Augen-Prinzip ist einzuhalten.
 
 (2) Bei Änderung der Besetzung des AStA-Vorstands ist dem StuPa durch den AStA-Vorstand innerhalb von zwei Wochen ein Schriftstück der Bank vorzuweisen, in dem der Entzug der Zeichnungsberechtigung des scheidenden Vorstandsmitglieds bestätigt wird.
 
@@ -42,21 +42,21 @@ Constantiaplatz 4
 
 ## § 5 Haushaltsplan
 
-(1) Der AStA hat zum letzten ordentlichen Sitzungstermin des Studierendenparlamentes vor dem Ende des Haushaltsjahres einen abstimmungsfähigen Haushaltsentwurf für das Folgejahr vorzulegen. Die Vorlage des abgeschlossenen Haushaltes ist bis sechs Wochen nach Ende des Haushaltsjahres beim Studierendenparlament vorzulegen.
+(1) Der AStA hat zum letzten ordentlichen Sitzungstermin des Studierendenparlaments vor dem Ende des Haushaltsjahres einen abstimmungsfähigen Haushaltsentwurf für das Folgejahr vorzulegen. Die Vorlage des abgeschlossenen Haushaltes ist bis sechs Wochen nach Ende des Haushaltsjahres beim Studierendenparlament vorzulegen.
 
 (2) Der vom StuPa festzustellende Haushaltsplan ist mindestens einen Monat vor dem Beginn des neuen Haushaltsjahres schriftlich und begründet der hauptberuflichen Vizepräsidentin der Hochschule zur Prüfung und Genehmigung anzuzeigen.
 
-(3) Sollte die Genehmigung nicht zu Beginn des Haushaltsjahres, das heißt zum 1. März vorliegen, greift automatisch die vorläufige Haushaltsführung. Dies hat zur Folge, dass nur rechtlich begründete (und nachweispflichtige) Verpflichtungen erfüllt und nur solche Ausgaben geleistet werden dürfen, die zur Erfüllung der Aufgaben der Studierendenschaft unabweisbar notwendig sind.
+(3) Sollte die Genehmigung nicht zu Beginn des Haushaltsjahres, das heißt zum 1. März, vorliegen, greift automatisch die vorläufige Haushaltsführung. Dies hat zur Folge, dass nur rechtlich begründete (und nachweispflichtige) Verpflichtungen erfüllt und nur solche Ausgaben geleistet werden dürfen, die zur Erfüllung der Aufgaben der Studierendenschaft unabweisbar notwendig sind.
 
-(4) Nach dem Ende des Haushaltsjahres überlässt der AStA bis zum Ende des Folgemonats des abgelaufenden Haushaltsjahres einen zu erstellenden Abschluss der für das Präsidium prüfenden Organisationseinheit der Hochschule (zur Zeit die Abteilung Finanzen). Verspätungen sind vorher begründet anzumelden und können zur vorläufigen Haushaltssperre führen.
+(4) Nach dem Ende des Haushaltsjahres überlässt der AStA bis zum Ende des Folgemonats des abgelaufenden Haushaltsjahres einen zu erstellenden Abschluss der für das Präsidium prüfenden Organisationseinheit der Hochschule (zurzeit die Abteilung Finanzen). Verspätungen sind vorher begründet anzumelden und können zur vorläufigen Haushaltssperre führen.
 
 (5) Verbliebene Haushaltsmittel aus Vorjahren (Mittelreste) sind gänzlich im neuen Haushaltplan anzusetzen. Dabei können geplante Mittelbindungen für ein nachfolgendes Haushaltsjahr als Ausnahme (mit prüffähiger Begründung als Anlage beim geplanten folgenden Haushaltsplan) bis zu maximal 30 % der geplanten Einnahmen aus AStA-Beiträgen des zu planenden folgenden Haushaltsjahr genehmigt werden.
 
-(6) Überschreiten die geplanten Einnahmen (inklusive geplanter Mittelreste) die für das folgende Haushaltsjahr begründbaren und benötigten Ausgaben gemäß Haushaltsplan ist der AStA-Beitrag zeitnah für das zu erreichende Semester zu mindern.
+(6) Überschreiten die geplanten Einnahmen (inklusive geplanter Mittelreste) die für das folgende Haushaltsjahr begründbaren und benötigten Ausgaben gemäß Haushaltsplan, ist der AStA-Beitrag zeitnah für das zu erreichende Semester zu mindern.
 
-(7) Pauschalisierte Auslagenerstattungen, bei ehrenamtlich tätigen AStA- und StuPa-Mitgliedern, sind auf Basis einer durch den StuPa genehmigten Ordnung zu zahlen. Bis zur Höhe der steuerbefreiten monatlichen Pauschale nach § 3 Nummer 12 Satz 2 des Einkommensteuergesetzes, ist eine Herleitung (im Sinne von Werbungskosten) nicht erforderlich. Erstattungen für mehrere Tätigkeiten sind zu kumulieren. Sollte eine Herleitung erforderlich sein, ist diese durch den StuPa zu genehmigen. Bei Vorliegen von Einzelnachweisen entfällt diese Herleitung.
+(7) Pauschalisierte Auslagenerstattungen, bei ehrenamtlich tätigen AStA- und StuPa-Mitgliedern, sind auf Basis einer durch den StuPa genehmigten Ordnung zu zahlen. Bis zur Höhe der steuerbefreiten monatlichen Pauschale nach § 3 Nummer 12 Satz 2 des Einkommensteuergesetzes ist eine Herleitung (im Sinne von Werbungskosten) nicht erforderlich. Erstattungen für mehrere Tätigkeiten sind zu kumulieren. Sollte eine Herleitung erforderlich sein, ist diese durch den StuPa zu genehmigen. Bei Vorliegen von Einzelnachweisen entfällt diese Herleitung.
 
-(8) Geplante Änderungen der Finanz- und Beitragsordnung und eine damit verknüpfte Änderung des AStA-Beitrages sind mindestens einen Monat schriftlich und begründet der hauptberuflichen Vizepräsidentin der Hochschule zur Prüfung und Genehmigung anzuzeigen. Die Veröffentlichungen der Änderungen haben für alle Studierenden erkennbar rechtzeitig, ordnungsgemäß und angemessen zu erfolgen. Eine rückwirkende Veröffentlichung ist nicht zulässig. Die Festsetzung des AStA-Beitrages hat mit Genehmigung des Haushaltsplans zu Beginn des Haushaltsjahres zu erfolgen (vgl. § 31 Absatz 2 der Organisationssatzung). Die Fristen des Immatrikulationsamtes sind zu beachten.
+(8) Geplante Änderungen der Finanz- und Beitragsordnung und eine damit verknüpfte Änderung des AStA-Beitrages sind mindestens einen Monat schriftlich und begründet der hauptberuflichen Vizepräsidentin der Hochschule zur Prüfung und Genehmigung anzuzeigen. Die Veröffentlichungen der Änderungen haben für alle Studierenden erkennbar, rechtzeitig, ordnungsgemäß und angemessen zu erfolgen. Eine rückwirkende Veröffentlichung ist nicht zulässig. Die Festsetzung des AStA-Beitrages hat mit Genehmigung des Haushaltsplans zu Beginn des Haushaltsjahres zu erfolgen (vgl. § 31 Absatz 2 der Organisationssatzung). Die Fristen des Immatrikulationsamtes sind zu beachten.
 
 ## § 6 Unterkonto Semesterticket
 
@@ -74,8 +74,8 @@ Constantiaplatz 4
 
 (2) Die Budgets der einzelnen Fachschaftsräte berechnen sich wie folgt:
 
-1. Jeder Fachschaftsrat hat einen Festbetrag von 1.000,00 Euro pro Haushaltsjahr zur Verfügung,
-2. der Rest der im Haushalt bereitgestellten Summe wird prozentual, gemessen an der aktuellen Anzahl der im jeweiligen Fachbereich beziehungsweise der jeweiligen Abteilung eingeschriebenen Studierenden zur Gesamtzahl aller Studierenden der Hochschule Emden/Leer, aufgeteilt.
+1. Jeder Fachschaftsrat hat einen Fixbetrag von 1.000,00 Euro pro Haushaltsjahr zur Verfügung,
+2. der Rest der im Haushalt bereitgestellten Summe wird prozentual, gemessen an der aktuellen Anzahl der im jeweiligen Fachbereich bzw. der jeweiligen Abteilung eingeschriebenen Studierenden zur Gesamtzahl aller Studierenden der Hochschule Emden/Leer, aufgeteilt.
 
 (3) Der AStA hat keine Weisungsbefugnis über die Budgets der Fachschaftsräte.
 
@@ -137,7 +137,7 @@ Constantiaplatz 4
 
 (1) Der AStA verfügt über eine Kasse.
 
-(2) Die Kasse wird zum gleichen Zeitpunkt jeweils nur von einer Kassenführerin (AStA-Mitglied oder Angestellte) gemäß unterschriebener Kassenanweisung geführt. Die Kasse darf nicht von zwei, oder mehreren, Kassenführinnen gleichzeitig geführt werden.
+(2) Die Kasse wird zum gleichen Zeitpunkt jeweils nur von einer Kassenführerin (AStA-Mitglied oder Angestellte) gemäß unterschriebener Kassenanweisung geführt. Die Kasse darf nicht von zwei, oder mehreren, Kassenführerinnen gleichzeitig geführt werden.
 
 (3) Übergaben sind im Kassenbuch schriftlich anzugeben und die betreffende Seite dann abzuschließen.
 
@@ -161,7 +161,7 @@ Constantiaplatz 4
 
 ## § 14 Finanzbelehrung
 
-(1) Innerhalb von sechs Wochen nach Vorlesungsbeginn muss durch den Haushaltsausschuss des Studierendenparlamentes eine Belehrung für
+(1) Innerhalb von sechs Wochen nach Vorlesungsbeginn muss durch den Haushaltsausschuss des Studierendenparlaments eine Belehrung für
 
 1. die Vorstände der Fachschaftsräte,
 2. die Vorsitzenden des StuPa,
@@ -172,7 +172,7 @@ stattgefunden haben, um die Modalitäten der Abrechnung von Handkassen und der B
 
 (2) In Ausnahme- und Einzelfällen kann die Belehrung nach Absatz 1 in Absprache mit dem StuPa durch den AStA-Vorstand durchgeführt werden.
 
-(3) Zur Auslösung betriebswirtschaftlicher Geschäftsvorfälle (Bestellungen oder ähnliches) sind nur Mitglieder des AStA, des StuPa und der Fachschaftsräte berechtigt, die vom AStA-Vorsitz dazu berechtigt wurden. Diese müssen die Kenntnis über die Finanzordnung nach erfolgter Finanzbelehrung gemäß Absatz 1 und 2 gezeichnet haben.
+(3) Zur Auslösung betriebswirtschaftlicher Geschäftsvorfälle (Bestellungen oder Ähnliches) sind nur Mitglieder des AStA, des StuPa und der Fachschaftsräte berechtigt, die vom AStA-Vorsitz dazu berechtigt wurden. Diese müssen die Kenntnis über die Finanzordnung nach erfolgter Finanzbelehrung gemäß Absatz 1 und 2 gezeichnet haben.
 
 (4) Personen, die nicht nach Absatz 3 zur Auslösung betriebswirtschaftlicher Geschäftsvorfälle berechtigt sind, haben nur die Möglichkeit zur Nutzung eines personenbezogenen Vorschusses.
 
@@ -186,4 +186,4 @@ stattgefunden haben, um die Modalitäten der Abrechnung von Handkassen und der B
 
 ## § 16 Veröffentlichung
 
-Diese Finanzordnung tritt mit Veröffentlichung in Kraft.
+Diese Ordnung tritt mit Veröffentlichung in Kraft.
