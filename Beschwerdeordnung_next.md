@@ -22,7 +22,7 @@ Aufgrund des § 6 Absatz 7 der Organisationssatzung der Studierendenschaft der H
 
 (3) Auf Wunsch von Zeuginnen kann ihre Identität gegenüber der Beschwerdeführerin oder der Beschwerdegegnerin geheim gehalten werden.
 
-(4) Falls eine Beschwerde im hochschulöffentlichen Interesse ist und die Absätze 3 und 4 dem nicht widersprechen, ist das Beschwerdeverfahren hochschulöffentlich zu führen.
+(4) Falls eine Beschwerde im hochschulöffentlichen Interesse ist und die Absätze 2 und 3 dem nicht widersprechen, ist das Beschwerdeverfahren hochschulöffentlich zu führen.
 
 (5) Aus einem Beschwerdeverfahren resultierende Verbesserungsvorschläge der Beschwerdeordnung unterliegen gegenüber dem Studierendenparlament nicht der Vertraulichkeit.
 
