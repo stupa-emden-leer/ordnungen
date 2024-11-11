@@ -1,8 +1,8 @@
 # Organisationssatzung der Studierendenschaft der Hochschule Emden/Leer (Organisationssatzung – OrgS)
 
-Vom 19. Oktober 2023
+Vom Tag. Monat Jahr
 
-Aufgrund des § 20 Absatz 2 Satz 1 des Niedersächsischen Hochschulgesetzes vom 26. Februar 2007 (Nds. GVBl. S. 69), zuletzt geändert durch Artikel 12 des Gesetzes vom 14. Dezember 2023 (Nds. GVBl. S. 320) hat das Studierendenparlament der Hochschule Emden/Leer am XX. November 2024 und die Studierendenschaft der Hochschule Emden/Leer in einer Urabstimmung vom 28. November 2022 bis 2. Dezember 2022 die folgende Organisationssatzung der Studierendenschaft der Hochschule Emden/Leer beschlossen, veröffentlicht im Verkündungsblatt der Hochschule Emden/Leer Nummer XXX am XX. Monat 2024:
+Aufgrund des § 20 Absatz 2 Satz 1 des Niedersächsischen Hochschulgesetzes vom 26. Februar 2007 (Nds. GVBl. S. 69), zuletzt geändert durch Artikel 12 des Gesetzes vom 14. Dezember 2023 (Nds. GVBl. S. 320) hat das Studierendenparlament der Hochschule Emden/Leer am Tag. Monat Jahr und die Studierendenschaft der Hochschule Emden/Leer in einer Urabstimmung vom Tag. Monat Jahr bis Tag. Monat Jahr die folgende Organisationssatzung der Studierendenschaft der Hochschule Emden/Leer beschlossen, veröffentlicht im Verkündungsblatt der Hochschule Emden/Leer Nummer XXX am Tag. Monat Jahr:
 
 ## Abschnitt 1 Studierendenschaft
 
@@ -419,4 +419,4 @@ Sollten einzelne Bestimmungen dieser Satzung unwirksam sein oder nach ihrer Vera
 
 Diese Satzung tritt am Tag nach ihrer hochschulöffentlichen Bekanntmachung im Verkündungsblatt der Hochschule Emden/Leer in Kraft.
 
-Emden, den XX. Monat 2024
+Emden, den Tag. Monat Jahr
