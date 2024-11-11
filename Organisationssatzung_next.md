@@ -1,6 +1,6 @@
 # Organisationssatzung der Studierendenschaft der Hochschule Emden/Leer (Organisationssatzung – OrgS)
 
-Vom XX. November 2024
+Vom 19. Oktober 2023
 
 Aufgrund des § 20 Absatz 2 Satz 1 des Niedersächsischen Hochschulgesetzes vom 26. Februar 2007 (Nds. GVBl. S. 69), zuletzt geändert durch Artikel 12 des Gesetzes vom 14. Dezember 2023 (Nds. GVBl. S. 320) hat das Studierendenparlament der Hochschule Emden/Leer am XX. November 2024 und die Studierendenschaft der Hochschule Emden/Leer in einer Urabstimmung vom 28. November 2022 bis 2. Dezember 2022 die folgende Organisationssatzung der Studierendenschaft der Hochschule Emden/Leer beschlossen, veröffentlicht im Verkündungsblatt der Hochschule Emden/Leer Nummer XXX am XX. Monat 2024:
 
@@ -113,15 +113,15 @@ Aufgrund des § 20 Absatz 2 Satz 1 des Niedersächsischen Hochschulgesetzes vom 
 
 (5) Eine Entscheidung wird durch eine einfache Mehrheit der abgegebenen Stimmen erzielt.
 
-(6) Bei einer Beteiligung von weniger als dreißig vom Hundert der Studierenden haben die gefassten Beschlüsse ausschließlich empfehlenden Charakter und bedürfen zum Inkrafttreten einer Bestätigung durch das Studierendenparlament mit einfacher Mehrheit.
+(6) Bei einer Beteiligung von mehr als zehn und weniger als dreißig vom Hundert der Studierenden haben die gefassten Beschlüsse ausschließlich empfehlenden Charakter.
 
 (7) Bei einer Beteiligung von mehr als dreißig vom Hundert der Studierenden sind die Beschlüsse für die gewählten Organe der Studierendenschaft bindend.
 
 (8) Die Durchführung der Urabstimmung obliegt der antragstellenden Person.
 
-(9) Die Urabstimmung beginnt nach der Vollversammlung und muss innerhalb von maximal zwei Wochen beendet werden. Eine Stimmabgabe muss für mindestens drei volle Werktage möglich sein.
+(9) Die Urabstimmung beginnt unmittelbar nach der Vollversammlung und muss innerhalb von maximal fünf Werktagen beendet werden.
 
-(10) Näheres regelt die Wahlordnung.
+(10) Die Auszählung der Stimmen erfolgt unter Aufsicht von jeweils zwei Mitgliedern des AStA und des Studierendenparlaments, jeweils einem Mitglied der Fachschaftsräte sowie zwei Vertretern der antragstellenden Person, sofern diese nicht mit den vorgenannten Gremien identisch ist.
 
 ## Abschnitt 2 Studierendenparlament
 
@@ -226,11 +226,10 @@ ein zusätzlicher Sitzungstermin eingefordert werden. Dieser Forderung hat der V
 3. Kulturreferat,
 4. Sportreferat,
 5. Referat für Öffentlichkeitsarbeit,
-6. Technikreferat.
+6. Technikreferat,
+7. Semesterticketreferat.
 
 (7) Weitere Referate können eingesetzt werden.
-
-(8) Mit Zustimmung des Studierendenparlaments kann von Absatz 6 abgewichen werden.
 
 ### § 18 Amtsperiode
 
