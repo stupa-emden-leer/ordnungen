@@ -286,9 +286,9 @@ Der AStA tagt grundsätzlich alle zwei Wochen in der Vorlesungszeit.
 
 (5) Der Fachschaftsrat ist dem Studierendenparlament Rechenschaft über seine Finanzen schuldig.
 
-(6) Der Fachschaftsrat gibt sich eine Geschäftsordnung. Näheres regelt § 29. Des Weiteren kann sich der Fachschaftsrat eine Satzung geben.
+(6) Der Fachschaftsrat gibt sich eine Geschäftsordnung. Näheres regelt § 29.
 
-(7) Die eigene Geschäftsordnung und die eigene Satzung orientieren sich an der Satzung der Studierendenschaft.
+(7) Die eigene Geschäftsordnung orientiert sich an der Satzung der Studierendenschaft.
 
 ### § 24 Zusammensetzung und Wahl
 
