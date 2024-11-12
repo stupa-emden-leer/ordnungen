@@ -270,7 +270,7 @@ Der AStA tagt grundsätzlich alle zwei Wochen in der Vorlesungszeit.
 
 (1) Der AStA gibt sich eine Geschäftsordnung. Diese muss vom Studierendenparlament mit einer Mehrheit von zwei Dritteln seiner Mitglieder bestätigt werden.
 
-(2) Die Geschäftsordnung des AStA trifft insbesondere Regelungen über Fristen und Form der Einladung, über die Aufstellung der Tagesordnung, über die Aufgaben des Vorsitzes, über das Verfahren bei Sitzungen, über die Beschlussfähigkeit sowie über das Protokoll. Sie richtet sich nach der Satzung der Studierendenschaft.
+(2) Die Geschäftsordnung des AStA trifft insbesondere Regelungen über Fristen und Form der Einladung, über die Aufstellung der Tagesordnung, über die Aufgaben des Vorsitzes, über das Verfahren bei Sitzungen, über die Beschlussfähigkeit sowie über das Protokoll.
 
 ## Abschnitt 4 Fachschaftsräte
 
@@ -287,8 +287,6 @@ Der AStA tagt grundsätzlich alle zwei Wochen in der Vorlesungszeit.
 (5) Der Fachschaftsrat ist dem Studierendenparlament Rechenschaft über seine Finanzen schuldig.
 
 (6) Der Fachschaftsrat gibt sich eine Geschäftsordnung. Näheres regelt § 29.
-
-(7) Die eigene Geschäftsordnung orientiert sich an der Satzung der Studierendenschaft.
 
 ### § 24 Zusammensetzung und Wahl
 
