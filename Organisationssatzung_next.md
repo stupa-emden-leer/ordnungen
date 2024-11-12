@@ -405,9 +405,7 @@ Zur Ergänzung dieser Satzung beschließt das Studierendenparlament mit einer Me
 
 ### § 35 Übergangsbestimmungen
 
-(1) § 18 gilt ab dem 1. April 2023. Das Studierendenparlament muss den AStA vor dem 1. November 2023 für die Amtszeit vom 1. November 2023 bis einschließlich dem 31. Oktober 2024 neu wählen.
-
-(2) § 24 Absatz 2 Satz 2 und 3 gilt ab der ersten Hochschulwahl nach Inkrafttreten dieser Satzung.
+(weggefallen)
 
 ### § 36 Salvatorische Klausel
 
