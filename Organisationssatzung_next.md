@@ -169,7 +169,7 @@ Die regelmäßige Amtszeit der Mitglieder beträgt ein Jahr, beginnend mit dem 1
 1. wenn ihre Amtsperiode endet,
 2. durch schriftlichen Rücktritt,
 3. durch Exmatrikulation oder
-4. wenn an mindestens drei Sitzungen pro Amtsperiode unentschuldigt gefehlt wurde, kann das Studierendenparlament mit einer Mehrheit von zwei Dritteln seiner Mitglieder über das Ende der Mitgliedschaft abstimmen. Für die Abstimmung muss ein entsprechender Antrag aus dem Studierendenparlament vorliegen.
+4. wenn an mindestens drei Sitzungen pro Amtsperiode unentschuldigt gefehlt wurde, kann das Studierendenparlament mit einer Mehrheit von zwei Dritteln seiner Mitglieder über das Ende der Mitgliedschaft abstimmen.
 
 (2) Im Falle staatsanwaltschaftlicher Ermittlungen gegen ein Mitglied des Studierendenparlaments, in Zusammenhang mit der Arbeit in studentischen Gremien, ruht das Mandat. Es erlischt bei einem rechtskräftigen Schuldspruch durch ein ordentliches Gericht.
 
