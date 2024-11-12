@@ -12,7 +12,7 @@ Aufgrund des § 20 Absatz 2 Satz 1 des Niedersächsischen Hochschulgesetzes vom 
 
 (2) Mitglied der Studierendenschaft ist, wer zum Studium an der Hochschule Emden/Leer immatrikuliert ist.
 
-(3) Mit der Immatrikulation an der Hochschule Emden/Leer unterliegt jede Studentin und jeder Student den Bestimmungen der Satzung der Studierendenschaft der Hochschule Emden/Leer.
+(3) Mit der Immatrikulation an der Hochschule Emden/Leer unterliegt jede Studentin und jeder Student den Bestimmungen der Organisationssatzung der Studierendenschaft der Hochschule Emden/Leer.
 
 (4) Die Mitglieder der Studierendenschaft haben das Recht, sich zur Wahrnehmung ihrer Interessen in den Räumen der Hochschule Emden/Leer zu versammeln. Näheres regelt die Geschäftsordnung.
 
@@ -43,7 +43,7 @@ Aufgrund des § 20 Absatz 2 Satz 1 des Niedersächsischen Hochschulgesetzes vom 
 
 (3) Die Organe tagen grundsätzlich hochschulöffentlich. Näheres regeln diese Satzung und die Geschäftsordnungen der Organe.
 
-(4) Zu jeder Sitzung muss ein Protokoll angefertigt und an alle Studierendenvertretungen verschickt werden.
+(4) Zu jeder Sitzung muss ein Protokoll angefertigt und an alle Organe der Studierendenschaft verschickt werden.
 
 (5) Das Sitzungsprotokoll ist für die Dauer von zehn Jahren in der Hochschule Emden/Leer aufzubewahren.
 
@@ -157,8 +157,8 @@ Die regelmäßige Amtszeit der Mitglieder beträgt ein Jahr, beginnend mit dem 1
 1. den Haushaltsplan des AStA,
 2. die Entlastung des AStA,
 3. die Einsetzung von Ausschüssen und Arbeitsgruppen,
-4. die Änderung ihrer Teilordnungen,
-5. Änderungsvorschläge zur Satzung der Studierendenschaft,
+4. die Änderung ihrer Ergänzungsordnungen,
+5. Änderungsvorschläge zur Organisationssatzung der Studierendenschaft,
 6. die Wahl des AStA.
 
 (2) Das Studierendenparlament bestimmt mindestens vier Mitglieder, möglichst aus verschiedenen Fachbereichen, denen die Kassenprüfung des AStA und der Fachschaftsräte obliegt. Bei der Prüfung ist darauf zu achten, dass die jeweiligen Mitglieder des Studierendenparlaments nicht die Kasse des für sie zuständigen Fachschaftsrates prüfen.
