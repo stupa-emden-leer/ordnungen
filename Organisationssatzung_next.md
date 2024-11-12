@@ -255,7 +255,7 @@ Die regelmäßige Amtszeit der Mitglieder beträgt ein Jahr, beginnend mit dem 1
 2. durch schriftlichen Rücktritt,
 3. durch Exmatrikulation,
 4. durch Abwahl durch das Studierendenparlament mit einer Mehrheit von zwei Dritteln oder
-5. durch ersetzende Wahl eines neuen AStA-Mitgliedes gemäß § 17 Absatz 3.
+5. durch ersetzende Wahl eines neuen AStA-Mitgliedes gemäß § 17 Absatz 3 (konstruktives Misstrauensvotum).
 
 (2) Frei werdende Stellen sind durch den AStA schnellstmöglich, maximal innerhalb von drei Wochen, zu besetzen. Sollte dies nicht möglich sein, werden die Stellen übergangsweise für maximal vier Wochen durch das Studierendenparlament besetzt. Bis zur ordentlichen Wahl durch den AStA und das Studierendenparlament sind diese Mitglieder nicht zeichnungs- und stimmberechtigt. Bei gleicher Eignung sind nicht im Studierendenparlament vertretene Studierende zu bevorzugen.
 
