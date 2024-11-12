@@ -221,13 +221,13 @@ ein zusätzlicher Sitzungstermin eingefordert werden. Dieser Forderung hat der V
 (5) Mitglieder des Vorstands eines Fachschaftsrates dürfen nicht Mitglied des AStA sein.
 
 (6) Folgende Referate müssen besetzt sein:
-1. Hochschulpolitisches Referat,
-2. Referat für Gleichstellung,
-3. Kulturreferat,
-4. Sportreferat,
-5. Referat für Öffentlichkeitsarbeit,
-6. Technikreferat,
-7. Semesterticketreferat.
+1. Hochschulpolitik,
+2. Gleichstellung und Soziales,
+3. Kultur,
+4. Sport,
+5. Öffentlichkeitsarbeit,
+6. Technik,
+7. Semesterticket.
 
 (7) Weitere Referate können eingesetzt werden.
 
