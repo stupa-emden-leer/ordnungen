@@ -372,7 +372,7 @@ ein zusätzlicher Sitzungstermin eingefordert werden. Dieser Forderung hat der V
 
 (1) Für die Haushalts- und Wirtschaftsführung gelten die gesetzlichen Bestimmungen nach den §§ 105 bis 112 der Niedersächsischen Landeshaushaltsordnung.
 
-(2) Das Studierendenparlament beschließt vor Beginn jeden Haushaltsjahres einen Haushaltsplan für den AStA und die Fachschaftsräte.
+(2) Das Studierendenparlament beschließt vor Beginn jeden Haushaltsjahres einen Haushaltsplan für die Studierendenschaft.
 
 (3) Näheres regelt die Finanzordnung.
 
