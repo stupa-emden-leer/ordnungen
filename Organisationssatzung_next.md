@@ -189,7 +189,7 @@ ein zusätzlicher Sitzungstermin eingefordert werden. Dieser Forderung hat der V
 
 ### § 15 Geschäftsordnung
 
-(1) Das Studierendenparlament gibt sich eine Geschäftsordnung mit einer Mehrheit von zwei Dritteln seiner gewählten Mitglieder. Das Studierendenparlament muss aus mindestens sechs gewählten Mitgliedern bestehen, um seine Geschäftsordnung ändern zu dürfen.
+(1) Das Studierendenparlament gibt sich eine Geschäftsordnung mit einer Mehrheit von zwei Dritteln seiner gewählten Mitglieder.
 
 (2) Die Geschäftsordnung des Studierendenparlaments trifft insbesondere Regelungen über Fristen und Form der Einladung, über die Aufstellung der Tagesordnung, über die Aufgaben des Vorstands, über das Verfahren bei Sitzungen, über die Beschlussfähigkeit sowie über das Protokoll.
 
