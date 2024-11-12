@@ -381,7 +381,7 @@ ein zusätzlicher Sitzungstermin eingefordert werden. Dieser Forderung hat der V
 
 ### § 33 Ergänzungsordnungen
 
-Zur Ergänzung dieser Satzung beschließt das Studierendenparlament mit einer Mehrheit von zwei Dritteln seiner Mitglieder eine:
+Zur Ergänzung dieser Satzung beschließt das Studierendenparlament mit einer Mehrheit von zwei Dritteln der anwesenden Mitglieder eine:
 1. Geschäftsordnung,
 2. Beitragsordnung,
 3. Finanzordnung,
