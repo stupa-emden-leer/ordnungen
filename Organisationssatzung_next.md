@@ -14,7 +14,7 @@ Aufgrund des § 20 Absatz 2 Satz 1 des Niedersächsischen Hochschulgesetzes vom 
 
 (3) Mit der Immatrikulation an der Hochschule Emden/Leer unterliegt jede Studentin und jeder Student den Bestimmungen der Organisationssatzung der Studierendenschaft der Hochschule Emden/Leer.
 
-(4) Die Mitglieder der Studierendenschaft haben das Recht, sich zur Wahrnehmung ihrer Interessen in den Räumen der Hochschule Emden/Leer zu versammeln. Näheres regelt die Geschäftsordnung.
+(4) Die Mitglieder der Studierendenschaft haben das Recht, sich zur Wahrnehmung ihrer Interessen in den Räumen der Hochschule Emden/Leer zu versammeln.
 
 (5) Die Studierendenschaft erhebt zur Finanzierung ihrer Aufgaben einen Beitrag von ihren Mitgliedern. Für Verbindlichkeiten der Studierendenschaft haftet nur dieses Vermögen. Näheres regelt die Beitragsordnung.
 
