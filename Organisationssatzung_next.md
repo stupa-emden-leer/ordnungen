@@ -86,7 +86,7 @@ Aufgrund des § 20 Absatz 2 Satz 1 des Niedersächsischen Hochschulgesetzes vom 
 (1) Die Vollversammlung besteht aus allen Mitgliedern der Studierendenschaft.
 
 (2) Eine Vollversammlung findet statt:
-1. auf schriftlichen Antrag von zehn vom Hundert der Studierenden,
+1. auf schriftlichen Antrag von 10 Prozent der Studierenden,
 2. auf Beschluss des Studierendenparlaments,
 3. auf Beschluss des AStA oder
 4. auf gemeinsamen Beschluss aller Fachschaftsräte.
@@ -104,7 +104,7 @@ Aufgrund des § 20 Absatz 2 Satz 1 des Niedersächsischen Hochschulgesetzes vom 
 (2) Einer jeden Urabstimmung geht eine Vollversammlung voraus, auf der über das Anliegen der Urabstimmung informiert wird.
 
 (3) Eine Urabstimmung ist durchzuführen:
-1. auf schriftlichen Antrag von zehn vom Hundert der Studierenden,
+1. auf schriftlichen Antrag von 10 Prozent der Studierenden,
 2. auf Beschluss des Studierendenparlaments,
 3. auf Beschluss des AStA oder
 4. auf gemeinsamen Beschluss aller Fachschaftsräte.
@@ -113,9 +113,9 @@ Aufgrund des § 20 Absatz 2 Satz 1 des Niedersächsischen Hochschulgesetzes vom 
 
 (5) Eine Entscheidung wird durch eine einfache Mehrheit der abgegebenen Stimmen erzielt.
 
-(6) Bei einer Beteiligung von mehr als zehn und weniger als dreißig vom Hundert der Studierenden haben die gefassten Beschlüsse ausschließlich empfehlenden Charakter.
+(6) Bei einer Beteiligung von mehr als 10 und weniger als 30 Prozent der Studierenden haben die gefassten Beschlüsse ausschließlich empfehlenden Charakter.
 
-(7) Bei einer Beteiligung von mehr als dreißig vom Hundert der Studierenden sind die Beschlüsse für die gewählten Organe der Studierendenschaft bindend.
+(7) Bei einer Beteiligung von mehr als 30 Prozent der Studierenden sind die Beschlüsse für die gewählten Organe der Studierendenschaft bindend.
 
 (8) Die Durchführung der Urabstimmung obliegt der antragstellenden Person.
 
@@ -181,7 +181,7 @@ Die regelmäßige Amtszeit der Mitglieder beträgt ein Jahr, beginnend mit dem 1
 ### § 14 Sitzungen
 
 (1) Das Studierendenparlament tagt grundsätzlich einmal im Monat in der Vorlesungszeit. Bei Bedarf kann auf Antrag
-1. von zehn vom Hundert der Studierenden,
+1. von 10 Prozent der Studierenden,
 2. eines Mitgliedes des Studierendenparlaments,
 3. des AStA oder
 4. eines Fachschaftsrates
@@ -337,7 +337,7 @@ Die regelmäßige Amtszeit der Mitglieder beträgt ein Jahr, beginnend mit dem 1
 ### § 28 Sitzungen
 
 (1) Der Fachschaftsrat tagt grundsätzlich zweimal im Monat in der Vorlesungszeit. Bei Bedarf kann auf Antrag
-1. von zehn vom Hundert der Studierenden des betreffenden Fachbereiches,
+1. von 10 Prozent der Studierenden des betreffenden Fachbereiches,
 2. des Studierendenparlaments,
 3. des AStA oder
 4. eines Mitgliedes des Fachschaftsrates
