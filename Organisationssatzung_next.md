@@ -143,7 +143,7 @@ Aufgrund des § 20 Absatz 2 Satz 1 des Niedersächsischen Hochschulgesetzes vom 
 
 (4) Beratende Mitglieder haben kein Stimmrecht.
 
-(5) Mitglieder des AStA dürfen dem Studierendenparlament nicht mit voller Stimme angehören.
+(5) Mitglieder des AStA dürfen nur beratendes Mitglied des Studierendenparlaments sein.
 
 (6) Mitglieder des Vorstands eines Fachschaftsrates dürfen nicht Mitglied des Studierendenparlaments sein. Des Weiteren dürfen Mitglieder des Vorstands des Studierendenparlaments nicht Mitglied eines Fachschaftsrates sein.
 
