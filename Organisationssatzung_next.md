@@ -189,7 +189,7 @@ ein zusätzlicher Sitzungstermin eingefordert werden. Dieser Forderung hat der V
 
 ### § 15 Geschäftsordnung
 
-(1) Das Studierendenparlament gibt sich eine Geschäftsordnung mit einer Mehrheit von zwei Dritteln seiner gewählten Mitglieder.
+(1) Das Studierendenparlament gibt sich eine Geschäftsordnung mit einer Mehrheit von zwei Dritteln der anwesenden Mitglieder.
 
 (2) Die Geschäftsordnung des Studierendenparlaments trifft insbesondere Regelungen über Fristen und Form der Einladung, über die Aufstellung der Tagesordnung, über die Aufgaben des Vorstands, über das Verfahren bei Sitzungen, über die Beschlussfähigkeit sowie über das Protokoll.
 
@@ -265,7 +265,7 @@ Der AStA tagt grundsätzlich alle zwei Wochen in der Vorlesungszeit.
 
 ### § 22 Geschäftsordnung
 
-(1) Der AStA gibt sich eine Geschäftsordnung. Diese muss vom Studierendenparlament mit einer Mehrheit von zwei Dritteln seiner Mitglieder bestätigt werden.
+(1) Der AStA gibt sich eine Geschäftsordnung. Diese muss vom Studierendenparlament mit einer Mehrheit von zwei Dritteln der anwesenden Mitglieder bestätigt werden.
 
 (2) Die Geschäftsordnung des AStA trifft insbesondere Regelungen über Fristen und Form der Einladung, über die Aufstellung der Tagesordnung, über die Aufgaben des Vorsitzes, über das Verfahren bei Sitzungen, über die Beschlussfähigkeit sowie über das Protokoll.
 
@@ -341,7 +341,7 @@ ein zusätzlicher Sitzungstermin eingefordert werden. Dieser Forderung hat der V
 
 ### § 29 Geschäftsordnung
 
-(1) Der Fachschaftsrat gibt sich eine Geschäftsordnung mit einer Mehrheit von zwei Dritteln seiner gewählten Mitglieder. Es bedarf zum Inkrafttreten der Geschäftsordnung einer Mehrheit von zwei Dritteln der Mitglieder des Studierendenparlaments.
+(1) Der Fachschaftsrat gibt sich eine Geschäftsordnung mit einer Mehrheit von zwei Dritteln der anwesenden Mitglieder. Es bedarf zum Inkrafttreten der Geschäftsordnung einer Mehrheit von zwei Dritteln der anwesenden Mitglieder des Studierendenparlaments.
 
 (2) Die Geschäftsordnung des Fachschaftsrates sollte sich an der Geschäftsordnung des Studierendenparlaments orientieren.
 
