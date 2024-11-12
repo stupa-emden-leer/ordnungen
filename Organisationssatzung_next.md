@@ -158,11 +158,10 @@ Die regelmäßige Amtszeit der Mitglieder beträgt ein Jahr, beginnend mit dem 1
 2. die Entlastung des AStA,
 3. die Einsetzung von Ausschüssen und Arbeitsgruppen,
 4. die Änderung ihrer Teilordnungen,
-5. Änderungsvorschläge zur Satzung der Studierendenschaft.
+5. Änderungsvorschläge zur Satzung der Studierendenschaft,
+6. die Wahl des AStA.
 
-(2) Das Studierendenparlament wählt den AStA.
-
-(3) Das Studierendenparlament bestimmt mindestens vier Mitglieder, möglichst aus verschiedenen Fachbereichen, denen die Kassenprüfung des AStA und der Fachschaftsräte obliegt. Bei der Prüfung ist darauf zu achten, dass die jeweiligen Mitglieder des Studierendenparlaments nicht die Kasse des für sie zuständigen Fachschaftsrates prüfen.
+(2) Das Studierendenparlament bestimmt mindestens vier Mitglieder, möglichst aus verschiedenen Fachbereichen, denen die Kassenprüfung des AStA und der Fachschaftsräte obliegt. Bei der Prüfung ist darauf zu achten, dass die jeweiligen Mitglieder des Studierendenparlaments nicht die Kasse des für sie zuständigen Fachschaftsrates prüfen.
 
 ### § 13 Ausscheiden und Nachrücken von Mitgliedern
 
