@@ -180,7 +180,7 @@ Die regelmäßige Amtszeit der Mitglieder beträgt ein Jahr, beginnend mit dem 1
 
 ### § 14 Sitzungen
 
-(1) Das Studierendenparlament tagt grundsätzlich einmal im Monat in der Vorlesungszeit. Bei Bedarf kann auf Antrag
+(1) Das Studierendenparlament tagt grundsätzlich alle vier Wochen in der Vorlesungszeit. Bei Bedarf kann auf Antrag
 1. von 10 Prozent der Studierenden,
 2. eines Mitgliedes des Studierendenparlaments,
 3. des AStA oder
@@ -264,7 +264,7 @@ Die regelmäßige Amtszeit der Mitglieder beträgt ein Jahr, beginnend mit dem 1
 
 ### § 21 Sitzungen
 
-Der AStA tagt grundsätzlich jede zweite Woche in der Vorlesungszeit.
+Der AStA tagt grundsätzlich alle zwei Wochen in der Vorlesungszeit.
 
 ### § 22 Geschäftsordnung
 
@@ -336,7 +336,7 @@ Die regelmäßige Amtszeit der Mitglieder beträgt ein Jahr, beginnend mit dem 1
 
 ### § 28 Sitzungen
 
-(1) Der Fachschaftsrat tagt grundsätzlich zweimal im Monat in der Vorlesungszeit. Bei Bedarf kann auf Antrag
+(1) Der Fachschaftsrat tagt grundsätzlich alle zwei Wochen in der Vorlesungszeit. Bei Bedarf kann auf Antrag
 1. von 10 Prozent der Studierenden des betreffenden Fachbereiches,
 2. des Studierendenparlaments,
 3. des AStA oder
