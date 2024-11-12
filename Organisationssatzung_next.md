@@ -293,7 +293,7 @@ Der AStA tagt grundsätzlich alle zwei Wochen in der Vorlesungszeit.
 
 (4) Die Zusammensetzung regelt die jeweilige Satzung des Fachschaftsrates.
 
-(5) Vorstandsmitglieder und Kassenwarte des AStA dürfen nicht Mitglied eines Fachschaftsrates sein.
+(5) Mitglieder des Vorstands und Kassenwarte des AStA dürfen nicht Mitglied eines Fachschaftsrates sein.
 
 ### § 25 Amtsperiode
 
