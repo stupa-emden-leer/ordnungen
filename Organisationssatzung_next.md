@@ -375,7 +375,9 @@ ein zusätzlicher Sitzungstermin eingefordert werden. Dieser Forderung hat der V
 
 ### § 32 Satzungsänderungen
 
-Beschlüsse, die eine Satzungsänderung zum Gegenstand haben, bedürfen einer Mehrheit von zwei Dritteln der Mitglieder des Studierendenparlaments.
+(1) Beschlüsse, die eine Satzungsänderung zum Gegenstand haben, bedürfen einer Mehrheit von zwei Dritteln der Mitglieder des Studierendenparlaments.
+
+(2) Eine Satzungsänderung kann auch in einer Urabstimmung entschieden werden.
 
 ### § 33 Ergänzungsordnungen
 
