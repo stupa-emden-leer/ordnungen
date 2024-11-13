@@ -8,6 +8,8 @@ Kontoinhaber der Studierendenschaft ist „Die Studierendenschaft der Hochschule
 
 Aus Gründen der Lesbarkeit wird in dieser Ordnung die feminine Form verwendet. Alle anderen Geschlechtsformen sind mitgemeint.
 
+Gültig sind die „Rahmenvorgaben für die Finanzordnung der Studierendenschaft“ gemäß § 20 Absatz 4 des Niedersächsischen Hochschulgesetzes vom 18.01.2024, die diesem Dokument angehängt sind.
+
 ## § 1 Beginn und Ende des Haushaltsjahres
 
 (1) Das Haushaltsjahr beginnt am 1. März und endet am jeweils letzten Tag des Februars des Folgejahres.
@@ -44,7 +46,7 @@ Constantiaplatz 4
 
 (1) Der AStA hat zum letzten ordentlichen Sitzungstermin des Studierendenparlaments vor dem Ende des Haushaltsjahres einen abstimmungsfähigen Haushaltsentwurf für das Folgejahr vorzulegen. Die Vorlage des abgeschlossenen Haushaltes ist bis sechs Wochen nach Ende des Haushaltsjahres beim Studierendenparlament vorzulegen.
 
-(2) Der vom StuPa festzustellende Haushaltsplan ist mindestens einen Monat vor dem Beginn des neuen Haushaltsjahres schriftlich und begründet der hauptberuflichen Vizepräsidentin der Hochschule zur Prüfung und Genehmigung anzuzeigen.
+(2) Der vom StuPa festzustellende Haushaltsplan ist mindestens einen Monat vor dem Beginn des neuen Haushaltsjahres schriftlich und begründet der hauptberuflichen Vizepräsidentin der Hochschule zur Prüfung und Genehmigung vorzulegen.
 
 (3) Sollte die Genehmigung nicht zu Beginn des Haushaltsjahres, das heißt zum 1. März, vorliegen, greift automatisch die vorläufige Haushaltsführung. Dies hat zur Folge, dass nur rechtlich begründete (und nachweispflichtige) Verpflichtungen erfüllt und nur solche Ausgaben geleistet werden dürfen, die zur Erfüllung der Aufgaben der Studierendenschaft unabweisbar notwendig sind.
 
