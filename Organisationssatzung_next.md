@@ -375,11 +375,7 @@ ein zusätzlicher Sitzungstermin eingefordert werden. Dieser Forderung hat der V
 
 ### § 32 Satzungsänderungen
 
-(1) Vorschläge für Satzungsänderungen bedürfen einer Mehrheit von zwei Dritteln der Mitglieder des Studierendenparlaments.
-
-(2) Über Änderungen der Satzung der Studierendenschaft wird in einer Urabstimmung entschieden.
-
-(3) Dieser Paragraf (§ 32) darf nicht Gegenstand einer Satzungsänderung sein.
+Beschlüsse, die eine Satzungsänderung zum Gegenstand haben, bedürfen einer Mehrheit von zwei Dritteln der Mitglieder des Studierendenparlaments.
 
 ### § 33 Ergänzungsordnungen
 
