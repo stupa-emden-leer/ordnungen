@@ -57,8 +57,6 @@ Aufgrund des § 20 Absatz 2 Satz 1 des Niedersächsischen Hochschulgesetzes vom 
 
 (4) Jedes Mitglied der Studierendenschaft ist verpflichtet, einen finanziellen Beitrag für die Selbstverwaltung der Studierendenschaft zu leisten.
 
-(5) Jedes Mitglied der Studierendenschaft hat das Beschwerderecht nach § 6.
-
 ### § 5 Wahlrecht
 
 (1) Jedes Mitglied der Studierendenschaft hat das aktive und passive Wahlrecht.
