@@ -12,7 +12,7 @@ Aufgrund des § 20 Absatz 2 Satz 1 des Niedersächsischen Hochschulgesetzes vom 
 
 (2) Mitglied der Studierendenschaft ist, wer zum Studium an der Hochschule Emden/Leer immatrikuliert ist.
 
-(3) Mit der Immatrikulation an der Hochschule Emden/Leer unterliegt jede Studentin und jeder Student den Bestimmungen der Organisationssatzung der Studierendenschaft der Hochschule Emden/Leer.
+(3) Mit der Immatrikulation an der Hochschule Emden/Leer unterliegt jede Studentin und jeder Student den Bestimmungen dieser Satzung.
 
 (4) Die Mitglieder der Studierendenschaft haben das Recht, sich zur Wahrnehmung ihrer Interessen in den Räumen der Hochschule Emden/Leer zu versammeln.
 
@@ -158,7 +158,7 @@ Die regelmäßige Amtszeit der Mitglieder beträgt ein Jahr. Sie beginnt am 1. M
 2. die Entlastung des AStA,
 3. die Einsetzung von Ausschüssen und Arbeitsgruppen,
 4. die Änderung ihrer Ergänzungsordnungen,
-5. Änderungsvorschläge zur Organisationssatzung der Studierendenschaft,
+5. Änderungsvorschläge dieser Satzung,
 6. die Wahl des AStA.
 
 (2) Das Studierendenparlament bestimmt mindestens vier Mitglieder, möglichst aus verschiedenen Fachbereichen, denen die Kassenprüfung des AStA und der Fachschaftsräte obliegt. Bei der Prüfung ist darauf zu achten, dass die jeweiligen Mitglieder des Studierendenparlaments nicht die Kasse des für sie zuständigen Fachschaftsrates prüfen.
