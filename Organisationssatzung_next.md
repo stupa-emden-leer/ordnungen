@@ -147,7 +147,7 @@ Aufgrund des § 20 Absatz 2 Satz 1 des Niedersächsischen Hochschulgesetzes vom 
 
 ### § 11 Amtszeit
 
-Die regelmäßige Amtszeit der Mitglieder beträgt ein Jahr, beginnend mit dem 1. März. Näheres regelt die Wahlordnung.
+Die regelmäßige Amtszeit der Mitglieder beträgt ein Jahr. Sie beginnt am 1. März. Näheres regelt die Wahlordnung.
 
 ### § 12 Aufgaben
 
@@ -228,7 +228,7 @@ ein zusätzlicher Sitzungstermin eingefordert werden. Dieser Forderung hat der V
 
 ### § 18 Amtszeit
 
-Die regelmäßige Amtszeit der Mitglieder beträgt ein Jahr, beginnend mit dem 1. November. Die Konstituierung hat vor dem 1. November erfolgt zu sein.
+Die regelmäßige Amtszeit der Mitglieder beträgt ein Jahr. Sie beginnt am 1. November. Die Konstituierung hat vor dem 1. November erfolgt zu sein.
 
 ### § 19 Aufgaben
 
@@ -295,7 +295,7 @@ Der AStA tagt grundsätzlich alle zwei Wochen in der Vorlesungszeit.
 
 ### § 25 Amtszeit
 
-Die regelmäßige Amtszeit der Mitglieder beträgt ein Jahr, beginnend mit dem 1. März. Näheres regelt die Wahlordnung.
+Die regelmäßige Amtszeit der Mitglieder beträgt ein Jahr. Sie beginnt am 1. März. Näheres regelt die Wahlordnung.
 
 ### § 26 Aufgaben
 
