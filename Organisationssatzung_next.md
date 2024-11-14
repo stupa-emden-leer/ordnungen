@@ -99,27 +99,31 @@ Aufgrund des § 20 Absatz 2 Satz 1 des Niedersächsischen Hochschulgesetzes vom 
 
 (1) Die Studierendenschaft kann über ihre Angelegenheiten in Form einer Urabstimmung beschließen.
 
-(2) Einer jeden Urabstimmung geht eine Vollversammlung voraus, auf der über das Anliegen der Urabstimmung informiert wird.
+(2) In einer Urabstimmung können insbesondere Beschlüsse gefasst werden über:
+1. die Änderung dieser Satzung,
+2. die Änderung der Ergänzungsordnungen.
 
-(3) Eine Urabstimmung ist durchzuführen:
+(3) Einer jeden Urabstimmung geht eine Vollversammlung voraus, auf der über das Anliegen der Urabstimmung informiert wird.
+
+(4) Eine Urabstimmung ist durchzuführen:
 1. auf schriftlichen Antrag von 10 Prozent der Studierenden,
 2. auf Beschluss des Studierendenparlaments,
 3. auf Beschluss des AStA oder
 4. auf gemeinsamen Beschluss aller Fachschaftsräte.
 
-(4) Die Urabstimmung muss innerhalb von zwei Wochen nach Einreichung des Antrages beziehungsweise Beschlusses beginnen. Die Frist gilt während der vorlesungsfreien Zeit als unterbrochen.
+(5) Die Urabstimmung muss innerhalb von zwei Wochen nach Einreichung des Antrages beziehungsweise Beschlusses beginnen. Die Frist gilt während der vorlesungsfreien Zeit als unterbrochen.
 
-(5) Eine Entscheidung wird durch eine einfache Mehrheit der abgegebenen Stimmen erzielt.
+(6) Eine Entscheidung wird durch eine einfache Mehrheit der abgegebenen Stimmen erzielt.
 
-(6) Bei einer Beteiligung von mehr als 10 und weniger als 30 Prozent der Studierenden haben die gefassten Beschlüsse ausschließlich empfehlenden Charakter.
+(7) Bei einer Beteiligung von mehr als 10 und weniger als 30 Prozent der Studierenden haben die gefassten Beschlüsse ausschließlich empfehlenden Charakter.
 
-(7) Bei einer Beteiligung von mehr als 30 Prozent der Studierenden sind die Beschlüsse für die gewählten Organe der Studierendenschaft bindend.
+(8) Bei einer Beteiligung von mehr als 30 Prozent der Studierenden sind die Beschlüsse für die gewählten Organe der Studierendenschaft bindend.
 
 (9) Die Organisation und Durchführung der Urabstimmung obliegt der antragstellenden Person.
 
-(9) Die Urabstimmung beginnt unmittelbar nach der Vollversammlung und muss innerhalb von maximal fünf Werktagen beendet werden.
+(10) Die Urabstimmung beginnt unmittelbar nach der Vollversammlung und muss innerhalb von maximal fünf Werktagen beendet werden.
 
-(10) Die Auszählung der Stimmen erfolgt unter Aufsicht von jeweils zwei Mitgliedern des AStA und des Studierendenparlaments, jeweils einem Mitglied der Fachschaftsräte sowie zwei Vertretern der antragstellenden Person, sofern diese nicht mit den vorgenannten Gremien identisch ist.
+(11) Sofern die Urabstimmung im Rahmen der Wahlen zu Organen der Studierendenschaft stattfindet, erfolgt die Auszählung der Stimmen gemäß § 16 der Wahlordnung. Andernfalls erfolgt die Auszählung unter Aufsicht von zwei Mitgliedern des AStA und zwei Mitgliedern des Studierendenparlaments, jeweils einem Mitglied der Fachschaftsräte sowie zwei Vertretern der antragstellenden Person, sofern diese nicht mit den vorgenannten Gremien identisch ist.
 
 ## Abschnitt 2 Studierendenparlament
 
