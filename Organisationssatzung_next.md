@@ -372,11 +372,10 @@ Die regelmäßige Amtszeit der Mitglieder beträgt ein Jahr. Sie beginnt am 1. M
 ### § 33 Ergänzungsordnungen
 
 Zur Ergänzung dieser Satzung beschließt das Studierendenparlament mit einer Mehrheit von zwei Dritteln der anwesenden Mitglieder eine:
-1. Geschäftsordnung,
-2. Beitragsordnung,
+1. Beitragsordnung,
+2. Beschwerdeordnung,
 3. Finanzordnung,
-4. Wahlordnung,
-5. Beschwerdeordnung.
+4. Wahlordnung.
 
 ### § 34 Sitz und Geschäftsstelle
 
