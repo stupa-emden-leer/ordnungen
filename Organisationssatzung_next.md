@@ -201,7 +201,6 @@ Die regelmäßige Amtszeit der Mitglieder beträgt ein Jahr. Sie beginnt am 1. M
 
 (3) Der AStA bedarf zu seiner Tätigkeit des Vertrauens des Studierendenparlaments und ist ihm Rechenschaft schuldig.
 
-(4) Der AStA nimmt die Aufgaben der Studierendenschaft nach § 20 Absatz 1 Satz 4 und 5 des Niedersächsischen Hochschulgesetzes wahr, soweit sie die Allgemeinheit der Studierenden betreffen.
 
 ### § 17 Zusammensetzung und Wahl
 
@@ -232,7 +231,7 @@ Die regelmäßige Amtszeit der Mitglieder beträgt ein Jahr. Sie beginnt am 1. N
 
 ### § 19 Aufgaben
 
-(1) Der AStA nimmt die Aufgaben der Studierendenschaft nach § 16 Absatz 4 wahr.
+(1) Der AStA nimmt die Aufgaben der Studierendenschaft nach § 20 Absatz 1 Satz 4 und 5 des Niedersächsischen Hochschulgesetzes wahr, soweit sie die Allgemeinheit der Studierenden betreffen.
 
 (2) Der AStA erstellt einen Haushaltsplan nach Maßgabe der Finanzordnung.
 
