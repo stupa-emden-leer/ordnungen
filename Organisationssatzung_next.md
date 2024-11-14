@@ -145,7 +145,7 @@ Aufgrund des § 20 Absatz 2 Satz 1 des Niedersächsischen Hochschulgesetzes vom 
 
 (6) Mitglieder des Vorstands eines Fachschaftsrates dürfen nicht Mitglied des Studierendenparlaments sein. Des Weiteren dürfen Mitglieder des Vorstands des Studierendenparlaments nicht Mitglied eines Fachschaftsrates sein.
 
-### § 11 Amtsperiode
+### § 11 Amtszeit
 
 Die regelmäßige Amtszeit der Mitglieder beträgt ein Jahr, beginnend mit dem 1. März. Näheres regelt die Wahlordnung.
 
@@ -164,10 +164,10 @@ Die regelmäßige Amtszeit der Mitglieder beträgt ein Jahr, beginnend mit dem 1
 ### § 13 Ausscheiden und Nachrücken von Mitgliedern
 
 (1) Einzelne Mitglieder scheiden aus:
-1. wenn ihre Amtsperiode endet,
+1. wenn ihre Amtszeit endet,
 2. durch schriftlichen Rücktritt,
 3. durch Exmatrikulation oder
-4. wenn an mindestens drei Sitzungen pro Amtsperiode unentschuldigt gefehlt wurde, kann das Studierendenparlament mit einer Mehrheit von zwei Dritteln der anwesenden Mitglieder über das Ende der Mitgliedschaft abstimmen.
+4. wenn an mindestens drei Sitzungen pro Amtszeit unentschuldigt gefehlt wurde, kann das Studierendenparlament mit einer Mehrheit von zwei Dritteln der anwesenden Mitglieder über das Ende der Mitgliedschaft abstimmen.
 
 (2) Im Falle staatsanwaltschaftlicher Ermittlungen gegen ein Mitglied des Studierendenparlaments, in Zusammenhang mit der Arbeit in studentischen Gremien, ruht das Mandat. Es erlischt bei einem rechtskräftigen Schuldspruch durch ein ordentliches Gericht.
 
@@ -226,7 +226,7 @@ ein zusätzlicher Sitzungstermin eingefordert werden. Dieser Forderung hat der V
 
 (7) Weitere Referate können eingesetzt werden.
 
-### § 18 Amtsperiode
+### § 18 Amtszeit
 
 Die regelmäßige Amtszeit der Mitglieder beträgt ein Jahr, beginnend mit dem 1. November. Die Konstituierung hat vor dem 1. November erfolgt zu sein.
 
@@ -249,7 +249,7 @@ Die regelmäßige Amtszeit der Mitglieder beträgt ein Jahr, beginnend mit dem 1
 ### § 20 Ausscheiden und Nachrücken von Mitgliedern
 
 (1) Einzelne Mitglieder scheiden aus:
-1. wenn ihre Amtsperiode endet,
+1. wenn ihre Amtszeit endet,
 2. durch schriftlichen Rücktritt,
 3. durch Exmatrikulation,
 4. durch Abwahl durch das Studierendenparlament mit einer Mehrheit von zwei Dritteln oder
@@ -293,7 +293,7 @@ Der AStA tagt grundsätzlich alle zwei Wochen in der Vorlesungszeit.
 
 (5) Mitglieder des Vorstands und Kassenwarte des AStA dürfen nicht Mitglied eines Fachschaftsrates sein.
 
-### § 25 Amtsperiode
+### § 25 Amtszeit
 
 Die regelmäßige Amtszeit der Mitglieder beträgt ein Jahr, beginnend mit dem 1. März. Näheres regelt die Wahlordnung.
 
@@ -318,10 +318,10 @@ Die regelmäßige Amtszeit der Mitglieder beträgt ein Jahr, beginnend mit dem 1
 ### § 27 Ausscheiden und Nachrücken von Mitgliedern
 
 (1) Einzelne Mitglieder scheiden aus:
-1. wenn ihre Amtsperiode endet,
+1. wenn ihre Amtszeit endet,
 2. durch schriftlichen Rücktritt,
 3. durch Exmatrikulation oder
-4. wenn an mindestens drei Sitzungen pro Amtsperiode unentschuldigt gefehlt wurde, kann das Studierendenparlament mit einer Mehrheit von zwei Dritteln der anwesenden Mitglieder über das Ende der Mitgliedschaft abstimmen. Für die Abstimmung muss mit einer Mehrheit von zwei Dritteln der anwesenden Mitglieder des Fachschaftsrates ein Antrag an das Studierendenparlament gestellt werden.
+4. wenn an mindestens drei Sitzungen pro Amtszeit unentschuldigt gefehlt wurde, kann das Studierendenparlament mit einer Mehrheit von zwei Dritteln der anwesenden Mitglieder über das Ende der Mitgliedschaft abstimmen. Für die Abstimmung muss mit einer Mehrheit von zwei Dritteln der anwesenden Mitglieder des Fachschaftsrates ein Antrag an das Studierendenparlament gestellt werden.
 
 (2) Im Falle staatsanwaltschaftlicher Ermittlungen gegen ein Mitglied eines Fachschaftsrates, in Zusammenhang mit der Arbeit in studentischen Gremien, ruht das Mandat. Es erlischt bei einem rechtskräftigen Schuldspruch durch ein ordentliches Gericht.
 
