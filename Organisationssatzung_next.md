@@ -53,7 +53,7 @@ Aufgrund des § 20 Absatz 2 Satz 1 des Niedersächsischen Hochschulgesetzes vom 
 
 (3) Jedes Mitglied der Studierendenschaft hat das Recht auf Informationen über alle Vorgänge innerhalb der Studierendenschaft, soweit sie nicht vertraulich sind.
 
-(4) Jedes Mitglied der Studierendenschaft ist verpflichtet, einen finanziellen Beitrag für die Selbstverwaltung der Studierendenschaft zu leisten.
+(4) Jedes Mitglied der Studierendenschaft ist verpflichtet, einen finanziellen Beitrag für die Studierendenschaft zu leisten.
 
 ### § 5 Wahlrecht
 
