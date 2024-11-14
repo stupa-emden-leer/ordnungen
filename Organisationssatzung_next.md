@@ -135,7 +135,7 @@ Aufgrund des § 20 Absatz 2 Satz 1 des Niedersächsischen Hochschulgesetzes vom 
 
 ### § 10 Zusammensetzung
 
-(1) Das Studierendenparlament setzt sich aus 13 gewählten Vertretern zusammen.
+(1) Das Studierendenparlament setzt sich aus 13 gewählten Mitgliedern zusammen.
 
 (2) Hinzu kommen je ein beratendes Mitglied aus den Fachschaftsräten und dem AStA.
 
@@ -289,7 +289,7 @@ Der AStA tagt grundsätzlich alle zwei Wochen in der Vorlesungszeit.
 
 (2) Die ordentliche Mitgliedschaft des Fachschaftsrates kann nur durch die Wahl der Studierenden des jeweiligen Fachbereichs erlangt werden.
 
-(3) Es werden zwölf Vertreter gewählt. Für je angefangene 100 Studierende des jeweiligen Fachbereichs wird zusätzlich eine Vertreterin oder ein Vertreter gewählt.
+(3) Es werden zwölf Mitglieder gewählt. Für je angefangene 100 Studierende des jeweiligen Fachbereichs wird zusätzlich ein Mitglied gewählt.
 
 (4) Die Zusammensetzung regelt die jeweilige Satzung des Fachschaftsrates.
 
