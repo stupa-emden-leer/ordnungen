@@ -173,13 +173,11 @@ Die regelmäßige Amtszeit der Mitglieder beträgt ein Jahr. Sie beginnt am 1. M
 
 ### § 14 Sitzungen
 
-(1) Das Studierendenparlament tagt grundsätzlich alle vier Wochen in der Vorlesungszeit. Bei Bedarf kann auf Antrag
+(1) Das Studierendenparlament tagt grundsätzlich alle vier Wochen in der Vorlesungszeit. Zusätzliche Sitzungen finden statt auf Antrag
 1. von 10 Prozent der Studierenden,
 2. eines Mitgliedes des Studierendenparlaments,
 3. des AStA oder
-4. eines Fachschaftsrates
-
-ein zusätzlicher Sitzungstermin eingefordert werden. Dieser Forderung hat der Vorstand Folge zu leisten.
+4. eines Fachschaftsrates.
 
 (2) Der amtierende Vorstand beruft die konstituierende Sitzung ein und leitet die Sitzung bis zur Übergabe der Amtsgeschäfte an den neuen Vorstand. Näheres regelt die Geschäftsordnung des Studierendenparlaments.
 
@@ -327,13 +325,11 @@ Die regelmäßige Amtszeit der Mitglieder beträgt ein Jahr. Sie beginnt am 1. M
 
 ### § 28 Sitzungen
 
-(1) Der Fachschaftsrat tagt grundsätzlich alle zwei Wochen in der Vorlesungszeit. Bei Bedarf kann auf Antrag
+(1) Der Fachschaftsrat tagt grundsätzlich alle zwei Wochen in der Vorlesungszeit. Zusätzliche Sitzungen finden statt auf Antrag
 1. von 10 Prozent der Studierenden des betreffenden Fachbereiches,
 2. des Studierendenparlaments,
 3. des AStA oder
-4. eines Mitgliedes des Fachschaftsrates
-
-ein zusätzlicher Sitzungstermin eingefordert werden. Dieser Forderung hat der Vorsitz Folge zu leisten.
+4. eines Mitgliedes des Fachschaftsrates.
 
 (2) Der amtierende Vorsitz beruft die konstituierende Sitzung ein und leitet die Sitzung bis zur Übergabe der Amtsgeschäfte an den neuen Vorsitz. Näheres regelt die Geschäftsordnung des Fachschaftsrates.
 
