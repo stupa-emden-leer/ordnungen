@@ -337,7 +337,7 @@ Die regelmäßige Amtszeit der Mitglieder beträgt ein Jahr, beginnend mit dem 1
 
 ein zusätzlicher Sitzungstermin eingefordert werden. Dieser Forderung hat der Vorsitz Folge zu leisten.
 
-(2) Der amtierende Vorsitz beruft die konstituierende Sitzung ein und leitet die Sitzung bis zur Übergabe der Amtsgeschäfte an den neuen Vorsitz. Näheres regeln die Geschäftsordnung des Fachschaftsrates und die Wahlordnung.
+(2) Der amtierende Vorsitz beruft die konstituierende Sitzung ein und leitet die Sitzung bis zur Übergabe der Amtsgeschäfte an den neuen Vorsitz. Näheres regelt die Geschäftsordnung des Fachschaftsrates.
 
 ### § 29 Geschäftsordnung
 
