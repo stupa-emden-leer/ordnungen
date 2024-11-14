@@ -348,7 +348,7 @@ Die regelmäßige Amtszeit der Mitglieder beträgt ein Jahr. Sie beginnt am 1. M
 
 (1) Die Studierendenschaft hat ein eigenes Vermögen.
 
-(2) Für Verbindlichkeiten haftet die Studierendenschaft nur mit diesem Vermögen.
+(2) Für ihre Verbindlichkeiten haftet die Studierendenschaft nur mit diesem Vermögen.
 
 (3) Jedes Organ der Studierendenschaft ist dem Studierendenparlament Rechenschaft über seine Finanzmittel schuldig.
 
