@@ -93,7 +93,7 @@ Aufgrund des § 20 Absatz 2 Satz 1 des Niedersächsischen Hochschulgesetzes vom 
 
 (4) Die Mitglieder der Studierendenschaft müssen mindestens sieben Werktage vor Durchführung vom Stattfinden der Vollversammlung informiert werden. Hierbei sind alle Standorte gleich zu behandeln.
 
-(5) Die Durchführung der Vollversammlung obliegt dem AStA.
+(5) Die Organisation und Durchführung der Vollversammlung obliegt dem AStA.
 
 ### § 8 Urabstimmung
 
@@ -115,7 +115,7 @@ Aufgrund des § 20 Absatz 2 Satz 1 des Niedersächsischen Hochschulgesetzes vom 
 
 (7) Bei einer Beteiligung von mehr als 30 Prozent der Studierenden sind die Beschlüsse für die gewählten Organe der Studierendenschaft bindend.
 
-(8) Die Durchführung der Urabstimmung obliegt der antragstellenden Person.
+(9) Die Organisation und Durchführung der Urabstimmung obliegt der antragstellenden Person.
 
 (9) Die Urabstimmung beginnt unmittelbar nach der Vollversammlung und muss innerhalb von maximal fünf Werktagen beendet werden.
 
@@ -299,7 +299,7 @@ Die regelmäßige Amtszeit der Mitglieder beträgt ein Jahr. Sie beginnt am 1. M
 
 (1) Der Fachschaftsrat nimmt die Aufgaben der Studierendenschaft nach § 20 Absatz 1 Satz 4 und 5 des Niedersächsischen Hochschulgesetzes wahr, soweit sie die Studierenden der jeweiligen Fachschaft betreffen.
 
-(2) Organisation und Durchführung von Vollversammlungen der jeweiligen Fachschaft obliegen dem zuständigen Fachschaftsrat.
+(2) Die Organisation und Durchführung einer Vollversammlung der jeweiligen Fachschaft obliegt dem zuständigen Fachschaftsrat.
 
 (3) Der Fachschaftsrat ernennt aus seiner Mitte:
 1. eine 1. Vorsitzende oder einen 1. Vorsitzenden,
