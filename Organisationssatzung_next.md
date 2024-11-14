@@ -121,8 +121,6 @@ Aufgrund des § 20 Absatz 2 Satz 1 des Niedersächsischen Hochschulgesetzes vom 
 
 (9) Die Urabstimmung beginnt unmittelbar nach der Vollversammlung und muss innerhalb von maximal fünf Werktagen beendet werden.
 
-(10) Die Auszählung der Stimmen erfolgt unter Aufsicht von jeweils zwei Mitgliedern des AStA und des Studierendenparlaments, jeweils einem Mitglied der Fachschaftsräte sowie zwei Vertretern der antragstellenden Person, sofern diese nicht mit den vorgenannten Gremien identisch ist.
-
 ## Abschnitt 2 Studierendenparlament
 
 ### § 9 Begriffsbestimmung
