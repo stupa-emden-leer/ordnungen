@@ -385,17 +385,13 @@ Zur Ergänzung dieser Satzung beschließt das Studierendenparlament mit einer Me
 
 (3) Das Studierendenparlament übt in den Räumen der Studierendenschaft das Hausrecht aus.
 
-### § 35 Übergangsbestimmungen
-
-(weggefallen)
-
-### § 36 Salvatorische Klausel
+### § 35 Salvatorische Klausel
 
 Sollten einzelne Bestimmungen dieser Satzung unwirksam sein oder nach ihrer Verabschiedung unwirksam werden, bleibt die Wirksamkeit der Satzung davon im Übrigen unberührt. In einem solchen Fall hat das Studierendenparlament das Recht und die Pflicht, die betroffenen Bestimmungen baldmöglichst durch diejenigen zu ersetzen, die der Intention der ursprünglichen Formulierung am nächsten kommen.
 
 ## Abschnitt 7 Inkrafttreten
 
-### § 37 Inkrafttreten
+### § 36 Inkrafttreten
 
 Diese Satzung tritt am Tag nach ihrer hochschulöffentlichen Bekanntmachung im Verkündungsblatt der Hochschule Emden/Leer in Kraft.
 
