@@ -193,7 +193,7 @@ Die regelmäßige Amtszeit der Mitglieder beträgt ein Jahr. Sie beginnt am 1. M
 
 (1) Der Allgemeine Studierendenausschuss (AStA) ist das ausführende Organ der Studierendenschaft.
 
-(2) Der AStA führt die Beschlüsse des Studierendenparlaments aus und ist diesem verantwortlich und dabei an den Haushaltsplan gebunden.
+(2) Der AStA führt die Beschlüsse des Studierendenparlaments aus. Er ist diesem verantwortlich und dabei an den Haushaltsplan gebunden.
 
 (3) Der AStA bedarf zu seiner Tätigkeit des Vertrauens des Studierendenparlaments und ist ihm Rechenschaft schuldig.
 
