@@ -361,7 +361,7 @@ ein zusätzlicher Sitzungstermin eingefordert werden. Dieser Forderung hat der V
 
 (4) Zur Erfüllung ihrer Aufgaben erhebt die Studierendenschaft von ihren Mitgliedern Beiträge. Diese werden von der Hochschule eingezogen. Näheres regelt die Beitragsordnung.
 
-(5) Weitere Bestimmungen regelt die Finanzordnung.
+(5) Näheres regelt die Finanzordnung.
 
 ### § 31 Haushalts- und Wirtschaftsführung
 
