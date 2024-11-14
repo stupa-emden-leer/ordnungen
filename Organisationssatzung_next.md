@@ -371,9 +371,7 @@ Die regelmäßige Amtszeit der Mitglieder beträgt ein Jahr. Sie beginnt am 1. M
 
 ### § 32 Satzungsänderungen
 
-(1) Satzungsänderung können nur mit Mehrheit von zwei Dritteln der Mitglieder des Studierendenparlaments beschlossen werden.
-
-(2) Eine Satzungsänderung kann auch in einer Urabstimmung entschieden werden.
+Für eine Satzungsänderung ist eine Mehrheit von zwei Dritteln der stimmberechtigten Mitglieder des Studierendenparlaments erforderlich.
 
 ### § 33 Ergänzungsordnungen
 
