@@ -1,8 +1,8 @@
 # Beschwerdeordnung (BO)
 
-Vom 29. Oktober 2024
+Vom 14. November 2024
 
-Aufgrund des § 6 Absatz 7 der Organisationssatzung der Studierendenschaft der Hochschule Emden/Leer (Organisationssatzung – OrgS) hat das Studierendenparlament der Hochschule Emden/Leer am 29. Oktober 2024 diese Ordnung verabschiedet.
+Aufgrund des § 6 Absatz 7 der Organisationssatzung der Studierendenschaft der Hochschule Emden/Leer (Organisationssatzung – OrgS) hat das Studierendenparlament der Hochschule Emden/Leer am 14. November 2024 diese Ordnung verabschiedet.
 
 ## § 1 Einreichung von Beschwerden
 
