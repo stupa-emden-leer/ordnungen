@@ -179,7 +179,7 @@ Die regelmäßige Amtszeit der Mitglieder beträgt ein Jahr. Sie beginnt am 1. M
 
 ### § 14 Sitzungen
 
-(1) Das Studierendenparlament tagt grundsätzlich alle vier Wochen in der Vorlesungszeit. Zusätzliche Sitzungen finden statt auf Antrag
+(1) Das Studierendenparlament tagt grundsätzlich alle vier Wochen in der Vorlesungszeit. Zusätzliche Sitzungen finden statt auf Antrag:
 1. von 10 Prozent der Studierenden,
 2. eines Mitgliedes des Studierendenparlaments,
 3. des AStA oder
@@ -328,7 +328,7 @@ Die regelmäßige Amtszeit der Mitglieder beträgt ein Jahr. Sie beginnt am 1. M
 
 ### § 28 Sitzungen
 
-(1) Der Fachschaftsrat tagt grundsätzlich alle zwei Wochen in der Vorlesungszeit. Zusätzliche Sitzungen finden statt auf Antrag
+(1) Der Fachschaftsrat tagt grundsätzlich alle zwei Wochen in der Vorlesungszeit. Zusätzliche Sitzungen finden statt auf Antrag:
 1. von 10 Prozent der Studierenden des betreffenden Fachbereiches,
 2. des Studierendenparlaments,
 3. des AStA oder
