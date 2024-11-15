@@ -156,12 +156,12 @@ Die regelmäßige Amtszeit der Mitglieder beträgt ein Jahr. Sie beginnt am 1. M
 ### § 12 Aufgaben
 
 (1) Das Studierendenparlament beschließt insbesondere über:
-1. den Haushaltsplan des AStA,
-2. die Entlastung des AStA,
-3. die Einsetzung von Ausschüssen und Arbeitsgruppen,
-4. die Änderung ihrer Ergänzungsordnungen,
-5. Änderungsvorschläge dieser Satzung,
-6. die Wahl des AStA.
+1. den Haushaltsplan,
+2. die Wahl und Abwahl von Mitgliedern des AStA,
+3. die Entlastung des AStA,
+4. die Einsetzung von Ausschüssen und Arbeitsgruppen,
+5. die Änderung dieser Satzung,
+6. die Änderung der Ergänzungsordnungen.
 
 (2) Das Studierendenparlament bestimmt mindestens vier Mitglieder, möglichst aus verschiedenen Fachbereichen, denen die Kassenprüfung des AStA und der Fachschaftsräte obliegt. Bei der Prüfung ist darauf zu achten, dass die jeweiligen Mitglieder des Studierendenparlaments nicht die Kasse des für sie zuständigen Fachschaftsrates prüfen.
 
