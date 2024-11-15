@@ -210,13 +210,15 @@ Die regelmäßige Amtszeit der Mitglieder beträgt ein Jahr. Sie beginnt am 1. M
 
 (2) Zur Herstellung der Handlungsfähigkeit muss der AStA mindestens aus dem Vorstand bestehen. Sollte die Bildung eines Vorstands aus dem AStA heraus nicht möglich sein, werden die vakanten Stellen vorübergehend nach Maßgabe des Studierendenparlaments besetzt.
 
-(3) Die Mitglieder des AStA werden vom Studierendenparlament in freier, gleicher und geheimer Wahl gewählt. Gewählt ist, wer eine einfache Mehrheit der Mitglieder des Studierendenparlaments auf sich vereinigt. Voraussetzung zur Wahl in den Vorstand ist eine angemessene Einarbeitung in Arbeitsweise und Aufgaben des AStA sowie eine Mitgliedschaft von mindestens zwei Monaten in diesem. Näheres regelt die Geschäftsordnung des AStA.
+(3) Die Mitglieder des AStA werden vom Studierendenparlament in freier, gleicher und geheimer Wahl gewählt. Gewählt ist, wer eine einfache Mehrheit der Mitglieder des Studierendenparlaments auf sich vereinigt.
 
-(4) Mitglieder des Studierendenparlaments dürfen nicht Mitglied des AStA sein. Ausgenommen sind Fälle nach § 20 Absatz 2.
+(4) Voraussetzung zur Wahl in den Vorstand ist eine angemessene Einarbeitung in Arbeitsweise und Aufgaben des AStA sowie eine Mitgliedschaft von mindestens zwei Monaten in diesem. Näheres regelt die Geschäftsordnung des AStA.
 
-(5) Mitglieder des Vorstands eines Fachschaftsrates dürfen nicht Mitglied des AStA sein.
+(5) Mitglieder des Studierendenparlaments dürfen nicht Mitglied des AStA sein. Ausgenommen sind Fälle nach § 20 Absatz 2.
 
-(6) Folgende Referate müssen besetzt sein:
+(6) Mitglieder des Vorstands eines Fachschaftsrates dürfen nicht Mitglied des AStA sein.
+
+(7) Folgende Referate müssen besetzt sein:
 1. Hochschulpolitik,
 2. Gleichstellung und Soziales,
 3. Kultur,
@@ -225,7 +227,7 @@ Die regelmäßige Amtszeit der Mitglieder beträgt ein Jahr. Sie beginnt am 1. M
 6. Technik,
 7. Semesterticket.
 
-(7) Weitere Referate können eingesetzt werden.
+(8) Weitere Referate können eingesetzt werden.
 
 ### § 18 Amtszeit
 
@@ -243,7 +245,7 @@ Die regelmäßige Amtszeit der Mitglieder beträgt ein Jahr. Sie beginnt am 1. N
 3. eine 1. Finanzreferentin oder einen 1. Finanzreferenten,
 4. eine 2. Finanzreferentin oder einen 2. Finanzreferenten.
 
-(4) Der AStA ernennt jeweils mindestens eine Person für die in § 17 Absatz 6 genannten Referate.
+(4) Der AStA ernennt jeweils mindestens eine Person für die in § 17 Absatz 7 genannten Referate.
 
 (5) Der AStA hat das Recht, mit Gremien anderer Hochschulen zusammenzuarbeiten.
 
