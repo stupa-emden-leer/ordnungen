@@ -133,19 +133,21 @@ Aufgrund des § 20 Absatz 2 Satz 1 des Niedersächsischen Hochschulgesetzes vom 
 
 (3) Die Mitglieder des Studierendenparlaments sind verpflichtet, dem Studierendenparlament und der Studierendenschaft über ihre Arbeit und hochschulrelevante Vorgänge Bericht zu erstatten.
 
-### § 10 Zusammensetzung
+### § 10 Zusammensetzung und Wahl
 
-(1) Das Studierendenparlament setzt sich aus 13 gewählten Mitgliedern zusammen.
+(1) Die Mitglieder des Studierendenparlaments werden von den Mitgliedern der Studierendenschaft in freier, gleicher und geheimer Wahl gewählt.
 
-(2) Hinzu kommen je ein beratendes Mitglied aus den Fachschaftsräten und dem AStA.
+(2) Das Studierendenparlament setzt sich aus 13 gewählten Mitgliedern zusammen.
 
-(3) Beratende Mitglieder der Fachschaftsräte dürfen nicht Mitglied des AStA sein.
+(3) Hinzu kommen je ein beratendes Mitglied aus den Fachschaftsräten und dem AStA.
 
-(4) Beratende Mitglieder haben kein Stimmrecht.
+(4) Beratende Mitglieder der Fachschaftsräte dürfen nicht Mitglied des AStA sein.
 
-(5) Mitglieder des AStA dürfen nur beratendes Mitglied des Studierendenparlaments sein.
+(5) Beratende Mitglieder haben kein Stimmrecht.
 
-(6) Mitglieder des Vorstands eines Fachschaftsrates dürfen nicht Mitglied des Studierendenparlaments sein. Des Weiteren dürfen Mitglieder des Vorstands des Studierendenparlaments nicht Mitglied eines Fachschaftsrates sein.
+(6) Mitglieder des AStA dürfen nur beratendes Mitglied des Studierendenparlaments sein.
+
+(7) Mitglieder des Vorstands eines Fachschaftsrates dürfen nicht Mitglied des Studierendenparlaments sein. Des Weiteren dürfen Mitglieder des Vorstands des Studierendenparlaments nicht Mitglied eines Fachschaftsrates sein.
 
 ### § 11 Amtszeit
 
