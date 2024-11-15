@@ -278,8 +278,6 @@ Der AStA tagt grundsätzlich alle zwei Wochen in der Vorlesungszeit.
 
 (4) Die Fachschaft verwaltet ihre Angelegenheiten im Rahmen dieser Satzung und ihrer Ergänzungsordnungen selbstständig.
 
-(5) Der Fachschaftsrat ist dem Studierendenparlament Rechenschaft über seine Finanzen schuldig.
-
 ### § 24 Zusammensetzung und Wahl
 
 (1) Der Fachschaftsrat wird aus Mitgliedern der jeweiligen Fachschaft in freier, gleicher und geheimer Wahl nach den Grundsätzen der personalisierten Verhältniswahl gewählt.
@@ -348,7 +346,7 @@ Die regelmäßige Amtszeit der Mitglieder beträgt ein Jahr. Sie beginnt am 1. M
 
 (2) Für ihre Verbindlichkeiten haftet die Studierendenschaft nur mit diesem Vermögen.
 
-(3) Jedes Organ der Studierendenschaft ist dem Studierendenparlament Rechenschaft über seine Finanzmittel schuldig.
+(3) Jedes Organ der Studierendenschaft ist dem Studierendenparlament Rechenschaft über seine Finanzen schuldig.
 
 (4) Zur Erfüllung ihrer Aufgaben erhebt die Studierendenschaft von ihren Mitgliedern Beiträge. Diese werden von der Hochschule eingezogen. Näheres regelt die Beitragsordnung.
 
