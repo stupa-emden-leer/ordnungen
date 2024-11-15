@@ -229,7 +229,7 @@ Die regelmäßige Amtszeit der Mitglieder beträgt ein Jahr. Sie beginnt am 1. M
 
 ### § 18 Amtszeit
 
-Die regelmäßige Amtszeit der Mitglieder beträgt ein Jahr. Sie beginnt am 1. November. Die Konstituierung hat vor dem 1. November erfolgt zu sein.
+Die regelmäßige Amtszeit der Mitglieder beträgt ein Jahr. Sie beginnt am 1. November. Die Konstituierung muss vor dem 1. November erfolgt sein.
 
 ### § 19 Aufgaben
 
