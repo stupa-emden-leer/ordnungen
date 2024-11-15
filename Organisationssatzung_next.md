@@ -210,7 +210,7 @@ Die regelmäßige Amtszeit der Mitglieder beträgt ein Jahr. Sie beginnt am 1. M
 
 (2) Zur Herstellung der Handlungsfähigkeit muss der AStA mindestens aus dem Vorstand bestehen. Sollte die Bildung eines Vorstands aus dem AStA heraus nicht möglich sein, werden die vakanten Stellen vorübergehend nach Maßgabe des Studierendenparlaments besetzt.
 
-(3) Die Mitglieder des AStA werden vom Studierendenparlament in freier, gleicher und geheimer Wahl gewählt. Gewählt ist, wer eine einfache Mehrheit der Mitglieder des Studierendenparlaments auf sich vereinigt.
+(3) Die Mitglieder des AStA werden vom Studierendenparlament in freier, gleicher und geheimer Wahl gewählt. Gewählt ist, wer eine einfache Mehrheit der anwesenden Mitglieder des Studierendenparlaments auf sich vereinigt.
 
 (4) Voraussetzung zur Wahl in den Vorstand ist eine angemessene Einarbeitung in Arbeitsweise und Aufgaben des AStA sowie eine Mitgliedschaft von mindestens zwei Monaten in diesem. Näheres regelt die Geschäftsordnung des AStA.
 
