@@ -10,7 +10,7 @@ Aufgrund des § 20 Absatz 2 Satz 3 des Niedersächsischen Hochschulgesetzes vom 
 
 (2) Die Wahlleitung bestimmt im Einvernehmen mit dem Wahlausschuss, ob die Wahl als Urnenwahl mit der Möglichkeit der Briefwahl oder als internetbasierte Online-Wahl (elektronische Wahl) mit der Möglichkeit der Briefwahl durchgeführt wird. Die elektronische Wahl ist nur dann zulässig, wenn bei ihrer Durchführung die geltenden Wahlrechtsgrundsätze, insbesondere die Grundsätze der geheimen Wahl und der Öffentlichkeit der Wahl gewahrt sind.
 
-(3) Die Wahlen sollen als verbundene Wahlen gleichzeitig und zusammen mit dem allgemeinen Hochschulwahlen vorbereitet und durchgeführt werden. Die Wahlen finden nach dieser Wahlordnung der Hochschule Emden/Leer (WO HS E/L) in der 48. Kalenderwoche statt. Wird die Wahl als elektronische Wahl durchgeführt, ist Beginn und Ende der Wahlfrist (erster und letzter Zeitpunkt einer möglichen Stimmabgabe) von der Wahlleitung im Einvernehmen mit dem Wahlausschuss festzulegen. Die Wahlzeit soll mindestens fünf und höchstens zehn Arbeitstage betragen.
+(3) Die Wahlen sollen als verbundene Wahlen gleichzeitig und zusammen mit dem allgemeinen Hochschulwahlen gemäß der Wahlordnung der Hochschule Emden/Leer vorbereitet und durchgeführt werden. Die Wahlen finden gemäß der Wahlordnung der Hochschule Emden/Leer in der 48. Kalenderwoche statt. Wird die Wahl als elektronische Wahl durchgeführt, ist Beginn und Ende der Wahlfrist (erster und letzter Zeitpunkt einer möglichen Stimmabgabe) von der Wahlleitung im Einvernehmen mit dem Wahlausschuss festzulegen. Die Wahlzeit soll mindestens fünf und höchstens zehn Arbeitstage betragen.
 
 ## § 2 Studentischer Wahlausschuss
 
@@ -29,7 +29,7 @@ kann die Wahlleitung fehlende Mitglieder und Stellvertretungen benennen.
 
 (7) Mitglieder der studentischen Wahlausschusses können im Falle ihrer Kandidatur zu einer von ihnen zu beaufsichtigenden Wahl von der Hochschulleitung abberufen werden, es sei denn, dass auch ihre Stellvertreterin oder Stellvertreter kandidiert und auch kein anderes Mitglied der Studierendenschaft das Amt übernehmen kann. Entsprechendes gilt für Mitglieder, die als Vertrauensleute von Listen benannt sind.
 
-(8) Wird kein studentischer Wahlausschuss gebildet, überwachen die stimmberechtigten studentischen Mitglieder des Wahlausschusses nach § 2 dieser Wahlordnung der Hochschule Emden/Leer (WO HS E/L) die Wahlen der studentischen Organe nach § 2 dieser Wahlordnung.
+(8) Wird kein studentischer Wahlausschuss gebildet, überwachen die stimmberechtigten studentischen Mitglieder des Wahlausschusses nach § 2 der Wahlordnung der Hochschule Emden/Leer die Wahlen der studentischen Organe nach § 2 dieser Wahlordnung.
 
 ## § 3 Wahlleitung
 
@@ -129,7 +129,7 @@ Die bisher eingereichten zugelassenen Wahlvorschläge für die nach Satz 1 Nr. 1
 (1) Die Wahlleitung veröffentlicht in der Wahlbekanntmachung
 1. den Wahlzeitraum, die Wahlräume und die Tageszeiten der Stimmabgabe.
 2. die Regelungen für die Stimmabgabe und die Briefwahl mit Angabe der Frist für die Briefwahlanträge,
-3. den Text der §§ 12 – 14 der Wahlordnung,
+3. den Text der §§ 12 – 14 dieser Ordnung,
 4. die zugelassenen Wahlvorschläge,
 5. die Feststellungen der Wahlleitung nach § 10 Abs. 1 und 2.
 
