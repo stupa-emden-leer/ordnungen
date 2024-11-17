@@ -118,11 +118,11 @@ Soweit die Nichtzulassungsgründe sich nur auf Einzelpersonen eines Listenwahlvo
 
 (3) Der Wahlausschuss legt auf Vorschlag der Wahlleitung die Wahlräume für die einzelnen Wahlbereiche und die Tageszeitung fest, zu denen während des Wahlzeitraums die Stimmabgabe möglich ist.
 
-(4) Die Wahlleitung hat die Wahlausschreibung ganz oder teilweise zu wiederholen, insbesondere erneut zur Einreichung von Wahlvorschlägen aufzufordern, wenn
+(4) Die Wahlleitung hat die Wahlausschreibung einmalig ganz oder teilweise zu wiederholen, insbesondere erneut zur Einreichung von Wahlvorschlägen aufzufordern, wenn
 1. die Zahl der Personen aller Wahlvorschläge die Zahl der Sitze in dem zu wählenden studentischen Organ unterschreitet,
-2. sonst eine Nachwahl nach § 17 Abs.1 notwendig würde.
+2. sonst eine Nachwahl nach § 17 Absatz 1 notwendig würde.
 
-Die bisher eingereichten zugelassenen Wahlvorschläge für die nach Satz 1 Nr. 1 erneut zur Einreichung von Wahlvorschlägen aufgeforderten Wahlbereiche brauchen nicht nochmals eingereicht werden, können aber innerhalb der neuen Wahlvorschlagsfrist geändert werden. Im Falle des Satzes Nr. 1 ist nur einmal durch einen Nachtrag zur Wahlausschreibung erneut zur Einreichung von Wahlvorschlägen aufzufordern. Mit der Aufforderung zur Einreichung von Wahlvorschlägen ist der Hinweis zu verbinden, dass die Wahl nicht durchgeführt wird und die aufgestellten Mitglieder ohne Wahl als gewählt gelten, wenn die Zahl der Bewerberinnen und Bewerbern kleiner als die Zahl der zu wählenden Mitglieder ist.
+Die bisher eingereichten zugelassenen Wahlvorschläge für die nach Satz 1 Nummer 1 erneut zur Einreichung von Wahlvorschlägen aufgeforderten Wahlbereiche brauchen nicht nochmals eingereicht werden, können aber innerhalb der neuen Wahlvorschlagsfrist geändert werden. Mit der Aufforderung zur Einreichung von Wahlvorschlägen ist der Hinweis zu verbinden, dass die Wahl nicht durchgeführt wird und die aufgestellten Mitglieder ohne Wahl als gewählt gelten, wenn die Zahl der Bewerberinnen und Bewerbern kleiner als die Zahl der zu wählenden Mitglieder ist.
 
 ## § 11 Wahlbekanntmachung
 
