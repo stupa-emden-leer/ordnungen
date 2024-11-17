@@ -133,7 +133,7 @@ Die bisher eingereichten zugelassenen Wahlvorschläge für die nach Satz 1 Numme
 4. die zugelassenen Wahlvorschläge,
 5. die Feststellungen der Wahlleitung nach § 10 Abs. 1 und 2.
 
-(2) Die Wahl wird vom Beginn der 47. Kalenderwoche bis zum Ende des Wahlzeitraums gem. § 19 öffentlich bekannt gemacht.
+(2) Die Wahl wird vom Beginn der 47. Kalenderwoche bis zum Ende des Wahlzeitraums gemäß § 19 öffentlich bekannt gemacht.
 
 ## § 12 Stimmzettel
 
@@ -163,7 +163,7 @@ Die bisher eingereichten zugelassenen Wahlvorschläge für die nach Satz 1 Numme
 
 ## § 14 Briefwahl
 
-(1) Wird nach § 1 Abs. 2 eine Urnenwahl oder elektronische Wahl durchgeführt, können Wahlberechtigte ihr Wahlrecht durch Briefwahl ausüben, wenn sie das bei der Wahlleitung bis zum Mittwoch der 47. Kalenderwoche beantragen. Briefwahlunterlagen werden Wahlberechtigten ausgehändigt oder zugesandt, nachdem ein Briefwahlvermerk in das Wählerverzeichnis aufgenommen worden ist. Briefwahlunterlagen sind
+(1) Wird nach § 1 Absatz 2 eine Urnenwahl oder elektronische Wahl durchgeführt, können Wahlberechtigte ihr Wahlrecht durch Briefwahl ausüben, wenn sie das bei der Wahlleitung bis zum Mittwoch der 47. Kalenderwoche beantragen. Briefwahlunterlagen werden Wahlberechtigten ausgehändigt oder zugesandt, nachdem ein Briefwahlvermerk in das Wählerverzeichnis aufgenommen worden ist. Briefwahlunterlagen sind
 - die Stimmzettel mit einem Stimmzettelumschlag,
 - der Wahlbrief und das Anschreiben zur Briefwahl und die Briefwahlerläuterungen.
 
@@ -237,13 +237,13 @@ Die betreffenden Stimmzettel werden zu den Wahlunterlagen genommen.
 
 (2) Bei Listenwahl werden die zustehenden Sitze den einzelnen Wahlvorschlägen aller Wahlbereiche nach dem Höchstzahlverfahren nach d´Hondt zugeteilt. Die danach einem Listenwahlvorschlag zustehenden Sitze erhalten die Bewerberinnen oder Bewerber dieses Wahlvorschlags, die die höchste Stimmenzahl erreicht haben, nach der Reihenfolge ihrer Stimmenzahl. Sind auf einen Wahlvorschlag mehr Sitze entfallen als Bewerberinnen oder Bewerber benannt sind, so werden die freien Sitze unter Fortführung der Berechnung nach Satz 1 auf die übrigen Wahlvorschläge verteilt. Bewerberinnen und Bewerber eines Listenwahlvorschlags, die keinen Sitz erhalten, sind nach der Reihenfolge ihrer Stimmenzahl Ersatzleute. Ist eine Liste ausgeschöpft, sind Ersatzleute Bewerberinnen oder Bewerber des Wahlvorschlags, auf den nach Satz 1 ein weiterer Sitz entfallen würde. Bei gleicher Stimmenzahl und wenn auf mehrere Bewerberinnen und Bewerber keine Stimme entfallen ist, entscheidet die Reihenfolge der Bewerberinnen und Bewerber innerhalb eines Listenwahlvorschlags.
 
-(3) Listenverbindungen sind als Listenwahlvorschlag zu behandeln. Die einer Listenverbindung zustehenden Sitze werden im Falle des § 8 Abs. 6 den einzelnen beteiligten Wahlvorschlägen nach Absatz 2 Satz 1 zugeteilt, bei gleicher Höchstzahl hat der Wahlvorschlag den Vorrang, der sonst keinen Sitz erhielte; innerhalb der beteiligten Listenwahlvorschläge gilt Absatz 2 Satz 2 bis 6. Bei gleicher Stimmenzahl für mehrere Bewerberinnen und Bewerber einer Listenverbindung nach § 8 Abs. 6 entscheidet das Los.
+(3) Listenverbindungen sind als Listenwahlvorschlag zu behandeln. Die einer Listenverbindung zustehenden Sitze werden im Falle des § 8 Absatz 6 den einzelnen beteiligten Wahlvorschlägen nach Absatz 2 Satz 1 zugeteilt, bei gleicher Höchstzahl hat der Wahlvorschlag den Vorrang, der sonst keinen Sitz erhielte; innerhalb der beteiligten Listenwahlvorschläge gilt Absatz 2 Satz 2 bis 6. Bei gleicher Stimmenzahl für mehrere Bewerberinnen und Bewerber einer Listenverbindung nach § 8 Absatz 6 entscheidet das Los.
 
 (4) Bei Mehrheitswahl werden die zustehenden Sitze auf die Bewerberinnen und Bewerber aller Wahlbereiche nach der Reihenfolge der auf sie entfallenen Stimmen, mit der höchsten Stimmenzahl bestimmt. Absatz 2 Satz 6 gilt entsprechend.
 
 (5) Wahlvorschläge, die keine Stimme erhalten haben, sind bei der Sitzverteilung und beim Nachrücken nicht zu berücksichtigen. Wenn in den Fällen der Absätze 2 bis 4 gleiche Höchstzahlen oder Stimmenzahlen vorliegen, entscheidet, wenn nichts anderes bestimmt ist, das von der Wahlleitung zu ziehende Los.
 
-(6) In die Feststellung des Wahlergebnisses werden auch die Hochschulmitglieder aufgenommen, die als gewählt gelten, weil nach § 10 Abs. 1 Ziffer 1 dieser Ordnung keine Wahl stattgefunden hat.
+(6) In die Feststellung des Wahlergebnisses werden auch die Hochschulmitglieder aufgenommen, die als gewählt gelten, weil nach § 10 Absatz 1 Nummer 1 dieser Ordnung keine Wahl stattgefunden hat.
 
 (7) Die Wahlen sind für das gesamte studentische Organ zustande gekommen, wenn mindestens drei der stimmberechtigten Mitglieder gewählt worden sind.
 
@@ -290,7 +290,7 @@ Wenn eine Nachwahl notwendig ist, stellt dies der Wahlausschuss fest. Zugleich b
 
 (2) Der Wahlausschuss kann von Amts wegen jederzeit eine Wahlprüfung einleiten.
 
-(3) Gewählte oder Ersatzkandidatinnen oder -kandidaten, die von einer Entscheidung des Wahlausschusses betroffen sein können, sind am Verfahren zu beteiligen. Hiervon kann abgesehen werden, wenn die Feststellung des Wahlausschusses bestätigt werden soll. Führt der Wahleinspruch zu einer Änderung des Wahlergebnisses, stellt der Wahlausschuss das Wahlergebnis entsprechend der berichtigten Auszählung neu fest. Kann ein richtiges Wahlergebnis nicht mit Sicherheit ermittelt werden, ist entsprechend § 17 Abs. 1 Satz 2 und 3 zu verfahren.
+(3) Gewählte oder Ersatzkandidatinnen oder -kandidaten, die von einer Entscheidung des Wahlausschusses betroffen sein können, sind am Verfahren zu beteiligen. Hiervon kann abgesehen werden, wenn die Feststellung des Wahlausschusses bestätigt werden soll. Führt der Wahleinspruch zu einer Änderung des Wahlergebnisses, stellt der Wahlausschuss das Wahlergebnis entsprechend der berichtigten Auszählung neu fest. Kann ein richtiges Wahlergebnis nicht mit Sicherheit ermittelt werden, ist entsprechend § 17 Absatz 1 Satz 2 und 3 zu verfahren.
 
 (4) Die Wahlleitung gibt die Entscheidung dem Hochschulmitglied, das den Einspruch erhoben hat, sowie allen, die als Gewählte oder Ersatzkandidatinnen oder -kandidaten von der Entscheidung betroffen sind, bekannt.
 
