@@ -1,8 +1,6 @@
 # Wahlordnung der Studierendenschaft der Hochschule Emden/Leer
 
-**In der Fassung vom 10.07.2007 (VKBl. Nr. n66/2007 vom 08.08.2007) einschl. der am 17.06.2008 vom Studierendenparlament der Fachhochschule Oldenburg/Ostfriesland/Wilhelmshaven beschlossenen 1. Änderung (VKBl 80/2008 vom 09.07.2008)**
-
-Gemäß § 20 Abs. 2 Niedersächsischen Hochschulgesetzes (NHG) in der Fassung vom 15.12.2015 hat das Studierendenparlament folgende Wahlordnung beschlossen:
+Aufgrund des § 20 Absatz 2 Satz 3 des Niedersächsischen Hochschulgesetzes vom 26. Februar 2007 (Nds. GVBl. S. 69), zuletzt geändert durch Artikel 12 des Gesetzes vom 14. Dezember 2023 (Nds. GVBl. S. 320) hat das Studierendenparlament der Hochschule Emden/Leer am Tag. Monat Jahr die folgende Wahlordnung der Studierendenschaft der Hochschule Emden/Leer beschlossen, veröffentlicht im Verkündungsblatt der Hochschule Emden/Leer Nummer XYZ am Tag. Monat Jahr:
 
 ## § 1 Geltungsbereich
 
