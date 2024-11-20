@@ -102,7 +102,7 @@ Die Aufgaben der Studierendenschaft umfassen insbesondere:
 1. die Änderung dieser Satzung,
 2. die Änderung der Ergänzungsordnungen.
 
-(3) Einer jeden Urabstimmung geht eine Vollversammlung voraus, auf der über das Anliegen der Urabstimmung informiert wird.
+(3) Der Urabstimmung geht eine Vollversammlung voraus, auf der über das Anliegen der Urabstimmung informiert wird.
 
 (4) Eine Urabstimmung ist durchzuführen:
 1. auf schriftlichen Antrag von mindestens 10 Prozent der Studierenden,
