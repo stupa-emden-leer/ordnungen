@@ -202,7 +202,7 @@ Die regelmäßige Amtszeit der Mitglieder beträgt ein Jahr. Sie beginnt am 1. M
 
 (2) Der AStA führt die Beschlüsse des Studierendenparlaments aus. Er ist diesem verantwortlich und dabei an den Haushaltsplan gebunden.
 
-(3) Der AStA bedarf zu seiner Tätigkeit das Vertrauen des Studierendenparlaments und ist diesem Rechenschaft schuldig.
+(3) Der AStA benötigt zu seiner Tätigkeit das Vertrauen des Studierendenparlaments und ist diesem Rechenschaft schuldig.
 
 ### § 17 Zusammensetzung und Wahl
 
