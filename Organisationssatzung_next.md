@@ -312,7 +312,7 @@ Die regelmäßige Amtszeit der Mitglieder beträgt ein Jahr. Sie beginnt am 1. M
 
 (5) Die Fachschaft hat das Recht, mit Gremien anderer Hochschulen zusammenzuarbeiten.
 
-(6) Weitere Aufgaben gibt sich der Fachschaftsrat durch seine Geschäftsordnung.
+(6) Näheres regelt die Geschäftsordnung des Fachschaftsrates.
 
 ### § 27 Ausscheiden und Nachrücken von Mitgliedern
 
