@@ -338,7 +338,7 @@ Die regelmäßige Amtszeit der Mitglieder beträgt ein Jahr. Sie beginnt am 1. M
 
 ### § 29 Geschäftsordnung
 
-(1) Der Fachschaftsrat gibt sich eine Geschäftsordnung mit einer Mehrheit von zwei Dritteln der anwesenden Mitglieder. Es bedarf zum Inkrafttreten der Geschäftsordnung einer Mehrheit von zwei Dritteln der anwesenden Mitglieder des Studierendenparlaments.
+(1) Der Fachschaftsrat gibt sich eine Geschäftsordnung mit einer Mehrheit von zwei Dritteln der anwesenden Mitglieder. Diese muss vom Studierendenparlament mit einer Mehrheit von zwei Dritteln der anwesenden Mitglieder beschlossen werden.
 
 (2) Die Geschäftsordnung des Fachschaftsrates trifft insbesondere Regelungen über Fristen und Form der Einladung, über die Aufstellung der Tagesordnung, über die Aufgaben des Vorsitzes, über das Verfahren bei Sitzungen, über die Beschlussfähigkeit sowie über das Protokoll.
 
