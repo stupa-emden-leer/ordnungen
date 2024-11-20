@@ -169,7 +169,7 @@ Die regelmäßige Amtszeit der Mitglieder beträgt ein Jahr. Sie beginnt am 1. M
 ### § 13 Ausscheiden und Nachrücken von Mitgliedern
 
 (1) Einzelne Mitglieder scheiden aus:
-1. wenn ihre Amtszeit endet,
+1. durch Ende der Amtszeit,
 2. durch schriftlichen Rücktritt,
 3. durch Exmatrikulation oder
 4. wenn an mindestens drei Sitzungen pro Amtszeit unentschuldigt gefehlt wurde, kann das Studierendenparlament mit einer Mehrheit von zwei Dritteln der anwesenden Mitglieder über das Ende der Mitgliedschaft abstimmen.
@@ -253,7 +253,7 @@ Die regelmäßige Amtszeit der Mitglieder beträgt ein Jahr. Sie beginnt am 1. N
 ### § 20 Ausscheiden und Nachrücken von Mitgliedern
 
 (1) Einzelne Mitglieder scheiden aus:
-1. wenn ihre Amtszeit endet,
+1. durch Ende der Amtszeit,
 2. durch schriftlichen Rücktritt,
 3. durch Exmatrikulation,
 4. durch Abwahl durch das Studierendenparlament mit einer Mehrheit von zwei Dritteln der anwesenden Mitglieder oder
@@ -318,7 +318,7 @@ Die regelmäßige Amtszeit der Mitglieder beträgt ein Jahr. Sie beginnt am 1. M
 ### § 27 Ausscheiden und Nachrücken von Mitgliedern
 
 (1) Einzelne Mitglieder scheiden aus:
-1. wenn ihre Amtszeit endet,
+1. durch Ende der Amtszeit,
 2. durch schriftlichen Rücktritt,
 3. durch Exmatrikulation oder
 4. wenn an mindestens drei Sitzungen pro Amtszeit unentschuldigt gefehlt wurde, kann das Studierendenparlament mit einer Mehrheit von zwei Dritteln der anwesenden Mitglieder über das Ende der Mitgliedschaft abstimmen. Für die Abstimmung muss mit einer Mehrheit von zwei Dritteln der anwesenden Mitglieder des Fachschaftsrates ein Antrag an das Studierendenparlament gestellt werden.
