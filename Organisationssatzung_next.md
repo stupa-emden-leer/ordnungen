@@ -41,7 +41,7 @@ Die Aufgaben der Studierendenschaft umfassen insbesondere:
 
 (3) Die Organe tagen grundsätzlich hochschulöffentlich. Näheres regeln diese Satzung und die Geschäftsordnungen der Organe.
 
-(4) Zu jeder Sitzung muss ein Protokoll angefertigt und an alle Organe der Studierendenschaft verschickt werden.
+(4) Zu jeder Sitzung muss ein Protokoll angefertigt und an die Organe der Studierendenschaft verschickt werden.
 
 (5) Das Sitzungsprotokoll ist für die Dauer von zehn Jahren in der Hochschule Emden/Leer aufzubewahren.
 
@@ -274,7 +274,7 @@ Der AStA tagt grundsätzlich alle zwei Wochen in der Vorlesungszeit.
 
 ### § 23 Begriffsbestimmung
 
-(1) Alle Studierenden des jeweiligen Fachbereichs bilden eine Fachschaft.
+(1) Die Studierenden des jeweiligen Fachbereichs bilden eine Fachschaft.
 
 (2) Der Fachschaftsrat (FSR) ist das beschlussfassende Organ der jeweiligen Fachschaft.
 
