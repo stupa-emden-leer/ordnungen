@@ -64,7 +64,7 @@ Die Aufgaben der Studierendenschaft umfassen insbesondere:
 
 ### § 6 Beschwerderecht
 
-(1) Jedes Mitglied der Studierendenschaft hat das Recht, Beschwerde gegen rechts- oder zweckwidrige Akte der in § 3 Absatz 1 genannten Organe einzulegen.
+(1) Jedes Mitglied der Studierendenschaft hat das Recht, Beschwerde gegen rechts- oder zweckwidrige Akte der Organe einzulegen.
 
 (2) Beschwerde ist beim Studierendenparlament, beim AStA oder bei den Fachschaftsräten einzulegen.
 
