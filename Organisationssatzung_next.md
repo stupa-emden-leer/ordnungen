@@ -52,7 +52,7 @@ Die Aufgaben der Studierendenschaft umfassen insbesondere:
 
 (4) Jedes Mitglied der Studierendenschaft ist verpflichtet, einen finanziellen Beitrag für die Studierendenschaft zu leisten.
 
-(5) Mit der Immatrikulation an der Hochschule Emden/Leer unterliegt jede Studentin und jeder Student den Bestimmungen dieser Satzung.
+(5) Jedes Mitglied der Studierendenschaft unterliegt den Bestimmungen dieser Satzung.
 
 (6) Die Mitglieder der Studierendenschaft haben das Recht, sich zur Wahrnehmung ihrer Interessen in den Räumen der Hochschule Emden/Leer zu versammeln.
 
