@@ -28,7 +28,6 @@ Die Aufgaben der Studierendenschaft umfassen insbesondere:
 5. die Wahrnehmung der kulturellen und sportlichen Interessen,
 6. die Pflege der regionalen, überregionalen und internationalen Beziehungen zu anderen Studierendenschaften.
 
-(2) Die Organe der Studierendenschaft unterrichten die Studierenden regelmäßig in einem ausreichenden Maße von ihrer Arbeit.
 
 ### § 3 Organe
 
@@ -44,6 +43,8 @@ Die Aufgaben der Studierendenschaft umfassen insbesondere:
 (4) Zu jeder Sitzung muss ein Protokoll angefertigt und an die Organe der Studierendenschaft verschickt werden.
 
 (5) Das Sitzungsprotokoll ist für die Dauer von zehn Jahren in der Hochschule Emden/Leer aufzubewahren.
+
+(6) Die Organe der Studierendenschaft unterrichten die Studierenden regelmäßig in einem ausreichenden Maße von ihrer Arbeit.
 
 ### § 4 Rechte und Pflichten der Mitglieder
 
