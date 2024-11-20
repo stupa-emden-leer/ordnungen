@@ -83,7 +83,7 @@ Die Aufgaben der Studierendenschaft umfassen insbesondere:
 (1) Die Vollversammlung besteht aus allen Mitgliedern der Studierendenschaft.
 
 (2) Eine Vollversammlung findet statt:
-1. auf schriftlichen Antrag von 10 Prozent der Studierenden,
+1. auf schriftlichen Antrag von mindestens 10 Prozent der Studierenden,
 2. auf Beschluss des Studierendenparlaments,
 3. auf Beschluss des AStA oder
 4. auf gemeinsamen Beschluss aller Fachschaftsräte.
@@ -105,7 +105,7 @@ Die Aufgaben der Studierendenschaft umfassen insbesondere:
 (3) Einer jeden Urabstimmung geht eine Vollversammlung voraus, auf der über das Anliegen der Urabstimmung informiert wird.
 
 (4) Eine Urabstimmung ist durchzuführen:
-1. auf schriftlichen Antrag von 10 Prozent der Studierenden,
+1. auf schriftlichen Antrag von mindestens 10 Prozent der Studierenden,
 2. auf Beschluss des Studierendenparlaments,
 3. auf Beschluss des AStA oder
 4. auf gemeinsamen Beschluss aller Fachschaftsräte.
@@ -181,7 +181,7 @@ Die regelmäßige Amtszeit der Mitglieder beträgt ein Jahr. Sie beginnt am 1. M
 ### § 14 Sitzungen
 
 (1) Das Studierendenparlament tagt grundsätzlich alle vier Wochen in der Vorlesungszeit. Eine zusätzliche Sitzung findet statt auf Antrag:
-1. von 10 Prozent der Studierenden,
+1. von mindestens 10 Prozent der Studierenden,
 2. eines Mitgliedes des Studierendenparlaments,
 3. des AStA oder
 4. eines Fachschaftsrates.
@@ -329,7 +329,7 @@ Die regelmäßige Amtszeit der Mitglieder beträgt ein Jahr. Sie beginnt am 1. M
 ### § 28 Sitzungen
 
 (1) Der Fachschaftsrat tagt grundsätzlich alle zwei Wochen in der Vorlesungszeit. Eine zusätzliche Sitzung findet statt auf Antrag:
-1. von 10 Prozent der Studierenden des betreffenden Fachbereiches,
+1. von mindestens 10 Prozent der Studierenden des betreffenden Fachbereiches,
 2. des Studierendenparlaments,
 3. des AStA oder
 4. eines Mitgliedes des Fachschaftsrates.
