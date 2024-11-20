@@ -44,7 +44,7 @@ Die Aufgaben der Studierendenschaft umfassen insbesondere:
 
 (5) Das Sitzungsprotokoll ist für die Dauer von zehn Jahren in der Hochschule Emden/Leer aufzubewahren.
 
-(6) Die Organe unterrichten die Studierenden regelmäßig in einem ausreichenden Maße von ihrer Arbeit.
+(6) Die Organe unterrichten die Mitglieder der Studierendenschaft regelmäßig in einem ausreichenden Maße von ihrer Arbeit.
 
 ### § 4 Rechte und Pflichten der Mitglieder
 
