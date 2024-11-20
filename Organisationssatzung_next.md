@@ -156,7 +156,7 @@ Die regelmäßige Amtszeit der Mitglieder beträgt ein Jahr. Sie beginnt am 1. M
 
 ### § 12 Aufgaben
 
-(1) Das Studierendenparlament beschließt insbesondere über:
+(1) Die Aufgaben des Studierendenparlaments umfassen insbesondere:
 1. den Haushaltsplan,
 2. die Wahl und Abwahl von Mitgliedern des AStA,
 3. die Entlastung des AStA,
