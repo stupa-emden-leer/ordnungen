@@ -18,9 +18,9 @@ Aufgrund des § 20 Absatz 2 Satz 1 des Niedersächsischen Hochschulgesetzes vom 
 
 (5) Die Studierendenschaft ordnet ihre Angelegenheiten mit dieser Satzung.
 
-### § 2 Selbstverwaltung
+### § 2 Aufgaben
 
-(1) Die Selbstverwaltung der Studierendenschaft umfasst insbesondere:
+Die Aufgaben der Studierendenschaft umfassen insbesondere:
 1. die Vertretung der Studierendenschaft,
 2. die Wahrnehmung der hochschulpolitischen, sozialen, fachlichen und wirtschaftlichen Belange nach innen und außen,
 3. die Wahrnehmung der Interessen von Menschen mit Behinderungen,
