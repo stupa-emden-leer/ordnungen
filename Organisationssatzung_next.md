@@ -220,13 +220,13 @@ Die regelmäßige Amtszeit der Mitglieder beträgt ein Jahr. Sie beginnt am 1. M
 (6) Mitglieder des Vorstands eines Fachschaftsrates dürfen nicht Mitglied des AStA sein.
 
 (7) Folgende Referate müssen besetzt sein:
-1. Hochschulpolitik,
-2. Gleichstellung und Soziales,
+1. Gleichstellung und Soziales,
+2. Hochschulpolitik,
 3. Kultur,
-4. Sport,
-5. Öffentlichkeitsarbeit,
-6. Technik,
-7. Semesterticket.
+4. Öffentlichkeitsarbeit,
+5. Semesterticket,
+6. Sport,
+7. Technik.
 
 (8) Weitere Referate können eingesetzt werden.
 
