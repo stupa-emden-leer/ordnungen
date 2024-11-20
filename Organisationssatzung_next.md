@@ -137,16 +137,14 @@ Die Aufgaben der Studierendenschaft umfassen insbesondere:
 ### § 10 Zusammensetzung und Wahl
 
 (1) Das Studierendenparlament setzt sich zusammen aus:
-1. 13 gewählten Mitgliedern,
+1. 13 gewählten Mitgliedern, die von den Mitgliedern der Studierendenschaft in freier, gleicher und geheimer Wahl gewählt werden,
 2. je ein beratendes Mitglied aus den Fachschaftsräten und dem AStA. Beratende Mitglieder haben kein Stimmrecht.
 
-(2) Die Mitglieder des Studierendenparlaments werden von den Mitgliedern der Studierendenschaft in freier, gleicher und geheimer Wahl gewählt.
+(2) Beratende Mitglieder der Fachschaftsräte dürfen nicht Mitglied des AStA sein.
 
-(3) Beratende Mitglieder der Fachschaftsräte dürfen nicht Mitglied des AStA sein.
+(3) Mitglieder des AStA dürfen nur beratendes Mitglied des Studierendenparlaments sein.
 
-(4) Mitglieder des AStA dürfen nur beratendes Mitglied des Studierendenparlaments sein.
-
-(5) Mitglieder des Vorstands eines Fachschaftsrates dürfen nicht Mitglied des Studierendenparlaments sein. Des Weiteren dürfen Mitglieder des Vorstands des Studierendenparlaments nicht Mitglied eines Fachschaftsrates sein.
+(4) Mitglieder des Vorstands eines Fachschaftsrates dürfen nicht Mitglied des Studierendenparlaments sein. Des Weiteren dürfen Mitglieder des Vorstands des Studierendenparlaments nicht Mitglied eines Fachschaftsrates sein.
 
 ### § 11 Amtszeit
 
