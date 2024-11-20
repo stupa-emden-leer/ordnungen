@@ -12,11 +12,7 @@ Aufgrund des § 20 Absatz 2 Satz 1 des Niedersächsischen Hochschulgesetzes vom 
 
 (2) Mitglied der Studierendenschaft ist, wer zum Studium an der Hochschule Emden/Leer immatrikuliert ist.
 
-(3) Mit der Immatrikulation an der Hochschule Emden/Leer unterliegt jede Studentin und jeder Student den Bestimmungen dieser Satzung.
-
-(4) Die Mitglieder der Studierendenschaft haben das Recht, sich zur Wahrnehmung ihrer Interessen in den Räumen der Hochschule Emden/Leer zu versammeln.
-
-(5) Die Studierendenschaft ordnet ihre Angelegenheiten mit dieser Satzung.
+(3) Die Studierendenschaft ordnet ihre Angelegenheiten mit dieser Satzung.
 
 ### § 2 Aufgaben
 
@@ -55,6 +51,10 @@ Die Aufgaben der Studierendenschaft umfassen insbesondere:
 (3) Jedes Mitglied der Studierendenschaft hat das Recht auf Informationen über alle Vorgänge innerhalb der Studierendenschaft, soweit sie nicht vertraulich sind.
 
 (4) Jedes Mitglied der Studierendenschaft ist verpflichtet, einen finanziellen Beitrag für die Studierendenschaft zu leisten.
+
+(5) Mit der Immatrikulation an der Hochschule Emden/Leer unterliegt jede Studentin und jeder Student den Bestimmungen dieser Satzung.
+
+(6) Die Mitglieder der Studierendenschaft haben das Recht, sich zur Wahrnehmung ihrer Interessen in den Räumen der Hochschule Emden/Leer zu versammeln.
 
 ### § 5 Wahlrecht
 
