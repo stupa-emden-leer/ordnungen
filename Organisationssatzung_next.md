@@ -128,7 +128,7 @@ Die Aufgaben der Studierendenschaft umfassen insbesondere:
 
 ### § 9 Begriffsbestimmung
 
-(1) Das Studierendenparlament (StuPa) ist das oberste beschlussfassende (gewählte) Organ der Studierendenschaft.
+(1) Das Studierendenparlament (StuPa) ist das oberste beschlussfassende Organ der Studierendenschaft.
 
 (2) Die Mitglieder des Studierendenparlaments sind Vertreter der gesamten Studierendenschaft und an Weisungen und Aufträge Dritter nicht gebunden.
 
