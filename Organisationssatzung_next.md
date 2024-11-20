@@ -10,7 +10,7 @@ Aufgrund des § 20 Absatz 2 Satz 1 des Niedersächsischen Hochschulgesetzes vom 
 
 (1) Die Studierendenschaft der Hochschule Emden/Leer ist eine rechtsfähige Teilkörperschaft der Hochschule Emden/Leer mit dem Recht der Selbstverwaltung. Sie regelt ihre Angelegenheiten in eigener Verantwortung.
 
-(2) Mitglied der Studierendenschaft ist, wer zum Studium an der Hochschule Emden/Leer immatrikuliert ist.
+(2) Die immatrikulierten Studierenden der Hochschule Emden/Leer bilden die Studierendenschaft.
 
 (3) Die Studierendenschaft ordnet ihre Angelegenheiten mit dieser Satzung.
 
