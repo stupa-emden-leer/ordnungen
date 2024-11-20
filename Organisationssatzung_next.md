@@ -266,7 +266,7 @@ Der AStA tagt grundsätzlich alle zwei Wochen in der Vorlesungszeit.
 
 ### § 22 Geschäftsordnung
 
-(1) Der AStA gibt sich eine Geschäftsordnung. Diese muss vom Studierendenparlament mit einer Mehrheit von zwei Dritteln der anwesenden Mitglieder bestätigt werden.
+(1) Der AStA gibt sich eine Geschäftsordnung. Diese muss vom Studierendenparlament mit einer Mehrheit von zwei Dritteln der anwesenden Mitglieder beschlossen werden.
 
 (2) Die Geschäftsordnung des AStA trifft insbesondere Regelungen über Fristen und Form der Einladung, über die Aufstellung der Tagesordnung, über die Aufgaben des Vorsitzes, über das Verfahren bei Sitzungen, über die Beschlussfähigkeit sowie über das Protokoll.
 
