@@ -280,7 +280,7 @@ Der AStA tagt grundsätzlich alle zwei Wochen in der Vorlesungszeit.
 
 ### § 24 Zusammensetzung und Wahl
 
-(1) Der Fachschaftsrat besteht aus zwölf Mitgliedern. Für je angefangene 100 Studierende des jeweiligen Fachbereichs wird zusätzlich ein Mitglied gewählt.
+(1) Der Fachschaftsrat besteht aus 12 Mitgliedern. Für je angefangene 100 Studierende des jeweiligen Fachbereichs wird zusätzlich 1 Mitglied gewählt.
 
 (2) Der Fachschaftsrat wird von den Mitgliedern der jeweiligen Fachschaft in freier, gleicher und geheimer Wahl gewählt.
 
