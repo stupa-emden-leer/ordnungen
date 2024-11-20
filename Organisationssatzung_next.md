@@ -116,7 +116,7 @@ Die Aufgaben der Studierendenschaft umfassen insbesondere:
 
 (7) Bei einer Beteiligung von mehr als 10 und weniger als 30 Prozent der Studierenden haben die gefassten Beschlüsse ausschließlich empfehlenden Charakter.
 
-(8) Bei einer Beteiligung von mehr als 30 Prozent der Studierenden sind die Beschlüsse für die gewählten Organe der Studierendenschaft bindend.
+(8) Bei einer Beteiligung von mehr als 30 Prozent der Studierenden sind die Beschlüsse für die Organe der Studierendenschaft bindend.
 
 (9) Die Organisation und Durchführung der Urabstimmung obliegt der antragstellenden Person.
 
