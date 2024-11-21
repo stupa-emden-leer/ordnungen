@@ -44,7 +44,7 @@ Die Aufgaben der Studierendenschaft umfassen insbesondere:
 
 ### § 4 Rechte und Pflichten der Mitglieder
 
-(1) Jedes Mitglied der Studierendenschaft hat das Recht, sich an die Organe zu wenden und dort seine Meinung in Wort, Schrift und Bild frei zu äußern.
+(1) Jedes Mitglied der Studierendenschaft hat das Recht, sich an die Organe zu wenden und dorthin seine Meinung in Wort, Schrift und Bild frei zu äußern.
 
 (2) Jedes Mitglied der Studierendenschaft hat das Recht, im Rahmen der jeweiligen Geschäftsordnung, den Organen Anträge zur Beschlussfassung vorzulegen.
 
