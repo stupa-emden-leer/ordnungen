@@ -367,10 +367,11 @@ Für eine Satzungsänderung ist eine Mehrheit von zwei Dritteln der stimmberecht
 ### § 33 Ergänzungsordnungen
 
 Zur Ergänzung dieser Satzung beschließt das Studierendenparlament mit einer Mehrheit von zwei Dritteln der anwesenden Mitglieder eine:
-1. Beitragsordnung,
-2. Beschwerdeordnung,
+1. Geschäftsordnung,
+2. Beitragsordnung,
 3. Finanzordnung,
-4. Wahlordnung.
+4. Wahlordnung,
+5. Beschwerdeordnung.
 
 ### § 34 Sitz und Geschäftsstelle
 
