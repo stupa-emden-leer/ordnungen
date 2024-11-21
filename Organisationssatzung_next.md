@@ -98,9 +98,7 @@ Die Aufgaben der Studierendenschaft umfassen insbesondere:
 
 (1) Die Studierendenschaft kann über ihre Angelegenheiten in Form einer Urabstimmung beschließen.
 
-(2) In einer Urabstimmung können insbesondere Beschlüsse gefasst werden über:
-1. die Änderung dieser Satzung,
-2. die Änderung der Ergänzungsordnungen.
+(2) In einer Urabstimmung können insbesondere Beschlüsse gefasst werden über die Änderung dieser Satzung.
 
 (3) Der Urabstimmung geht eine Vollversammlung voraus, auf der über das Anliegen der Urabstimmung informiert wird.
 
