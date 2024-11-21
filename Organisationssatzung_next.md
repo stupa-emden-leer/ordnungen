@@ -182,7 +182,7 @@ Die regelmäßige Amtszeit der Mitglieder beträgt ein Jahr. Sie beginnt am 1. M
 3. des AStA oder
 4. eines Fachschaftsrates.
 
-(2) Der Vorstand beruft die konstituierende Sitzung ein und leitet die Sitzung bis zur Übergabe der Amtsgeschäfte an den neuen Vorstand. Näheres regelt die Geschäftsordnung des Studierendenparlaments.
+(2) Der amtierende Vorstand beruft die konstituierende Sitzung ein und leitet die Sitzung bis zur Übergabe der Amtsgeschäfte an den neuen Vorstand. Näheres regelt die Geschäftsordnung des Studierendenparlaments.
 
 ### § 15 Geschäftsordnung
 
@@ -328,7 +328,7 @@ Die regelmäßige Amtszeit der Mitglieder beträgt ein Jahr. Sie beginnt am 1. M
 3. des AStA oder
 4. eines Mitgliedes des Fachschaftsrates.
 
-(2) Der Vorsitz beruft die konstituierende Sitzung ein und leitet die Sitzung bis zur Übergabe der Amtsgeschäfte an den neuen Vorsitz. Näheres regelt die Geschäftsordnung des Fachschaftsrates.
+(2) Der amtierende Vorsitz beruft die konstituierende Sitzung ein und leitet die Sitzung bis zur Übergabe der Amtsgeschäfte an den neuen Vorsitz. Näheres regelt die Geschäftsordnung des Fachschaftsrates.
 
 ### § 29 Geschäftsordnung
 
