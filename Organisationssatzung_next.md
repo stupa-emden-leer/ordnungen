@@ -202,7 +202,7 @@ Die regelmäßige Amtszeit der Mitglieder beträgt ein Jahr. Sie beginnt am 1. M
 
 ### § 17 Zusammensetzung und Wahl
 
-(1) Der AStA besteht aus dem Vorstand und den Referaten. Der Vorstand besteht aus zwei Vorsitzenden und zwei Finanzreferenten.
+(1) Der AStA besteht aus dem Vorstand und den Referenten. Der Vorstand besteht aus zwei Vorsitzenden und zwei Finanzreferenten.
 
 (2) Für seine Handlungsfähigkeit muss der AStA mindestens aus dem Vorstand bestehen. Sollte die Bildung eines Vorstands aus dem AStA heraus nicht möglich sein, werden die vakanten Stellen vorübergehend nach Maßgabe des Studierendenparlaments besetzt.
 
