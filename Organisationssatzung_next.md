@@ -282,7 +282,7 @@ Der AStA tagt grundsätzlich alle zwei Wochen in der Vorlesungszeit.
 
 (2) Der Fachschaftsrat wird von den Mitgliedern der jeweiligen Fachschaft in freier, gleicher und geheimer Wahl gewählt.
 
-(3) Mitglieder des Vorstands und Kassenwarte des AStA dürfen nicht Mitglied eines Fachschaftsrates sein.
+(3) Vorstandsmitglieder und Kassenwarte des AStA dürfen nicht Mitglied eines Fachschaftsrates sein.
 
 ### § 25 Amtszeit
 
