@@ -6,7 +6,7 @@ Aufgrund des § 6 Absatz 7 der Organisationssatzung der Studierendenschaft der H
 
 ## § 1 Einreichung von Beschwerden
 
-(1) Diese Ordnung regelt Beschwerden gegen Fachschäftsräte, den AStA und das Studierendenparlament.
+(1) Diese Ordnung regelt Beschwerden gegen Fachschaftsräte, den AStA und das Studierendenparlament.
 
 (2) Beschwerden können formlos beim jeweils gemäß § 6 der Organisationssatzung zuständigen Gremium eingereicht werden. Die Schriftform ist erforderlich.
 
@@ -35,7 +35,7 @@ Aufgrund des § 6 Absatz 7 der Organisationssatzung der Studierendenschaft der H
 4. das Gremium entscheidet über Zulassung oder Abweisung der Beschwerde,
 5. das Gremium entscheidet über Konsequenzen.
 
-(2) Abweichungen von Absatz 1 können nach Erwägung des Gremiums.
+(2) Abweichungen von Absatz 1 können nach Erwägung des Gremiums beschlossen werden.
 
 (3) Abgewiesene Beschwerden müssen nicht zwingend veröffentlicht werden.
 
