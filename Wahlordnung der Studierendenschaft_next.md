@@ -70,9 +70,9 @@ Alle Studierenden, die für dasselbe Organ der Studierendenschaft wahlberechtigt
 (1) Die Wahlleitung hat die Wahl durch eine Wahlausschreibung zu Beginn der 41. Kalenderwoche bekannt zu machen. Die Wahlausschreibung muss enthalten:
 1. die zu wählenden studentischen Organe,
 2. den vom Wahlausschuss festgelegten Wahlzeitraum,
-3. die Aufforderung zur Einsichtnahme in das Wählerverzeichnis nach § 5 Abs. 6 mit dem Hinweis auf die Möglichkeit, bis zum Mittwoch der 43. Woche Einspruch einzulegen,
-4. die Frist für nachträgliche Eintragungen nach § 6 Abs. 1
-5. die Aufforderung zur Einreichung von Wahlvorschlägen nach § 8 Abs. 2 und 3 unter der Angabe der Anzahl der Sitzung und der Wahlbereiche.
+3. die Aufforderung zur Einsichtnahme in das Wählerverzeichnis nach § 5 Absatz 6 mit dem Hinweis auf die Möglichkeit, bis zum Mittwoch der 43. Woche Einspruch einzulegen,
+4. die Frist für nachträgliche Eintragungen nach § 6 Absatz 1
+5. die Aufforderung zur Einreichung von Wahlvorschlägen nach § 8 Absatz 2 und 3 unter der Angabe der Anzahl der Sitzung und der Wahlbereiche.
 
 (2) Mit der Wahlausschreibung können andere Bekanntmachungen verbunden werden.
 
@@ -129,9 +129,9 @@ Die bisher eingereichten zugelassenen Wahlvorschläge für die nach Satz 1 Numme
 (1) Die Wahlleitung veröffentlicht in der Wahlbekanntmachung
 1. den Wahlzeitraum, die Wahlräume und die Tageszeiten der Stimmabgabe.
 2. die Regelungen für die Stimmabgabe und die Briefwahl mit Angabe der Frist für die Briefwahlanträge,
-3. den Text der §§ 12 – 14 dieser Ordnung,
+3. den Text der §§ 12 bis 14 dieser Ordnung,
 4. die zugelassenen Wahlvorschläge,
-5. die Feststellungen der Wahlleitung nach § 10 Abs. 1 und 2.
+5. die Feststellungen der Wahlleitung nach § 10 Absatz 1 und 2.
 
 (2) Die Wahl wird vom Beginn der 47. Kalenderwoche bis zum Ende des Wahlzeitraums gemäß § 20 öffentlich bekannt gemacht.
 
