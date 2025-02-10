@@ -133,7 +133,7 @@ Die bisher eingereichten zugelassenen Wahlvorschläge für die nach Satz 1 Numme
 4. die zugelassenen Wahlvorschläge,
 5. die Feststellungen der Wahlleitung nach § 10 Abs. 1 und 2.
 
-(2) Die Wahl wird vom Beginn der 47. Kalenderwoche bis zum Ende des Wahlzeitraums gemäß § 19 öffentlich bekannt gemacht.
+(2) Die Wahl wird vom Beginn der 47. Kalenderwoche bis zum Ende des Wahlzeitraums gemäß § 20 öffentlich bekannt gemacht.
 
 ## § 12 Stimmzettel
 
@@ -290,7 +290,7 @@ Wenn eine Nachwahl notwendig ist, stellt dies der Wahlausschuss fest. Zugleich b
 
 (2) Der Wahlausschuss kann von Amts wegen jederzeit eine Wahlprüfung einleiten.
 
-(3) Gewählte oder Ersatzkandidatinnen oder -kandidaten, die von einer Entscheidung des Wahlausschusses betroffen sein können, sind am Verfahren zu beteiligen. Hiervon kann abgesehen werden, wenn die Feststellung des Wahlausschusses bestätigt werden soll. Führt der Wahleinspruch zu einer Änderung des Wahlergebnisses, stellt der Wahlausschuss das Wahlergebnis entsprechend der berichtigten Auszählung neu fest. Kann ein richtiges Wahlergebnis nicht mit Sicherheit ermittelt werden, ist entsprechend § 17 Absatz 1 Satz 2 und 3 zu verfahren.
+(3) Gewählte oder Ersatzkandidatinnen oder -kandidaten, die von einer Entscheidung des Wahlausschusses betroffen sein können, sind am Verfahren zu beteiligen. Hiervon kann abgesehen werden, wenn die Feststellung des Wahlausschusses bestätigt werden soll. Führt der Wahleinspruch zu einer Änderung des Wahlergebnisses, stellt der Wahlausschuss das Wahlergebnis entsprechend der berichtigten Auszählung neu fest. Kann ein richtiges Wahlergebnis nicht mit Sicherheit ermittelt werden, ist entsprechend § 18 Absatz 1 Satz 2 und 3 zu verfahren.
 
 (4) Die Wahlleitung gibt die Entscheidung dem Hochschulmitglied, das den Einspruch erhoben hat, sowie allen, die als Gewählte oder Ersatzkandidatinnen oder -kandidaten von der Entscheidung betroffen sind, bekannt.
 
