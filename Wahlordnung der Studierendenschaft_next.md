@@ -71,7 +71,7 @@ Alle Studierenden, die für dasselbe Organ der Studierendenschaft wahlberechtigt
 1. die zu wählenden studentischen Organe,
 2. den vom Wahlausschuss festgelegten Wahlzeitraum,
 3. die Aufforderung zur Einsichtnahme in das Wählerverzeichnis nach § 5 Absatz 6 mit dem Hinweis auf die Möglichkeit, bis zum Mittwoch der 43. Woche Einspruch einzulegen,
-4. die Frist für nachträgliche Eintragungen nach § 6 Absatz 1
+4. die Frist für nachträgliche Eintragungen nach § 6 Absatz 1,
 5. die Aufforderung zur Einreichung von Wahlvorschlägen nach § 8 Absatz 2 und 3 unter der Angabe der Anzahl der Sitzung und der Wahlbereiche.
 
 (2) Mit der Wahlausschreibung können andere Bekanntmachungen verbunden werden.
@@ -127,7 +127,7 @@ Die bisher eingereichten zugelassenen Wahlvorschläge für die nach Satz 1 Numme
 ## § 11 Wahlbekanntmachung
 
 (1) Die Wahlleitung veröffentlicht in der Wahlbekanntmachung
-1. den Wahlzeitraum, die Wahlräume und die Tageszeiten der Stimmabgabe.
+1. den Wahlzeitraum, die Wahlräume und die Tageszeiten der Stimmabgabe,
 2. die Regelungen für die Stimmabgabe und die Briefwahl mit Angabe der Frist für die Briefwahlanträge,
 3. den Text der §§ 12 bis 14 dieser Ordnung,
 4. die zugelassenen Wahlvorschläge,
@@ -164,8 +164,8 @@ Die bisher eingereichten zugelassenen Wahlvorschläge für die nach Satz 1 Numme
 ## § 14 Briefwahl
 
 (1) Wird nach § 1 Absatz 2 eine Urnenwahl oder elektronische Wahl durchgeführt, können Wahlberechtigte ihr Wahlrecht durch Briefwahl ausüben, wenn sie das bei der Wahlleitung bis zum Mittwoch der 47. Kalenderwoche beantragen. Briefwahlunterlagen werden Wahlberechtigten ausgehändigt oder zugesandt, nachdem ein Briefwahlvermerk in das Wählerverzeichnis aufgenommen worden ist. Briefwahlunterlagen sind
-- die Stimmzettel mit einem Stimmzettelumschlag,
-- der Wahlbrief und das Anschreiben zur Briefwahl und die Briefwahlerläuterungen.
+1. die Stimmzettel mit einem Stimmzettelumschlag,
+2. der Wahlbrief und das Anschreiben zur Briefwahl und die Briefwahlerläuterungen.
 
 (2) Zur Stimmabgabe werden für jede Wahl Stimmzettel von den Briefwählern persönlich und unbeobachtet gekennzeichnet und im Stimmzettelumschlag mit einer entsprechenden Erklärung unter dem Wahlschein persönlich bei der Wahlleitung abgegeben oder im Wahlbriefumschlag zugesandt.
 
@@ -175,7 +175,7 @@ Die bisher eingereichten zugelassenen Wahlvorschläge für die nach Satz 1 Numme
 
 (5) Eine Stimme gilt als nicht abgegeben, wenn
 1. dem Wahlbrief kein gültiger Wahlschein beigefügt ist,
-2. die Erklärung entsprechend Absatz 2 fehlt.
+2. die Erklärung entsprechend Absatz 2 fehlt,
 3. die Briefwählerin oder der Briefwähler gegen die Briefwahlregelung verstoßen hat und deswegen nicht sichergestellt ist, dass der Stimmzettel ohne vorherige Einsichtnahme in die Wahlurne gebracht werden kann.
 
 Die betreffenden Stimmzettel werden zu den Wahlunterlagen genommen.
