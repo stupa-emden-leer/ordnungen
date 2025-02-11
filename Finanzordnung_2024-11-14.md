@@ -8,7 +8,7 @@ Kontoinhaber der Studierendenschaft ist „Die Studierendenschaft der Hochschule
 
 Aus Gründen der Lesbarkeit wird in dieser Ordnung die feminine Form verwendet. Alle anderen Geschlechtsformen sind mitgemeint.
 
-Gültig sind die „Rahmenvorgaben für die Finanzordnung der Studierendenschaft“ gemäß § 20 Absatz 4 des Niedersächsischen Hochschulgesetzes vom 18.01.2024, die diesem Dokument angehängt sind.
+Gültig sind die „Rahmenvorgaben für die Finanzordnung der Studierendenschaft“ gemäß § 20 Absatz 4 des Niedersächsischen Hochschulgesetzes vom 18. Januar 2024, die diesem Dokument angehängt sind.
 
 ## § 1 Beginn und Ende des Haushaltsjahres
 
