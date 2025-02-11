@@ -1,4 +1,4 @@
-# Finanzordnung der Studierendenschaft der Hochschule Emden/Leer
+# Finanzordnung der Studierendenschaft der Hochschule Emden/Leer (Finanzordnung – FinanzO)
 
 Vom 14. November 2024
 
