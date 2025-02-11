@@ -4,11 +4,11 @@ Vom 14. November 2024
 
 Aufgrund des § 20 Absatz 4 des Niedersächsischen Hochschulgesetzes vom 26. Februar 2007 (Nds. GVBl. S. 69), zuletzt geändert durch Artikel 12 des Gesetzes vom 14. Dezember 2023 (Nds. GVBl. S. 320), der Organisationssatzung der Studierendenschaft der Hochschule Emden/Leer vom 19. Oktober 2023 und der Rahmenvorgaben für die Finanzordnung der Studierendenschaft vom 18. Januar 2024 hat das Studierendenparlament der Hochschule Emden/Leer am 14. November 2024 die folgende Finanzordnung der Studierendenschaft der Hochschule Emden/Leer beschlossen:
 
+Gültig sind die „Rahmenvorgaben für die Finanzordnung der Studierendenschaft“ gemäß § 20 Absatz 4 des Niedersächsischen Hochschulgesetzes vom 18. Januar 2024, die diesem Dokument angehängt sind.
+
 Kontoinhaber der Studierendenschaft ist „Die Studierendenschaft der Hochschule Emden/Leer, vertreten durch den Allgemeinen Studierendenausschuss“.
 
 Aus Gründen der Lesbarkeit wird in dieser Ordnung die feminine Form verwendet. Alle anderen Geschlechtsformen sind mitgemeint.
-
-Gültig sind die „Rahmenvorgaben für die Finanzordnung der Studierendenschaft“ gemäß § 20 Absatz 4 des Niedersächsischen Hochschulgesetzes vom 18. Januar 2024, die diesem Dokument angehängt sind.
 
 ## § 1 Beginn und Ende des Haushaltsjahres
 
