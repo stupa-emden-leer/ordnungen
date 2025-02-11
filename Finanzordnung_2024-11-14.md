@@ -6,6 +6,8 @@ Aufgrund des § 20 Absatz 4 des Niedersächsischen Hochschulgesetzes vom 26. Feb
 
 Gültig sind die „Rahmenvorgaben für die Finanzordnung der Studierendenschaft“ gemäß § 20 Absatz 4 des Niedersächsischen Hochschulgesetzes vom 18. Januar 2024, die diesem Dokument angehängt sind.
 
+## Präambel
+
 Kontoinhaber der Studierendenschaft ist „Die Studierendenschaft der Hochschule Emden/Leer, vertreten durch den Allgemeinen Studierendenausschuss“.
 
 Aus Gründen der Lesbarkeit wird in dieser Ordnung die feminine Form verwendet. Alle anderen Geschlechtsformen sind mitgemeint.
