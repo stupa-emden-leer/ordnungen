@@ -22,6 +22,8 @@ Nachfolgende Rahmenvorgaben sind, ergänzend zu den Maßgaben der § 105 bis 112
 
 10. Kreditkarten sind, da nicht dem ‚Vier-Augen-Prinzip’ genügend, nicht zulässig. Eine Ausnahme stellen Karten zum Ausdruck von Kontobelegen (d. h. ohne PIN Nummer und damit ohne Berechtigung zur Bargeldabhebung) dar. Sparbücher oder Ähnliches sind ebenfalls nicht zulässig.
 
+11. Barschecks, z. B. zur Beschaffung von Bargeld für die Kasse, sind wie Bargeld gesichert zu verwahren.
+
 12. a. Verbliebene Haushaltsmittel aus Vorjahren (Mittelreste) sind gänzlich im neuen Haushaltplan anzusetzen.
 
 b. Dabei können geplante Mittelbindungen für 1 nachfolgendes Haushaltsjahr als Ausnahme (mit prüffähiger Begründung als Anlage beim geplanten folgenden Haushaltsplan) bis zu maximal 30% der geplanten Einnahmen aus ASTA Beiträgen des zu planenden folgenden Haushaltsjahr genehmigt werden.
@@ -35,6 +37,8 @@ e. Der vom StuPa festzustellenden Haushaltsplan ist mindestens 1 Monat vor dem B
 f. Sollte die Genehmigung nicht zu Beginn des Haushaltsjahres, d.h. zum 01.03. vorliegen, greift automatisch die vorläufige Haushaltsführung. Dies hat zur Folge, dass nur rechtlich begründete (und nachweispflichtige) Verpflichtungen erfüllt und nur solche Ausgaben geleistet werden dürfen, die zur Erfüllung der Aufgaben der Studierendenschaft unabweisbar notwendig sind.
 
 g. Nach dem Ende des Haushaltsjahres überlässt der ASTA, bis zum Ende des Folgemonats des abgelaufenden Haushaltsjahres, einen zu erstellenden Abschluss, der für das Präsidium prüfenden Organisationseinheit der Hochschule (z.Zt. die Abteilung Finanzen). Verspätungen sind vorher begründet anzumelden und können zur vorläufigen Haushaltssperre führen. Pauschalisierte Auslagenerstattungen, bei ehrenamtlich tätigen ASTA und StuPa Mitgliedern, sind auf Basis einer durch den StuPa genehmigten Ordnung zu zahlen. Bis zur Höhe der steuerbefreiten monatlichen Pauschale nach § 3 Nr. 12 Satz 2 EStG, ist eine Herleitung (im Sinne von Werbungskosten) nicht erforderlich. Erstattungen für mehrere Tätigkeiten sind zu kumulieren. Sollte eine Herleitung erforderlich sein, ist diese durch den StuPa zu genehmigen. Bei Vorliegen von Einzelnachweisen entfällt diese Herleitung.
+
+13. Pauschalisierte Auslagenerstattungen, bei ehrenamtlich tätigen ASTA und StuPa Mitgliedern, sind auf Basis einer durch den StuPa genehmigten Ordnung zu zahlen. Bis zur Höhe der steuerbefreiten monatlichen Pauschale nach § 3 Nr. 12 Satz 2 EStG, ist eine Herleitung (im Sinne von Werbungskosten) nicht erforderlich. Erstattungen für mehrere Tätigkeiten sind zu kumulieren. Sollte eine Herleitung erforderlich sein, ist diese durch den StuPa zu genehmigen. Bei Vorliegen von Einzelnachweisen entfällt diese Herleitung.
 
 14. Sponsoringvorgänge sind in Gänze (Einhaltung von Landes- und steuerlichen Vorgaben) über ein Steuerberatungsbüro oder Ähnliches abzuwickeln. Die generelle Abwicklung oder deren Änderung von Spendeneingängen ist mit der Leitung der Finanzbuchhaltung der Hochschule im Vorfeld abzustimmen.
 
