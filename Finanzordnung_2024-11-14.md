@@ -113,7 +113,7 @@ Constantiaplatz 4
 
 (2) Alle Geschäftsvorfälle bedürfen der Schriftform. Verträge haben dem Vier-Augen-Prinzip zu entsprechen und sind vom Vorstand zu zeichnen.
 
-(3) Finanztechnisch relevante Vorgänge mit einer Laufzeit über einem Jahr, oder Vorgänge außerhalb des genehmigten Haushaltsplans, sind begründet und vom StuPa genehmigt aktenkundig zu machen und bei der jährlichen Prüfung durch die Hochschulleitung vorzulegen. Geplante Beteiligungen und Ausgründungen sind rechtzeitig schriftlich und begründet der Hochschulleitung, zur Prüfung und Freigabe, anzuzeigen.
+(3) Finanztechnisch relevante Vorgänge mit einer Laufzeit über einem Jahr oder Vorgänge außerhalb des genehmigten Haushaltsplans sind begründet und vom StuPa genehmigt aktenkundig zu machen und bei der jährlichen Prüfung durch die Hochschulleitung vorzulegen. Geplante Beteiligungen und Ausgründungen sind rechtzeitig schriftlich und begründet der Hochschulleitung zur Prüfung und Freigabe anzuzeigen.
 
 (4) Betriebe gewerblicher Art sind getrennt zu führen und durch ein Steuerberatungsbüro oder vergleichbaren Einrichtungen zu prüfen.
 
