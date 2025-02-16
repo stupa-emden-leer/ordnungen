@@ -105,7 +105,7 @@ Constantiaplatz 4
 
 (3) Bei den genannten Beträgen handelt es sich um Bruttobeträge.
 
-(4) Auf Grund von Datenschutzgründen sind hiervon die Sozial- und Studiendarlehen ausgenommen. Hierzu existiert mit der Darlehensordnung eine eigene Ordnung.
+(4) Aufgrund von Datenschutzgründen sind hiervon die Sozial- und Studiendarlehen ausgenommen. Hierzu existiert mit der Darlehensordnung eine eigene Ordnung.
 
 ## § 10 Buchführung
 
