@@ -180,7 +180,7 @@ stattgefunden haben, um die Modalitäten der Abrechnung von Handkassen und der B
 
 (4) Personen, die nicht nach Absatz 3 zur Auslösung betriebswirtschaftlicher Geschäftsvorfälle berechtigt sind, haben nur die Möglichkeit zur Nutzung eines personenbezogenen Vorschusses.
 
-(5) Die in Absatz 1 benannten Personen beurkunden die Kenntnisse dieser Ordnung mit einer Unterschrift gegenüber dem Studierendenparlament. Wird ein unter Absatz 1 genannter Posten neu besetzt, wird die Beibringung der Kenntnis innerhalb von 4 Wochen oder bis zur nächsten ordentlichen Sitzung des Studierendenparlaments fällig, je nachdem welche Frist später endet.
+(5) Die in Absatz 1 benannten Personen beurkunden die Kenntnisse dieser Ordnung mit einer Unterschrift gegenüber dem Studierendenparlament. Wird ein unter Absatz 1 genannter Posten neu besetzt, wird die Beibringung der Kenntnis innerhalb von 4 Wochen oder bis zur nächsten ordentlichen Sitzung des Studierendenparlaments fällig, je nachdem, welche Frist später endet.
 
 ## § 15 Handlung bei Verstößen gegen die Finanzordnung
 
