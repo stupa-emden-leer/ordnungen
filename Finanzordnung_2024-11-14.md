@@ -29,7 +29,7 @@ Aus Gründen der Lesbarkeit wird in dieser Ordnung die feminine Form verwendet. 
 
 (2) Bei Änderung der Besetzung des AStA-Vorstands ist dem StuPa durch den AStA-Vorstand innerhalb von zwei Wochen ein Schriftstück der Bank vorzuweisen, in dem der Entzug der Zeichnungsberechtigung des scheidenden Vorstandsmitglieds bestätigt wird.
 
-(3) Alle Mitglieder des AStA sind namentlich, mit Angabe des Aufgabenbereichs (hierbei ist immer eine Bankvollmacht und/oder die Berechtigung zur Zahlbarmachung, das heißt Freizeichnung, anzugeben) in einer Liste zu erfassen. Diese ist jeweils zum Anfang des Semesters der Hochschulleitung schriftlich zur Kenntnis zu geben. Nur AStA-Mitglieder (keine Angestellten) mit der Berechtigung zur Zahlbarmachung dürfen eine Bankvollmacht erhalten. Bei Exmatrikulation sind diese Berechtigungen spätestens innerhalb von zwei Wochen zu löschen.
+(3) Alle Mitglieder des AStA sind namentlich, mit Angabe des Aufgabenbereichs (hierbei ist immer eine Bankvollmacht und/oder die Berechtigung zur Zahlbarmachung, das heißt Freizeichnung, anzugeben), in einer Liste zu erfassen. Diese ist jeweils zum Anfang des Semesters der Hochschulleitung schriftlich zur Kenntnis zu geben. Nur AStA-Mitglieder (keine Angestellten) mit der Berechtigung zur Zahlbarmachung dürfen eine Bankvollmacht erhalten. Bei Exmatrikulation sind diese Berechtigungen spätestens innerhalb von zwei Wochen zu löschen.
 
 ## § 3 Neubesetzung des Finanzreferates
 
