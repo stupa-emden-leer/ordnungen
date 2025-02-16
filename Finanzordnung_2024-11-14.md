@@ -52,7 +52,7 @@ Constantiaplatz 4
 
 (3) Sollte die Genehmigung nicht zu Beginn des Haushaltsjahres, das heißt zum 1. März, vorliegen, greift automatisch die vorläufige Haushaltsführung. Dies hat zur Folge, dass nur rechtlich begründete (und nachweispflichtige) Verpflichtungen erfüllt und nur solche Ausgaben geleistet werden dürfen, die zur Erfüllung der Aufgaben der Studierendenschaft unabweisbar notwendig sind.
 
-(4) Nach dem Ende des Haushaltsjahres überlässt der AStA bis zum Ende des Folgemonats des abgelaufenden Haushaltsjahres einen zu erstellenden Abschluss der für das Präsidium prüfenden Organisationseinheit der Hochschule (zurzeit die Abteilung Finanzen). Verspätungen sind vorher begründet anzumelden und können zur vorläufigen Haushaltssperre führen.
+(4) Nach dem Ende des Haushaltsjahres überlässt der AStA bis zum Ende des Folgemonats des abgelaufenen Haushaltsjahres einen zu erstellenden Abschluss der für das Präsidium prüfenden Organisationseinheit der Hochschule (zurzeit die Abteilung Finanzen). Verspätungen sind vorher begründet anzumelden und können zur vorläufigen Haushaltssperre führen.
 
 (5) Verbliebene Haushaltsmittel aus Vorjahren (Mittelreste) sind gänzlich im neuen Haushaltplan anzusetzen. Dabei können geplante Mittelbindungen für ein nachfolgendes Haushaltsjahr als Ausnahme (mit prüffähiger Begründung als Anlage beim geplanten folgenden Haushaltsplan) bis zu maximal 30 % der geplanten Einnahmen aus AStA-Beiträgen des zu planenden folgenden Haushaltsjahr genehmigt werden.
 
