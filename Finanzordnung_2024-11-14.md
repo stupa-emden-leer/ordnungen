@@ -78,7 +78,7 @@ Constantiaplatz 4
 
 (2) Die Budgets der einzelnen Fachschaftsräte berechnen sich wie folgt:
 
-1. Jeder Fachschaftsrat hat einen Fixbetrag von 1.000,00 Euro pro Haushaltsjahr zur Verfügung,
+1. jeder Fachschaftsrat hat einen Fixbetrag von 1.000,00 Euro pro Haushaltsjahr zur Verfügung,
 2. der Rest der im Haushalt bereitgestellten Summe wird prozentual, gemessen an der aktuellen Anzahl der im jeweiligen Fachbereich bzw. der jeweiligen Abteilung eingeschriebenen Studierenden zur Gesamtzahl aller Studierenden der Hochschule Emden/Leer, aufgeteilt.
 
 (3) Der AStA hat keine Weisungsbefugnis über die Budgets der Fachschaftsräte.
@@ -97,7 +97,7 @@ Constantiaplatz 4
 
 (1) Zur Bewilligung von Ausgaben ist je nach Betrag ausreichend:
 
-1. Unter 200,00 Euro: Abstimmung im jeweiligen Gremium,
+1. unter 200,00 Euro: Abstimmung im jeweiligen Gremium,
 2. ab 200,00 Euro: Entweder ist das Einholen von 3 Vergleichsangeboten zur Prüfung der Wirtschaftlichkeit oder die Nennung von Alleinstellungskriterien notwendig. Diese sind als Anlage dem Ursprungsbeleg beizulegen,
 3. ab 1.000,00 Euro: Einreichen eines durch das Gremium bestätigten Antrages zur Bewilligung beim Studierendenparlament. Die Vergleichsangebote bzw. Alleinstellungskriterien sind als Anlage beizufügen.
 
