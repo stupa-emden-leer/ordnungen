@@ -141,7 +141,7 @@ Constantiaplatz 4
 
 (1) Der AStA verfügt über eine Kasse.
 
-(2) Die Kasse wird zum gleichen Zeitpunkt jeweils nur von einer Kassenführerin (AStA-Mitglied oder Angestellte) gemäß unterschriebener Kassenanweisung geführt. Die Kasse darf nicht von zwei, oder mehreren, Kassenführerinnen gleichzeitig geführt werden.
+(2) Die Kasse wird zum gleichen Zeitpunkt jeweils nur von einer Kassenführerin (AStA-Mitglied oder Angestellte) gemäß unterschriebener Kassenanweisung geführt. Die Kasse darf nicht von zwei oder mehreren Kassenführerinnen gleichzeitig geführt werden.
 
 (3) Übergaben sind im Kassenbuch schriftlich anzugeben und die betreffende Seite dann abzuschließen.
 
