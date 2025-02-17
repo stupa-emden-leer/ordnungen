@@ -98,7 +98,7 @@ Constantiaplatz 4
 (1) Zur Bewilligung von Ausgaben ist je nach Betrag ausreichend:
 
 1. unter 200,00 Euro: Abstimmung im jeweiligen Gremium,
-2. ab 200,00 Euro: Entweder ist das Einholen von 3 Vergleichsangeboten zur Prüfung der Wirtschaftlichkeit oder die Nennung von Alleinstellungskriterien notwendig. Diese sind als Anlage dem Ursprungsbeleg beizulegen,
+2. ab 200,00 Euro: Entweder ist das Einholen von drei Vergleichsangeboten zur Prüfung der Wirtschaftlichkeit oder die Nennung von Alleinstellungskriterien notwendig. Diese sind als Anlage dem Ursprungsbeleg beizulegen,
 3. ab 1.000,00 Euro: Einreichen eines durch das Gremium bestätigten Antrages zur Bewilligung beim Studierendenparlament. Die Vergleichsangebote bzw. Alleinstellungskriterien sind als Anlage beizufügen.
 
 (2) Bei gegebener Dringlichkeit ist bis zu einer Ausgabe in Höhe von 100,00 Euro eine Entscheidung des jeweiligen Vorstandes ausreichend.
