@@ -34,7 +34,7 @@ c. Überschreiten die geplanten Einnahmen (inklusive geplanter Mittelreste) die 
 
 d. Geplante Änderungen der Finanz- und Beitragsordnung (z. B. kalkulierte, angemessene und begründete Anpassungen des ASTA Beitrages) sind mindestens 1 Monat vor Inkrafttreten und Veröffentlichung schriftlich und begründet dem/r hauptberuflichen Vizepräsident/in der Hochschule zur Prüfung und Genehmigung anzuzeigen. Die Veröffentlichungen der Änderungen haben für alle Studenten erkennbar rechtzeitig, ordnungsgemäß und angemessen zu erfolgen. Eine rückwirkende Veröffentlichung ist nicht zulässig.
 
-e. Der vom StuPa festzustellenden Haushaltsplan ist mindestens 1 Monat vor dem Beginn des neuen Haushaltsjahres schriftlich und begründet dem/r hauptberuflichen Vizepräsident/in der Hochschule zur Prüfung und Genehmigung anzuzeigen
+e. Der vom StuPa festzustellenden Haushaltsplan ist mindestens 1 Monat vor dem Beginn des neuen Haushaltsjahres schriftlich und begründet dem/r hauptberuflichen Vizepräsident/in der Hochschule zur Prüfung und Genehmigung anzuzeigen.
 
 f. Sollte die Genehmigung nicht zu Beginn des Haushaltsjahres, d.h. zum 01.03. vorliegen, greift automatisch die vorläufige Haushaltsführung. Dies hat zur Folge, dass nur rechtlich begründete (und nachweispflichtige) Verpflichtungen erfüllt und nur solche Ausgaben geleistet werden dürfen, die zur Erfüllung der Aufgaben der Studierendenschaft unabweisbar notwendig sind.
 
