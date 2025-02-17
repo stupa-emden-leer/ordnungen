@@ -54,7 +54,7 @@ Constantiaplatz 4
 
 (4) Nach dem Ende des Haushaltsjahres überlässt der AStA bis zum Ende des Folgemonats des abgelaufenen Haushaltsjahres einen zu erstellenden Abschluss der für das Präsidium prüfenden Organisationseinheit der Hochschule (zurzeit die Abteilung Finanzen). Verspätungen sind vorher begründet anzumelden und können zur vorläufigen Haushaltssperre führen.
 
-(5) Verbliebene Haushaltsmittel aus Vorjahren (Mittelreste) sind gänzlich im neuen Haushaltplan anzusetzen. Dabei können geplante Mittelbindungen für ein nachfolgendes Haushaltsjahr als Ausnahme (mit prüffähiger Begründung als Anlage beim geplanten folgenden Haushaltsplan) bis zu maximal 30 % der geplanten Einnahmen aus AStA-Beiträgen des zu planenden folgenden Haushaltsjahr genehmigt werden.
+(5) Verbliebene Haushaltsmittel aus Vorjahren (Mittelreste) sind gänzlich im neuen Haushaltsplan anzusetzen. Dabei können geplante Mittelbindungen für ein nachfolgendes Haushaltsjahr als Ausnahme (mit prüffähiger Begründung als Anlage beim geplanten folgenden Haushaltsplan) bis zu maximal 30 % der geplanten Einnahmen aus AStA-Beiträgen des zu planenden folgenden Haushaltsjahr genehmigt werden.
 
 (6) Überschreiten die geplanten Einnahmen (inklusive geplanter Mittelreste) die für das folgende Haushaltsjahr begründbaren und benötigten Ausgaben gemäß Haushaltsplan, ist der AStA-Beitrag zeitnah für das zu erreichende Semester zu mindern.
 
