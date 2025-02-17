@@ -145,7 +145,7 @@ Constantiaplatz 4
 
 (3) Übergaben sind im Kassenbuch schriftlich anzugeben und die betreffende Seite dann abzuschließen.
 
-(4) Der Bargeldbestand muss angemessen (max. 1.000,00 Euro) und versichert sein. Notwendige kurzfristige höhere Bargeldbestände (zum Beispiel vor und nach Veranstaltungen) sind in ihrer Höhe und Dauer (maximal 4 Wochen) auf ein Minimum zu begrenzen.
+(4) Der Bargeldbestand muss angemessen (max. 1.000,00 Euro) und versichert sein. Notwendige kurzfristige höhere Bargeldbestände (zum Beispiel vor und nach Veranstaltungen) sind in ihrer Höhe und Dauer (maximal vier Wochen) auf ein Minimum zu begrenzen.
 
 (5) Vorschüsse, zum Beispiel an Studierende im Fachschaftsrat, sind zeitnah, spätestens innerhalb von sechs Monaten und/oder vor dem Haushaltsabschluss, wieder zu 100 % zu vereinnahmen (Restgeld und Ursprungsbelege). Nach Ablauf dieser Frist ist unmittelbar durch die Finanzerin, eine Rechnung zu versenden und bei eventuell anschließendem Zahlungsverzug (spätestens 30 Tage nach Rechnungsdatum) eine Mahnung zu veranlassen. Saldierungen, zum Beispiel im Zuge von Veranstaltungen, sind nicht zulässig.
 
