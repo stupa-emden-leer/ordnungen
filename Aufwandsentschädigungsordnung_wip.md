@@ -25,9 +25,9 @@ Die folgenden Mitglieder der Studierendenschaft erhalten eine Aufwandsentschädi
 
 ## § 3 Studierendenparlament
 
-(1) Die Mitglieder des Vorsitzes des Studierendenparlaments erhalten eine Aufwandsentschädigung.
+(1) Die Mitglieder des Vorstands des Studierendenparlaments erhalten eine Aufwandsentschädigung.
 
-(2) Die Höhe der Aufwandsentschädigung beträgt 100,00 Euro pro Monat für jedes Mitglied des Vorsitzes.
+(2) Die Höhe der Aufwandsentschädigung beträgt 100,00 Euro pro Monat für jedes Mitglied des Vorstands.
 
 ## § 4 Berechnung
 
