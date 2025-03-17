@@ -12,7 +12,7 @@ Die folgenden Mitglieder der Studierendenschaft erhalten eine Aufwandsentschädi
 
 (1) Die Mitglieder des Allgemeinen Studierendenausschusses erhalten eine Aufwandsentschädigung.
 
-(2) Die Höhe der Aufwandsentschädigung beträgt für:
+(2) Die Höhe der Aufwandsentschädigung beträgt für
 1. Mitglieder des Vorsitzes: 200,00 Euro pro Monat,
 2. Mitglieder des Vorstands: 160,00 Euro pro Monat,
 3. Referenten: 100,00 Euro pro Monat.
