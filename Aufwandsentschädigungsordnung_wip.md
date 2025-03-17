@@ -33,7 +33,7 @@ Die folgenden Mitglieder der Studierendenschaft erhalten eine Aufwandsentschädi
 
 (1) Beginnt oder endet die Amtszeit im Laufe eines Monats, wird die Aufwandsentschädigung anteilig nach Tagen berechnet. Die Berechnung erfolgt nach folgender Formel: Monatliche Aufwandsentschädigung × (Tage im Amt / Gesamtzahl der Tage im Monat)
 
-(2) Das Ergebnis wird kaufmännisch auf volle Euro gerundet (ab 0,50 Euro aufgerundet, unter 0,50 Euro abgerundet).
+(2) Das Ergebnis wird auf volle Euro gerundet (ab 0,50 Euro aufgerundet, unter 0,50 Euro abgerundet).
 
 ## § 5 Auszahlung
 
