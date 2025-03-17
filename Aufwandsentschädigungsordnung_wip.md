@@ -4,7 +4,7 @@ Vom Tag. Monat Jahr
 
 ## § 1 Anspruchsberechtigte
 
-Die folgende Mitglieder der Studierendenschaft erhalten eine Aufwandsentschädigung:
+Die folgenden Mitglieder der Studierendenschaft erhalten eine Aufwandsentschädigung:
 1. Mitglieder des Allgemeinen Studierendenausschusses nach § 2,
 2. Mitglieder des Vorsitzes des Studierendenparlaments nach § 3.
 
