@@ -17,11 +17,11 @@ Die folgenden Mitglieder der Studierendenschaft erhalten eine Aufwandsentschädi
 2. Mitglieder des Vorstands: 160,00 Euro pro Monat,
 3. Referenten: 100,00 Euro pro Monat.
 
-(3) Eine Kürzung der Aufwandsentschädigung für ein Mitglied ist in folgenden Fällen durch Beschluss des Studierendenparlaments oder des Vorstands des Allgemeinen Studierendenausschusses möglich:
+(3) Eine Kürzung der Aufwandsentschädigung ist in folgenden Fällen durch Beschluss des Studierendenparlaments oder des Vorstands des Allgemeinen Studierendenausschusses möglich:
 1. um bis zu 30 Prozent bei übermäßigem Ausbleiben der Bürozeit ohne zeitnahen Nachholtermin,
 2. um bis zu 20 Prozent bei übermäßiger Abwesenheit von Sitzungen des Allgemeinen Studierendenausschusses.
 
-(4) Eine Kürzung der Aufwandsentschädigung für ein Mitglied kann auch unabhängig von den in Absatz 3 genannten Fällen durch Beschluss des Studierendenparlaments bis zum 15. des Folgemonats erfolgen.
+(4) Eine Kürzung der Aufwandsentschädigung kann auch unabhängig von den in Absatz 3 genannten Fällen durch Beschluss des Studierendenparlaments bis zum 15. des Folgemonats erfolgen.
 
 ## § 3 Studierendenparlament
 
